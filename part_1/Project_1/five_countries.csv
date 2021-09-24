@@ -1,0 +1,4359 @@
+year,city,country,avg_temp
+1841,Adelaide,Australia,15.54
+1842,Adelaide,Australia,15.61
+1843,Adelaide,Australia,15.89
+1844,Adelaide,Australia,15.26
+1845,Adelaide,Australia,15.62
+1846,Adelaide,Australia,16.12
+1847,Adelaide,Australia,15.62
+1848,Adelaide,Australia,15.31
+1849,Adelaide,Australia,15.19
+1850,Adelaide,Australia,15.68
+1851,Adelaide,Australia,15.65
+1852,Adelaide,Australia,15.45
+1853,Adelaide,Australia,15.33
+1854,Adelaide,Australia,15.61
+1855,Adelaide,Australia,13.85
+1856,Adelaide,Australia,15.83
+1857,Adelaide,Australia,15.64
+1858,Adelaide,Australia,16.04
+1859,Adelaide,Australia,15.66
+1860,Adelaide,Australia,16.27
+1861,Adelaide,Australia,15.91
+1862,Adelaide,Australia,16.43
+1863,Adelaide,Australia,15.92
+1864,Adelaide,Australia,15.60
+1865,Adelaide,Australia,15.55
+1866,Adelaide,Australia,16.05
+1867,Adelaide,Australia,16.13
+1868,Adelaide,Australia,16.04
+1869,Adelaide,Australia,15.96
+1870,Adelaide,Australia,16.09
+1871,Adelaide,Australia,16.47
+1872,Adelaide,Australia,15.91
+1873,Adelaide,Australia,15.71
+1874,Adelaide,Australia,15.41
+1875,Adelaide,Australia,15.48
+1876,Adelaide,Australia,15.49
+1877,Adelaide,Australia,15.87
+1878,Adelaide,Australia,16.41
+1879,Adelaide,Australia,15.81
+1880,Adelaide,Australia,16.22
+1881,Adelaide,Australia,15.67
+1882,Adelaide,Australia,16.11
+1883,Adelaide,Australia,15.85
+1884,Adelaide,Australia,15.76
+1885,Adelaide,Australia,15.87
+1886,Adelaide,Australia,15.91
+1887,Adelaide,Australia,15.83
+1888,Adelaide,Australia,16.41
+1889,Adelaide,Australia,16.15
+1890,Adelaide,Australia,16.08
+1891,Adelaide,Australia,15.51
+1892,Adelaide,Australia,15.56
+1893,Adelaide,Australia,15.71
+1894,Adelaide,Australia,15.76
+1895,Adelaide,Australia,16.16
+1896,Adelaide,Australia,16.02
+1897,Adelaide,Australia,16.08
+1898,Adelaide,Australia,16.34
+1899,Adelaide,Australia,15.89
+1900,Adelaide,Australia,15.66
+1901,Adelaide,Australia,16.20
+1902,Adelaide,Australia,16.15
+1903,Adelaide,Australia,15.59
+1904,Adelaide,Australia,15.75
+1905,Adelaide,Australia,15.13
+1906,Adelaide,Australia,16.38
+1907,Adelaide,Australia,15.55
+1908,Adelaide,Australia,16.04
+1909,Adelaide,Australia,15.04
+1910,Adelaide,Australia,16.06
+1911,Adelaide,Australia,15.99
+1912,Adelaide,Australia,16.21
+1913,Adelaide,Australia,15.95
+1914,Adelaide,Australia,17.09
+1915,Adelaide,Australia,16.01
+1916,Adelaide,Australia,15.42
+1917,Adelaide,Australia,15.41
+1918,Adelaide,Australia,16.15
+1919,Adelaide,Australia,16.53
+1920,Adelaide,Australia,15.81
+1921,Adelaide,Australia,16.77
+1922,Adelaide,Australia,15.85
+1923,Adelaide,Australia,16.09
+1924,Adelaide,Australia,15.05
+1925,Adelaide,Australia,15.73
+1926,Adelaide,Australia,15.93
+1927,Adelaide,Australia,15.77
+1928,Adelaide,Australia,16.05
+1929,Adelaide,Australia,15.34
+1930,Adelaide,Australia,16.61
+1931,Adelaide,Australia,15.43
+1932,Adelaide,Australia,15.63
+1933,Adelaide,Australia,15.56
+1934,Adelaide,Australia,16.44
+1935,Adelaide,Australia,15.81
+1936,Adelaide,Australia,15.86
+1937,Adelaide,Australia,16.09
+1938,Adelaide,Australia,16.17
+1939,Adelaide,Australia,16.22
+1940,Adelaide,Australia,15.99
+1941,Adelaide,Australia,15.94
+1942,Adelaide,Australia,16.30
+1943,Adelaide,Australia,15.31
+1944,Adelaide,Australia,15.83
+1945,Adelaide,Australia,15.72
+1946,Adelaide,Australia,15.43
+1947,Adelaide,Australia,16.13
+1948,Adelaide,Australia,15.61
+1949,Adelaide,Australia,15.19
+1950,Adelaide,Australia,16.19
+1951,Adelaide,Australia,16.31
+1952,Adelaide,Australia,15.22
+1953,Adelaide,Australia,15.95
+1954,Adelaide,Australia,15.82
+1955,Adelaide,Australia,15.97
+1956,Adelaide,Australia,15.55
+1957,Adelaide,Australia,15.95
+1958,Adelaide,Australia,15.55
+1959,Adelaide,Australia,16.42
+1960,Adelaide,Australia,15.58
+1961,Adelaide,Australia,16.81
+1962,Adelaide,Australia,16.30
+1963,Adelaide,Australia,16.26
+1964,Adelaide,Australia,15.50
+1965,Adelaide,Australia,16.40
+1966,Adelaide,Australia,15.87
+1967,Adelaide,Australia,16.35
+1968,Adelaide,Australia,16.12
+1969,Adelaide,Australia,15.82
+1970,Adelaide,Australia,15.67
+1971,Adelaide,Australia,16.09
+1972,Adelaide,Australia,16.30
+1973,Adelaide,Australia,16.71
+1974,Adelaide,Australia,16.25
+1975,Adelaide,Australia,16.50
+1976,Adelaide,Australia,15.97
+1977,Adelaide,Australia,16.47
+1978,Adelaide,Australia,15.89
+1979,Adelaide,Australia,16.53
+1980,Adelaide,Australia,16.81
+1981,Adelaide,Australia,16.73
+1982,Adelaide,Australia,16.83
+1983,Adelaide,Australia,16.42
+1984,Adelaide,Australia,15.98
+1985,Adelaide,Australia,16.22
+1986,Adelaide,Australia,15.96
+1987,Adelaide,Australia,16.12
+1988,Adelaide,Australia,16.88
+1989,Adelaide,Australia,16.35
+1990,Adelaide,Australia,16.80
+1991,Adelaide,Australia,16.78
+1992,Adelaide,Australia,15.78
+1993,Adelaide,Australia,16.71
+1994,Adelaide,Australia,16.43
+1995,Adelaide,Australia,16.14
+1996,Adelaide,Australia,16.12
+1997,Adelaide,Australia,16.48
+1998,Adelaide,Australia,16.28
+1999,Adelaide,Australia,16.77
+2000,Adelaide,Australia,17.08
+2001,Adelaide,Australia,16.63
+2002,Adelaide,Australia,16.63
+2003,Adelaide,Australia,16.56
+2004,Adelaide,Australia,16.64
+2005,Adelaide,Australia,16.93
+2006,Adelaide,Australia,16.75
+2007,Adelaide,Australia,17.49
+2008,Adelaide,Australia,16.70
+2009,Adelaide,Australia,17.39
+2010,Adelaide,Australia,16.72
+2011,Adelaide,Australia,16.90
+2012,Adelaide,Australia,16.84
+2013,Adelaide,Australia,17.39
+1743,Belfast,United Kingdom,8.45
+1744,Belfast,United Kingdom,9.15
+1745,Belfast,United Kingdom,4.51
+1746,Belfast,United Kingdom,
+1747,Belfast,United Kingdom,
+1748,Belfast,United Kingdom,
+1749,Belfast,United Kingdom,
+1750,Belfast,United Kingdom,9.22
+1751,Belfast,United Kingdom,8.71
+1752,Belfast,United Kingdom,7.09
+1753,Belfast,United Kingdom,8.60
+1754,Belfast,United Kingdom,8.56
+1755,Belfast,United Kingdom,8.26
+1756,Belfast,United Kingdom,8.75
+1757,Belfast,United Kingdom,8.75
+1758,Belfast,United Kingdom,7.85
+1759,Belfast,United Kingdom,8.84
+1760,Belfast,United Kingdom,8.11
+1761,Belfast,United Kingdom,8.99
+1762,Belfast,United Kingdom,8.26
+1763,Belfast,United Kingdom,7.97
+1764,Belfast,United Kingdom,8.21
+1765,Belfast,United Kingdom,7.97
+1766,Belfast,United Kingdom,8.22
+1767,Belfast,United Kingdom,8.30
+1768,Belfast,United Kingdom,8.24
+1769,Belfast,United Kingdom,8.32
+1770,Belfast,United Kingdom,8.02
+1771,Belfast,United Kingdom,8.03
+1772,Belfast,United Kingdom,8.05
+1773,Belfast,United Kingdom,8.25
+1774,Belfast,United Kingdom,8.03
+1775,Belfast,United Kingdom,9.00
+1776,Belfast,United Kingdom,8.22
+1777,Belfast,United Kingdom,8.44
+1778,Belfast,United Kingdom,8.88
+1779,Belfast,United Kingdom,9.85
+1780,Belfast,United Kingdom,8.92
+1781,Belfast,United Kingdom,9.55
+1782,Belfast,United Kingdom,7.34
+1783,Belfast,United Kingdom,8.60
+1784,Belfast,United Kingdom,7.55
+1785,Belfast,United Kingdom,8.12
+1786,Belfast,United Kingdom,7.83
+1787,Belfast,United Kingdom,8.87
+1788,Belfast,United Kingdom,8.79
+1789,Belfast,United Kingdom,8.89
+1790,Belfast,United Kingdom,9.03
+1791,Belfast,United Kingdom,8.89
+1792,Belfast,United Kingdom,8.82
+1793,Belfast,United Kingdom,8.74
+1794,Belfast,United Kingdom,9.26
+1795,Belfast,United Kingdom,8.36
+1796,Belfast,United Kingdom,8.71
+1797,Belfast,United Kingdom,8.73
+1798,Belfast,United Kingdom,9.18
+1799,Belfast,United Kingdom,7.48
+1800,Belfast,United Kingdom,8.39
+1801,Belfast,United Kingdom,8.88
+1802,Belfast,United Kingdom,8.58
+1803,Belfast,United Kingdom,8.43
+1804,Belfast,United Kingdom,8.66
+1805,Belfast,United Kingdom,8.45
+1806,Belfast,United Kingdom,8.63
+1807,Belfast,United Kingdom,7.90
+1808,Belfast,United Kingdom,8.19
+1809,Belfast,United Kingdom,8.06
+1810,Belfast,United Kingdom,7.89
+1811,Belfast,United Kingdom,8.70
+1812,Belfast,United Kingdom,7.66
+1813,Belfast,United Kingdom,8.38
+1814,Belfast,United Kingdom,7.49
+1815,Belfast,United Kingdom,8.17
+1816,Belfast,United Kingdom,7.18
+1817,Belfast,United Kingdom,7.99
+1818,Belfast,United Kingdom,8.84
+1819,Belfast,United Kingdom,8.42
+1820,Belfast,United Kingdom,8.15
+1821,Belfast,United Kingdom,8.97
+1822,Belfast,United Kingdom,9.15
+1823,Belfast,United Kingdom,7.87
+1824,Belfast,United Kingdom,8.70
+1825,Belfast,United Kingdom,9.12
+1826,Belfast,United Kingdom,9.36
+1827,Belfast,United Kingdom,8.70
+1828,Belfast,United Kingdom,9.39
+1829,Belfast,United Kingdom,7.77
+1830,Belfast,United Kingdom,8.22
+1831,Belfast,United Kingdom,9.11
+1832,Belfast,United Kingdom,8.78
+1833,Belfast,United Kingdom,8.52
+1834,Belfast,United Kingdom,9.46
+1835,Belfast,United Kingdom,8.58
+1836,Belfast,United Kingdom,7.83
+1837,Belfast,United Kingdom,8.10
+1838,Belfast,United Kingdom,7.39
+1839,Belfast,United Kingdom,8.01
+1840,Belfast,United Kingdom,8.18
+1841,Belfast,United Kingdom,8.17
+1842,Belfast,United Kingdom,8.89
+1843,Belfast,United Kingdom,8.59
+1844,Belfast,United Kingdom,8.33
+1845,Belfast,United Kingdom,8.09
+1846,Belfast,United Kingdom,9.66
+1847,Belfast,United Kingdom,8.71
+1848,Belfast,United Kingdom,8.49
+1849,Belfast,United Kingdom,8.46
+1850,Belfast,United Kingdom,8.56
+1851,Belfast,United Kingdom,8.60
+1852,Belfast,United Kingdom,9.21
+1853,Belfast,United Kingdom,8.17
+1854,Belfast,United Kingdom,8.89
+1855,Belfast,United Kingdom,7.78
+1856,Belfast,United Kingdom,8.41
+1857,Belfast,United Kingdom,9.52
+1858,Belfast,United Kingdom,8.60
+1859,Belfast,United Kingdom,8.60
+1860,Belfast,United Kingdom,7.40
+1861,Belfast,United Kingdom,8.66
+1862,Belfast,United Kingdom,8.29
+1863,Belfast,United Kingdom,8.79
+1864,Belfast,United Kingdom,8.17
+1865,Belfast,United Kingdom,8.89
+1866,Belfast,United Kingdom,8.50
+1867,Belfast,United Kingdom,8.38
+1868,Belfast,United Kingdom,9.32
+1869,Belfast,United Kingdom,8.75
+1870,Belfast,United Kingdom,8.48
+1871,Belfast,United Kingdom,8.64
+1872,Belfast,United Kingdom,8.79
+1873,Belfast,United Kingdom,8.44
+1874,Belfast,United Kingdom,8.73
+1875,Belfast,United Kingdom,8.87
+1876,Belfast,United Kingdom,8.71
+1877,Belfast,United Kingdom,8.33
+1878,Belfast,United Kingdom,8.79
+1879,Belfast,United Kingdom,7.19
+1880,Belfast,United Kingdom,8.60
+1881,Belfast,United Kingdom,7.74
+1882,Belfast,United Kingdom,8.67
+1883,Belfast,United Kingdom,8.35
+1884,Belfast,United Kingdom,8.90
+1885,Belfast,United Kingdom,7.88
+1886,Belfast,United Kingdom,7.86
+1887,Belfast,United Kingdom,8.17
+1888,Belfast,United Kingdom,7.97
+1889,Belfast,United Kingdom,8.65
+1890,Belfast,United Kingdom,8.61
+1891,Belfast,United Kingdom,8.23
+1892,Belfast,United Kingdom,7.55
+1893,Belfast,United Kingdom,9.24
+1894,Belfast,United Kingdom,8.62
+1895,Belfast,United Kingdom,8.00
+1896,Belfast,United Kingdom,8.87
+1897,Belfast,United Kingdom,8.65
+1898,Belfast,United Kingdom,9.34
+1899,Belfast,United Kingdom,9.01
+1900,Belfast,United Kingdom,8.68
+1901,Belfast,United Kingdom,8.67
+1902,Belfast,United Kingdom,8.28
+1903,Belfast,United Kingdom,8.45
+1904,Belfast,United Kingdom,8.46
+1905,Belfast,United Kingdom,8.74
+1906,Belfast,United Kingdom,8.67
+1907,Belfast,United Kingdom,8.31
+1908,Belfast,United Kingdom,8.98
+1909,Belfast,United Kingdom,8.15
+1910,Belfast,United Kingdom,8.56
+1911,Belfast,United Kingdom,9.11
+1912,Belfast,United Kingdom,8.56
+1913,Belfast,United Kingdom,8.95
+1914,Belfast,United Kingdom,9.16
+1915,Belfast,United Kingdom,8.25
+1916,Belfast,United Kingdom,8.67
+1917,Belfast,United Kingdom,8.17
+1918,Belfast,United Kingdom,8.81
+1919,Belfast,United Kingdom,8.04
+1920,Belfast,United Kingdom,8.96
+1921,Belfast,United Kingdom,9.70
+1922,Belfast,United Kingdom,8.21
+1923,Belfast,United Kingdom,8.43
+1924,Belfast,United Kingdom,8.70
+1925,Belfast,United Kingdom,8.55
+1926,Belfast,United Kingdom,9.10
+1927,Belfast,United Kingdom,8.56
+1928,Belfast,United Kingdom,8.72
+1929,Belfast,United Kingdom,8.56
+1930,Belfast,United Kingdom,8.65
+1931,Belfast,United Kingdom,8.58
+1932,Belfast,United Kingdom,8.98
+1933,Belfast,United Kingdom,9.39
+1934,Belfast,United Kingdom,9.37
+1935,Belfast,United Kingdom,8.95
+1936,Belfast,United Kingdom,8.87
+1937,Belfast,United Kingdom,8.79
+1938,Belfast,United Kingdom,9.42
+1939,Belfast,United Kingdom,9.15
+1940,Belfast,United Kingdom,8.69
+1941,Belfast,United Kingdom,8.50
+1942,Belfast,United Kingdom,8.65
+1943,Belfast,United Kingdom,9.41
+1944,Belfast,United Kingdom,9.07
+1945,Belfast,United Kingdom,9.74
+1946,Belfast,United Kingdom,8.88
+1947,Belfast,United Kingdom,8.73
+1948,Belfast,United Kingdom,9.30
+1949,Belfast,United Kingdom,9.83
+1950,Belfast,United Kingdom,8.72
+1951,Belfast,United Kingdom,8.53
+1952,Belfast,United Kingdom,8.47
+1953,Belfast,United Kingdom,9.56
+1954,Belfast,United Kingdom,8.66
+1955,Belfast,United Kingdom,8.85
+1956,Belfast,United Kingdom,8.70
+1957,Belfast,United Kingdom,9.35
+1958,Belfast,United Kingdom,8.83
+1959,Belfast,United Kingdom,9.75
+1960,Belfast,United Kingdom,9.10
+1961,Belfast,United Kingdom,9.07
+1962,Belfast,United Kingdom,8.30
+1963,Belfast,United Kingdom,8.10
+1964,Belfast,United Kingdom,8.98
+1965,Belfast,United Kingdom,8.28
+1966,Belfast,United Kingdom,8.70
+1967,Belfast,United Kingdom,8.97
+1968,Belfast,United Kingdom,8.77
+1969,Belfast,United Kingdom,8.57
+1970,Belfast,United Kingdom,8.81
+1971,Belfast,United Kingdom,9.43
+1972,Belfast,United Kingdom,8.64
+1973,Belfast,United Kingdom,8.87
+1974,Belfast,United Kingdom,8.90
+1975,Belfast,United Kingdom,9.36
+1976,Belfast,United Kingdom,9.26
+1977,Belfast,United Kingdom,8.76
+1978,Belfast,United Kingdom,8.70
+1979,Belfast,United Kingdom,7.94
+1980,Belfast,United Kingdom,8.87
+1981,Belfast,United Kingdom,8.64
+1982,Belfast,United Kingdom,9.07
+1983,Belfast,United Kingdom,9.25
+1984,Belfast,United Kingdom,9.14
+1985,Belfast,United Kingdom,8.30
+1986,Belfast,United Kingdom,8.10
+1987,Belfast,United Kingdom,8.53
+1988,Belfast,United Kingdom,9.21
+1989,Belfast,United Kingdom,9.46
+1990,Belfast,United Kingdom,9.56
+1991,Belfast,United Kingdom,9.11
+1992,Belfast,United Kingdom,9.11
+1993,Belfast,United Kingdom,8.75
+1994,Belfast,United Kingdom,9.01
+1995,Belfast,United Kingdom,9.52
+1996,Belfast,United Kingdom,8.80
+1997,Belfast,United Kingdom,9.94
+1998,Belfast,United Kingdom,9.59
+1999,Belfast,United Kingdom,9.67
+2000,Belfast,United Kingdom,9.47
+2001,Belfast,United Kingdom,9.25
+2002,Belfast,United Kingdom,9.78
+2003,Belfast,United Kingdom,9.91
+2004,Belfast,United Kingdom,9.86
+2005,Belfast,United Kingdom,9.90
+2006,Belfast,United Kingdom,10.02
+2007,Belfast,United Kingdom,10.11
+2008,Belfast,United Kingdom,9.48
+2009,Belfast,United Kingdom,9.59
+2010,Belfast,United Kingdom,8.40
+2011,Belfast,United Kingdom,9.82
+2012,Belfast,United Kingdom,9.27
+2013,Belfast,United Kingdom,8.76
+1743,Birmingham,United Kingdom,7.07
+1744,Birmingham,United Kingdom,9.80
+1745,Birmingham,United Kingdom,4.05
+1746,Birmingham,United Kingdom,
+1747,Birmingham,United Kingdom,
+1748,Birmingham,United Kingdom,
+1749,Birmingham,United Kingdom,
+1750,Birmingham,United Kingdom,9.73
+1751,Birmingham,United Kingdom,9.51
+1752,Birmingham,United Kingdom,6.26
+1753,Birmingham,United Kingdom,8.97
+1754,Birmingham,United Kingdom,8.82
+1755,Birmingham,United Kingdom,8.54
+1756,Birmingham,United Kingdom,8.98
+1757,Birmingham,United Kingdom,8.92
+1758,Birmingham,United Kingdom,8.29
+1759,Birmingham,United Kingdom,9.26
+1760,Birmingham,United Kingdom,8.69
+1761,Birmingham,United Kingdom,9.23
+1762,Birmingham,United Kingdom,8.60
+1763,Birmingham,United Kingdom,8.29
+1764,Birmingham,United Kingdom,8.64
+1765,Birmingham,United Kingdom,8.47
+1766,Birmingham,United Kingdom,8.58
+1767,Birmingham,United Kingdom,8.62
+1768,Birmingham,United Kingdom,8.66
+1769,Birmingham,United Kingdom,8.60
+1770,Birmingham,United Kingdom,8.51
+1771,Birmingham,United Kingdom,8.42
+1772,Birmingham,United Kingdom,8.82
+1773,Birmingham,United Kingdom,8.71
+1774,Birmingham,United Kingdom,8.63
+1775,Birmingham,United Kingdom,9.53
+1776,Birmingham,United Kingdom,8.73
+1777,Birmingham,United Kingdom,8.83
+1778,Birmingham,United Kingdom,9.30
+1779,Birmingham,United Kingdom,10.19
+1780,Birmingham,United Kingdom,9.29
+1781,Birmingham,United Kingdom,9.91
+1782,Birmingham,United Kingdom,7.92
+1783,Birmingham,United Kingdom,9.34
+1784,Birmingham,United Kingdom,7.93
+1785,Birmingham,United Kingdom,8.22
+1786,Birmingham,United Kingdom,8.03
+1787,Birmingham,United Kingdom,9.11
+1788,Birmingham,United Kingdom,9.03
+1789,Birmingham,United Kingdom,8.80
+1790,Birmingham,United Kingdom,9.27
+1791,Birmingham,United Kingdom,9.16
+1792,Birmingham,United Kingdom,9.13
+1793,Birmingham,United Kingdom,9.13
+1794,Birmingham,United Kingdom,9.47
+1795,Birmingham,United Kingdom,8.71
+1796,Birmingham,United Kingdom,9.02
+1797,Birmingham,United Kingdom,9.13
+1798,Birmingham,United Kingdom,9.42
+1799,Birmingham,United Kingdom,7.61
+1800,Birmingham,United Kingdom,8.83
+1801,Birmingham,United Kingdom,9.21
+1802,Birmingham,United Kingdom,8.93
+1803,Birmingham,United Kingdom,8.52
+1804,Birmingham,United Kingdom,9.05
+1805,Birmingham,United Kingdom,8.43
+1806,Birmingham,United Kingdom,9.29
+1807,Birmingham,United Kingdom,8.48
+1808,Birmingham,United Kingdom,8.45
+1809,Birmingham,United Kingdom,8.45
+1810,Birmingham,United Kingdom,8.43
+1811,Birmingham,United Kingdom,9.40
+1812,Birmingham,United Kingdom,8.11
+1813,Birmingham,United Kingdom,8.66
+1814,Birmingham,United Kingdom,7.52
+1815,Birmingham,United Kingdom,8.42
+1816,Birmingham,United Kingdom,7.57
+1817,Birmingham,United Kingdom,8.46
+1818,Birmingham,United Kingdom,9.38
+1819,Birmingham,United Kingdom,8.99
+1820,Birmingham,United Kingdom,8.32
+1821,Birmingham,United Kingdom,9.26
+1822,Birmingham,United Kingdom,9.81
+1823,Birmingham,United Kingdom,8.39
+1824,Birmingham,United Kingdom,9.16
+1825,Birmingham,United Kingdom,9.50
+1826,Birmingham,United Kingdom,9.63
+1827,Birmingham,United Kingdom,9.00
+1828,Birmingham,United Kingdom,9.68
+1829,Birmingham,United Kingdom,7.70
+1830,Birmingham,United Kingdom,8.42
+1831,Birmingham,United Kingdom,9.48
+1832,Birmingham,United Kingdom,8.89
+1833,Birmingham,United Kingdom,8.94
+1834,Birmingham,United Kingdom,10.01
+1835,Birmingham,United Kingdom,9.06
+1836,Birmingham,United Kingdom,8.47
+1837,Birmingham,United Kingdom,8.46
+1838,Birmingham,United Kingdom,7.75
+1839,Birmingham,United Kingdom,8.35
+1840,Birmingham,United Kingdom,8.26
+1841,Birmingham,United Kingdom,8.52
+1842,Birmingham,United Kingdom,8.97
+1843,Birmingham,United Kingdom,8.88
+1844,Birmingham,United Kingdom,8.51
+1845,Birmingham,United Kingdom,8.08
+1846,Birmingham,United Kingdom,9.90
+1847,Birmingham,United Kingdom,8.89
+1848,Birmingham,United Kingdom,8.97
+1849,Birmingham,United Kingdom,8.97
+1850,Birmingham,United Kingdom,8.74
+1851,Birmingham,United Kingdom,8.86
+1852,Birmingham,United Kingdom,9.48
+1853,Birmingham,United Kingdom,8.16
+1854,Birmingham,United Kingdom,8.96
+1855,Birmingham,United Kingdom,7.80
+1856,Birmingham,United Kingdom,8.76
+1857,Birmingham,United Kingdom,9.76
+1858,Birmingham,United Kingdom,8.89
+1859,Birmingham,United Kingdom,9.40
+1860,Birmingham,United Kingdom,7.81
+1861,Birmingham,United Kingdom,9.04
+1862,Birmingham,United Kingdom,8.97
+1863,Birmingham,United Kingdom,9.37
+1864,Birmingham,United Kingdom,8.53
+1865,Birmingham,United Kingdom,9.40
+1866,Birmingham,United Kingdom,9.18
+1867,Birmingham,United Kingdom,8.65
+1868,Birmingham,United Kingdom,9.91
+1869,Birmingham,United Kingdom,9.14
+1870,Birmingham,United Kingdom,8.66
+1871,Birmingham,United Kingdom,8.74
+1872,Birmingham,United Kingdom,9.42
+1873,Birmingham,United Kingdom,8.75
+1874,Birmingham,United Kingdom,9.00
+1875,Birmingham,United Kingdom,9.00
+1876,Birmingham,United Kingdom,9.21
+1877,Birmingham,United Kingdom,8.93
+1878,Birmingham,United Kingdom,9.00
+1879,Birmingham,United Kingdom,7.18
+1880,Birmingham,United Kingdom,8.83
+1881,Birmingham,United Kingdom,8.26
+1882,Birmingham,United Kingdom,9.03
+1883,Birmingham,United Kingdom,8.67
+1884,Birmingham,United Kingdom,9.36
+1885,Birmingham,United Kingdom,8.20
+1886,Birmingham,United Kingdom,8.34
+1887,Birmingham,United Kingdom,8.07
+1888,Birmingham,United Kingdom,7.95
+1889,Birmingham,United Kingdom,8.63
+1890,Birmingham,United Kingdom,8.56
+1891,Birmingham,United Kingdom,8.29
+1892,Birmingham,United Kingdom,7.93
+1893,Birmingham,United Kingdom,9.66
+1894,Birmingham,United Kingdom,8.94
+1895,Birmingham,United Kingdom,8.34
+1896,Birmingham,United Kingdom,9.01
+1897,Birmingham,United Kingdom,9.12
+1898,Birmingham,United Kingdom,9.67
+1899,Birmingham,United Kingdom,9.44
+1900,Birmingham,United Kingdom,9.16
+1901,Birmingham,United Kingdom,8.75
+1902,Birmingham,United Kingdom,8.55
+1903,Birmingham,United Kingdom,8.94
+1904,Birmingham,United Kingdom,8.73
+1905,Birmingham,United Kingdom,8.81
+1906,Birmingham,United Kingdom,9.10
+1907,Birmingham,United Kingdom,8.57
+1908,Birmingham,United Kingdom,9.01
+1909,Birmingham,United Kingdom,8.32
+1910,Birmingham,United Kingdom,8.88
+1911,Birmingham,United Kingdom,9.73
+1912,Birmingham,United Kingdom,9.01
+1913,Birmingham,United Kingdom,9.41
+1914,Birmingham,United Kingdom,9.52
+1915,Birmingham,United Kingdom,8.59
+1916,Birmingham,United Kingdom,8.82
+1917,Birmingham,United Kingdom,8.19
+1918,Birmingham,United Kingdom,9.19
+1919,Birmingham,United Kingdom,8.15
+1920,Birmingham,United Kingdom,9.22
+1921,Birmingham,United Kingdom,10.17
+1922,Birmingham,United Kingdom,8.37
+1923,Birmingham,United Kingdom,8.76
+1924,Birmingham,United Kingdom,8.89
+1925,Birmingham,United Kingdom,8.82
+1926,Birmingham,United Kingdom,9.37
+1927,Birmingham,United Kingdom,8.82
+1928,Birmingham,United Kingdom,9.24
+1929,Birmingham,United Kingdom,8.74
+1930,Birmingham,United Kingdom,9.10
+1931,Birmingham,United Kingdom,8.71
+1932,Birmingham,United Kingdom,9.08
+1933,Birmingham,United Kingdom,9.51
+1934,Birmingham,United Kingdom,9.65
+1935,Birmingham,United Kingdom,9.40
+1936,Birmingham,United Kingdom,8.98
+1937,Birmingham,United Kingdom,9.21
+1938,Birmingham,United Kingdom,9.71
+1939,Birmingham,United Kingdom,9.32
+1940,Birmingham,United Kingdom,8.81
+1941,Birmingham,United Kingdom,8.74
+1942,Birmingham,United Kingdom,8.77
+1943,Birmingham,United Kingdom,9.71
+1944,Birmingham,United Kingdom,9.25
+1945,Birmingham,United Kingdom,9.93
+1946,Birmingham,United Kingdom,9.10
+1947,Birmingham,United Kingdom,9.20
+1948,Birmingham,United Kingdom,9.69
+1949,Birmingham,United Kingdom,10.26
+1950,Birmingham,United Kingdom,9.13
+1951,Birmingham,United Kingdom,8.93
+1952,Birmingham,United Kingdom,8.88
+1953,Birmingham,United Kingdom,9.53
+1954,Birmingham,United Kingdom,8.91
+1955,Birmingham,United Kingdom,9.01
+1956,Birmingham,United Kingdom,8.58
+1957,Birmingham,United Kingdom,9.79
+1958,Birmingham,United Kingdom,9.17
+1959,Birmingham,United Kingdom,10.19
+1960,Birmingham,United Kingdom,9.41
+1961,Birmingham,United Kingdom,9.58
+1962,Birmingham,United Kingdom,8.28
+1963,Birmingham,United Kingdom,8.10
+1964,Birmingham,United Kingdom,9.15
+1965,Birmingham,United Kingdom,8.66
+1966,Birmingham,United Kingdom,9.15
+1967,Birmingham,United Kingdom,9.31
+1968,Birmingham,United Kingdom,9.02
+1969,Birmingham,United Kingdom,8.99
+1970,Birmingham,United Kingdom,9.29
+1971,Birmingham,United Kingdom,9.48
+1972,Birmingham,United Kingdom,8.94
+1973,Birmingham,United Kingdom,9.37
+1974,Birmingham,United Kingdom,9.20
+1975,Birmingham,United Kingdom,9.68
+1976,Birmingham,United Kingdom,9.67
+1977,Birmingham,United Kingdom,9.13
+1978,Birmingham,United Kingdom,9.05
+1979,Birmingham,United Kingdom,8.51
+1980,Birmingham,United Kingdom,9.14
+1981,Birmingham,United Kingdom,8.95
+1982,Birmingham,United Kingdom,9.59
+1983,Birmingham,United Kingdom,9.68
+1984,Birmingham,United Kingdom,9.50
+1985,Birmingham,United Kingdom,8.54
+1986,Birmingham,United Kingdom,8.37
+1987,Birmingham,United Kingdom,8.80
+1988,Birmingham,United Kingdom,9.44
+1989,Birmingham,United Kingdom,10.21
+1990,Birmingham,United Kingdom,10.40
+1991,Birmingham,United Kingdom,9.24
+1992,Birmingham,United Kingdom,9.54
+1993,Birmingham,United Kingdom,9.14
+1994,Birmingham,United Kingdom,9.86
+1995,Birmingham,United Kingdom,10.17
+1996,Birmingham,United Kingdom,8.87
+1997,Birmingham,United Kingdom,10.17
+1998,Birmingham,United Kingdom,10.00
+1999,Birmingham,United Kingdom,10.30
+2000,Birmingham,United Kingdom,9.97
+2001,Birmingham,United Kingdom,9.69
+2002,Birmingham,United Kingdom,10.28
+2003,Birmingham,United Kingdom,10.25
+2004,Birmingham,United Kingdom,10.27
+2005,Birmingham,United Kingdom,10.24
+2006,Birmingham,United Kingdom,10.58
+2007,Birmingham,United Kingdom,10.37
+2008,Birmingham,United Kingdom,9.82
+2009,Birmingham,United Kingdom,9.90
+2010,Birmingham,United Kingdom,8.80
+2011,Birmingham,United Kingdom,10.63
+2012,Birmingham,United Kingdom,9.55
+2013,Birmingham,United Kingdom,9.57
+1841,Brisbane,Australia,18.84
+1842,Brisbane,Australia,19.05
+1843,Brisbane,Australia,19.25
+1844,Brisbane,Australia,18.68
+1845,Brisbane,Australia,18.93
+1846,Brisbane,Australia,19.56
+1847,Brisbane,Australia,19.01
+1848,Brisbane,Australia,18.78
+1849,Brisbane,Australia,18.78
+1850,Brisbane,Australia,19.01
+1851,Brisbane,Australia,19.10
+1852,Brisbane,Australia,18.93
+1853,Brisbane,Australia,18.78
+1854,Brisbane,Australia,19.05
+1855,Brisbane,Australia,17.71
+1856,Brisbane,Australia,19.02
+1857,Brisbane,Australia,18.89
+1858,Brisbane,Australia,19.06
+1859,Brisbane,Australia,18.63
+1860,Brisbane,Australia,18.83
+1861,Brisbane,Australia,19.40
+1862,Brisbane,Australia,19.18
+1863,Brisbane,Australia,19.06
+1864,Brisbane,Australia,18.80
+1865,Brisbane,Australia,19.19
+1866,Brisbane,Australia,19.38
+1867,Brisbane,Australia,19.74
+1868,Brisbane,Australia,19.36
+1869,Brisbane,Australia,19.36
+1870,Brisbane,Australia,19.24
+1871,Brisbane,Australia,19.10
+1872,Brisbane,Australia,18.88
+1873,Brisbane,Australia,19.03
+1874,Brisbane,Australia,19.03
+1875,Brisbane,Australia,19.26
+1876,Brisbane,Australia,19.47
+1877,Brisbane,Australia,19.61
+1878,Brisbane,Australia,19.98
+1879,Brisbane,Australia,18.94
+1880,Brisbane,Australia,18.84
+1881,Brisbane,Australia,19.17
+1882,Brisbane,Australia,19.33
+1883,Brisbane,Australia,18.56
+1884,Brisbane,Australia,19.53
+1885,Brisbane,Australia,19.25
+1886,Brisbane,Australia,19.41
+1887,Brisbane,Australia,18.82
+1888,Brisbane,Australia,19.14
+1889,Brisbane,Australia,19.67
+1890,Brisbane,Australia,19.03
+1891,Brisbane,Australia,18.89
+1892,Brisbane,Australia,19.42
+1893,Brisbane,Australia,19.16
+1894,Brisbane,Australia,18.81
+1895,Brisbane,Australia,18.98
+1896,Brisbane,Australia,19.01
+1897,Brisbane,Australia,19.69
+1898,Brisbane,Australia,19.44
+1899,Brisbane,Australia,19.19
+1900,Brisbane,Australia,19.40
+1901,Brisbane,Australia,19.30
+1902,Brisbane,Australia,19.81
+1903,Brisbane,Australia,19.34
+1904,Brisbane,Australia,19.07
+1905,Brisbane,Australia,18.99
+1906,Brisbane,Australia,19.19
+1907,Brisbane,Australia,19.32
+1908,Brisbane,Australia,18.84
+1909,Brisbane,Australia,19.01
+1910,Brisbane,Australia,19.32
+1911,Brisbane,Australia,19.19
+1912,Brisbane,Australia,19.62
+1913,Brisbane,Australia,19.38
+1914,Brisbane,Australia,19.98
+1915,Brisbane,Australia,20.14
+1916,Brisbane,Australia,19.50
+1917,Brisbane,Australia,18.86
+1918,Brisbane,Australia,19.12
+1919,Brisbane,Australia,19.92
+1920,Brisbane,Australia,19.25
+1921,Brisbane,Australia,19.55
+1922,Brisbane,Australia,19.64
+1923,Brisbane,Australia,19.73
+1924,Brisbane,Australia,19.40
+1925,Brisbane,Australia,18.99
+1926,Brisbane,Australia,19.91
+1927,Brisbane,Australia,18.96
+1928,Brisbane,Australia,19.64
+1929,Brisbane,Australia,19.34
+1930,Brisbane,Australia,19.36
+1931,Brisbane,Australia,19.69
+1932,Brisbane,Australia,19.50
+1933,Brisbane,Australia,19.37
+1934,Brisbane,Australia,18.92
+1935,Brisbane,Australia,19.23
+1936,Brisbane,Australia,19.60
+1937,Brisbane,Australia,19.45
+1938,Brisbane,Australia,19.83
+1939,Brisbane,Australia,19.29
+1940,Brisbane,Australia,19.81
+1941,Brisbane,Australia,19.43
+1942,Brisbane,Australia,19.95
+1943,Brisbane,Australia,19.25
+1944,Brisbane,Australia,19.47
+1945,Brisbane,Australia,19.69
+1946,Brisbane,Australia,19.61
+1947,Brisbane,Australia,19.43
+1948,Brisbane,Australia,19.31
+1949,Brisbane,Australia,19.30
+1950,Brisbane,Australia,19.65
+1951,Brisbane,Australia,19.07
+1952,Brisbane,Australia,19.75
+1953,Brisbane,Australia,19.56
+1954,Brisbane,Australia,19.62
+1955,Brisbane,Australia,19.74
+1956,Brisbane,Australia,19.24
+1957,Brisbane,Australia,19.90
+1958,Brisbane,Australia,20.13
+1959,Brisbane,Australia,19.40
+1960,Brisbane,Australia,19.03
+1961,Brisbane,Australia,19.00
+1962,Brisbane,Australia,19.27
+1963,Brisbane,Australia,19.28
+1964,Brisbane,Australia,19.57
+1965,Brisbane,Australia,19.59
+1966,Brisbane,Australia,19.17
+1967,Brisbane,Australia,19.39
+1968,Brisbane,Australia,19.57
+1969,Brisbane,Australia,19.81
+1970,Brisbane,Australia,19.45
+1971,Brisbane,Australia,19.31
+1972,Brisbane,Australia,19.36
+1973,Brisbane,Australia,20.66
+1974,Brisbane,Australia,19.28
+1975,Brisbane,Australia,19.68
+1976,Brisbane,Australia,19.63
+1977,Brisbane,Australia,19.85
+1978,Brisbane,Australia,19.54
+1979,Brisbane,Australia,19.98
+1980,Brisbane,Australia,20.32
+1981,Brisbane,Australia,19.85
+1982,Brisbane,Australia,19.56
+1983,Brisbane,Australia,19.93
+1984,Brisbane,Australia,19.46
+1985,Brisbane,Australia,19.64
+1986,Brisbane,Australia,19.93
+1987,Brisbane,Australia,20.05
+1988,Brisbane,Australia,20.27
+1989,Brisbane,Australia,19.66
+1990,Brisbane,Australia,20.06
+1991,Brisbane,Australia,20.29
+1992,Brisbane,Australia,19.79
+1993,Brisbane,Australia,20.19
+1994,Brisbane,Australia,19.59
+1995,Brisbane,Australia,20.12
+1996,Brisbane,Australia,20.06
+1997,Brisbane,Australia,20.16
+1998,Brisbane,Australia,20.62
+1999,Brisbane,Australia,19.75
+2000,Brisbane,Australia,19.89
+2001,Brisbane,Australia,20.21
+2002,Brisbane,Australia,20.38
+2003,Brisbane,Australia,19.95
+2004,Brisbane,Australia,20.42
+2005,Brisbane,Australia,20.71
+2006,Brisbane,Australia,20.17
+2007,Brisbane,Australia,20.31
+2008,Brisbane,Australia,19.79
+2009,Brisbane,Australia,20.65
+2010,Brisbane,Australia,20.33
+2011,Brisbane,Australia,19.88
+2012,Brisbane,Australia,20.08
+2013,Brisbane,Australia,20.14
+1841,Canberra,Australia,11.14
+1842,Canberra,Australia,11.07
+1843,Canberra,Australia,11.42
+1844,Canberra,Australia,10.72
+1845,Canberra,Australia,11.22
+1846,Canberra,Australia,11.55
+1847,Canberra,Australia,11.13
+1848,Canberra,Australia,10.72
+1849,Canberra,Australia,10.48
+1850,Canberra,Australia,11.13
+1851,Canberra,Australia,11.09
+1852,Canberra,Australia,10.85
+1853,Canberra,Australia,10.58
+1854,Canberra,Australia,10.95
+1855,Canberra,Australia,9.14
+1856,Canberra,Australia,11.37
+1857,Canberra,Australia,11.34
+1858,Canberra,Australia,11.67
+1859,Canberra,Australia,10.93
+1860,Canberra,Australia,11.00
+1861,Canberra,Australia,11.20
+1862,Canberra,Australia,11.50
+1863,Canberra,Australia,11.01
+1864,Canberra,Australia,10.96
+1865,Canberra,Australia,11.14
+1866,Canberra,Australia,11.45
+1867,Canberra,Australia,11.77
+1868,Canberra,Australia,11.49
+1869,Canberra,Australia,11.42
+1870,Canberra,Australia,11.45
+1871,Canberra,Australia,11.43
+1872,Canberra,Australia,11.27
+1873,Canberra,Australia,11.30
+1874,Canberra,Australia,11.26
+1875,Canberra,Australia,11.32
+1876,Canberra,Australia,11.69
+1877,Canberra,Australia,11.39
+1878,Canberra,Australia,11.74
+1879,Canberra,Australia,10.97
+1880,Canberra,Australia,11.42
+1881,Canberra,Australia,11.36
+1882,Canberra,Australia,11.54
+1883,Canberra,Australia,11.09
+1884,Canberra,Australia,11.24
+1885,Canberra,Australia,11.28
+1886,Canberra,Australia,11.15
+1887,Canberra,Australia,11.20
+1888,Canberra,Australia,11.20
+1889,Canberra,Australia,11.71
+1890,Canberra,Australia,11.51
+1891,Canberra,Australia,11.31
+1892,Canberra,Australia,11.03
+1893,Canberra,Australia,11.24
+1894,Canberra,Australia,11.36
+1895,Canberra,Australia,11.39
+1896,Canberra,Australia,11.52
+1897,Canberra,Australia,11.39
+1898,Canberra,Australia,11.70
+1899,Canberra,Australia,11.70
+1900,Canberra,Australia,11.56
+1901,Canberra,Australia,11.39
+1902,Canberra,Australia,11.45
+1903,Canberra,Australia,11.36
+1904,Canberra,Australia,11.12
+1905,Canberra,Australia,10.98
+1906,Canberra,Australia,11.39
+1907,Canberra,Australia,11.21
+1908,Canberra,Australia,11.46
+1909,Canberra,Australia,10.86
+1910,Canberra,Australia,11.57
+1911,Canberra,Australia,11.28
+1912,Canberra,Australia,11.57
+1913,Canberra,Australia,11.62
+1914,Canberra,Australia,12.50
+1915,Canberra,Australia,11.65
+1916,Canberra,Australia,11.18
+1917,Canberra,Australia,10.91
+1918,Canberra,Australia,11.08
+1919,Canberra,Australia,12.10
+1920,Canberra,Australia,11.26
+1921,Canberra,Australia,11.55
+1922,Canberra,Australia,11.55
+1923,Canberra,Australia,11.58
+1924,Canberra,Australia,10.78
+1925,Canberra,Australia,10.96
+1926,Canberra,Australia,11.57
+1927,Canberra,Australia,11.07
+1928,Canberra,Australia,11.71
+1929,Canberra,Australia,10.96
+1930,Canberra,Australia,11.78
+1931,Canberra,Australia,11.21
+1932,Canberra,Australia,11.34
+1933,Canberra,Australia,11.24
+1934,Canberra,Australia,11.54
+1935,Canberra,Australia,10.92
+1936,Canberra,Australia,11.17
+1937,Canberra,Australia,11.50
+1938,Canberra,Australia,11.95
+1939,Canberra,Australia,11.85
+1940,Canberra,Australia,11.90
+1941,Canberra,Australia,11.28
+1942,Canberra,Australia,11.81
+1943,Canberra,Australia,10.82
+1944,Canberra,Australia,11.36
+1945,Canberra,Australia,11.26
+1946,Canberra,Australia,11.35
+1947,Canberra,Australia,11.53
+1948,Canberra,Australia,10.85
+1949,Canberra,Australia,10.95
+1950,Canberra,Australia,11.73
+1951,Canberra,Australia,11.40
+1952,Canberra,Australia,11.29
+1953,Canberra,Australia,11.07
+1954,Canberra,Australia,11.43
+1955,Canberra,Australia,11.42
+1956,Canberra,Australia,10.96
+1957,Canberra,Australia,11.44
+1958,Canberra,Australia,11.61
+1959,Canberra,Australia,11.85
+1960,Canberra,Australia,11.30
+1961,Canberra,Australia,11.69
+1962,Canberra,Australia,11.26
+1963,Canberra,Australia,11.59
+1964,Canberra,Australia,11.14
+1965,Canberra,Australia,11.52
+1966,Canberra,Australia,10.95
+1967,Canberra,Australia,11.51
+1968,Canberra,Australia,11.78
+1969,Canberra,Australia,11.62
+1970,Canberra,Australia,11.01
+1971,Canberra,Australia,11.16
+1972,Canberra,Australia,11.61
+1973,Canberra,Australia,12.34
+1974,Canberra,Australia,11.55
+1975,Canberra,Australia,11.88
+1976,Canberra,Australia,11.32
+1977,Canberra,Australia,11.70
+1978,Canberra,Australia,11.68
+1979,Canberra,Australia,12.06
+1980,Canberra,Australia,12.40
+1981,Canberra,Australia,12.20
+1982,Canberra,Australia,12.13
+1983,Canberra,Australia,12.08
+1984,Canberra,Australia,11.17
+1985,Canberra,Australia,11.65
+1986,Canberra,Australia,11.42
+1987,Canberra,Australia,11.70
+1988,Canberra,Australia,12.54
+1989,Canberra,Australia,11.83
+1990,Canberra,Australia,12.11
+1991,Canberra,Australia,12.22
+1992,Canberra,Australia,11.21
+1993,Canberra,Australia,11.84
+1994,Canberra,Australia,11.60
+1995,Canberra,Australia,11.39
+1996,Canberra,Australia,11.29
+1997,Canberra,Australia,12.13
+1998,Canberra,Australia,12.46
+1999,Canberra,Australia,12.10
+2000,Canberra,Australia,12.09
+2001,Canberra,Australia,12.29
+2002,Canberra,Australia,12.31
+2003,Canberra,Australia,12.23
+2004,Canberra,Australia,12.35
+2005,Canberra,Australia,12.48
+2006,Canberra,Australia,12.51
+2007,Canberra,Australia,12.83
+2008,Canberra,Australia,12.00
+2009,Canberra,Australia,12.87
+2010,Canberra,Australia,12.37
+2011,Canberra,Australia,12.16
+2012,Canberra,Australia,11.79
+2013,Canberra,Australia,12.19
+1743,Cardiff,United Kingdom,7.07
+1744,Cardiff,United Kingdom,9.80
+1745,Cardiff,United Kingdom,4.05
+1746,Cardiff,United Kingdom,
+1747,Cardiff,United Kingdom,
+1748,Cardiff,United Kingdom,
+1749,Cardiff,United Kingdom,
+1750,Cardiff,United Kingdom,9.73
+1751,Cardiff,United Kingdom,9.51
+1752,Cardiff,United Kingdom,6.26
+1753,Cardiff,United Kingdom,8.97
+1754,Cardiff,United Kingdom,8.82
+1755,Cardiff,United Kingdom,8.54
+1756,Cardiff,United Kingdom,8.98
+1757,Cardiff,United Kingdom,8.92
+1758,Cardiff,United Kingdom,8.29
+1759,Cardiff,United Kingdom,9.26
+1760,Cardiff,United Kingdom,8.69
+1761,Cardiff,United Kingdom,9.23
+1762,Cardiff,United Kingdom,8.60
+1763,Cardiff,United Kingdom,8.29
+1764,Cardiff,United Kingdom,8.64
+1765,Cardiff,United Kingdom,8.47
+1766,Cardiff,United Kingdom,8.58
+1767,Cardiff,United Kingdom,8.62
+1768,Cardiff,United Kingdom,8.66
+1769,Cardiff,United Kingdom,8.60
+1770,Cardiff,United Kingdom,8.51
+1771,Cardiff,United Kingdom,8.42
+1772,Cardiff,United Kingdom,8.82
+1773,Cardiff,United Kingdom,8.71
+1774,Cardiff,United Kingdom,8.63
+1775,Cardiff,United Kingdom,9.53
+1776,Cardiff,United Kingdom,8.73
+1777,Cardiff,United Kingdom,8.83
+1778,Cardiff,United Kingdom,9.30
+1779,Cardiff,United Kingdom,10.19
+1780,Cardiff,United Kingdom,9.29
+1781,Cardiff,United Kingdom,9.91
+1782,Cardiff,United Kingdom,7.92
+1783,Cardiff,United Kingdom,9.34
+1784,Cardiff,United Kingdom,7.93
+1785,Cardiff,United Kingdom,8.22
+1786,Cardiff,United Kingdom,8.03
+1787,Cardiff,United Kingdom,9.11
+1788,Cardiff,United Kingdom,9.03
+1789,Cardiff,United Kingdom,8.80
+1790,Cardiff,United Kingdom,9.27
+1791,Cardiff,United Kingdom,9.16
+1792,Cardiff,United Kingdom,9.13
+1793,Cardiff,United Kingdom,9.13
+1794,Cardiff,United Kingdom,9.47
+1795,Cardiff,United Kingdom,8.71
+1796,Cardiff,United Kingdom,9.02
+1797,Cardiff,United Kingdom,9.13
+1798,Cardiff,United Kingdom,9.42
+1799,Cardiff,United Kingdom,7.61
+1800,Cardiff,United Kingdom,8.83
+1801,Cardiff,United Kingdom,9.21
+1802,Cardiff,United Kingdom,8.93
+1803,Cardiff,United Kingdom,8.52
+1804,Cardiff,United Kingdom,9.05
+1805,Cardiff,United Kingdom,8.43
+1806,Cardiff,United Kingdom,9.29
+1807,Cardiff,United Kingdom,8.48
+1808,Cardiff,United Kingdom,8.45
+1809,Cardiff,United Kingdom,8.45
+1810,Cardiff,United Kingdom,8.43
+1811,Cardiff,United Kingdom,9.40
+1812,Cardiff,United Kingdom,8.11
+1813,Cardiff,United Kingdom,8.66
+1814,Cardiff,United Kingdom,7.52
+1815,Cardiff,United Kingdom,8.42
+1816,Cardiff,United Kingdom,7.57
+1817,Cardiff,United Kingdom,8.46
+1818,Cardiff,United Kingdom,9.38
+1819,Cardiff,United Kingdom,8.99
+1820,Cardiff,United Kingdom,8.32
+1821,Cardiff,United Kingdom,9.26
+1822,Cardiff,United Kingdom,9.81
+1823,Cardiff,United Kingdom,8.39
+1824,Cardiff,United Kingdom,9.16
+1825,Cardiff,United Kingdom,9.50
+1826,Cardiff,United Kingdom,9.63
+1827,Cardiff,United Kingdom,9.00
+1828,Cardiff,United Kingdom,9.68
+1829,Cardiff,United Kingdom,7.70
+1830,Cardiff,United Kingdom,8.42
+1831,Cardiff,United Kingdom,9.48
+1832,Cardiff,United Kingdom,8.89
+1833,Cardiff,United Kingdom,8.94
+1834,Cardiff,United Kingdom,10.01
+1835,Cardiff,United Kingdom,9.06
+1836,Cardiff,United Kingdom,8.47
+1837,Cardiff,United Kingdom,8.46
+1838,Cardiff,United Kingdom,7.75
+1839,Cardiff,United Kingdom,8.35
+1840,Cardiff,United Kingdom,8.26
+1841,Cardiff,United Kingdom,8.52
+1842,Cardiff,United Kingdom,8.97
+1843,Cardiff,United Kingdom,8.88
+1844,Cardiff,United Kingdom,8.51
+1845,Cardiff,United Kingdom,8.08
+1846,Cardiff,United Kingdom,9.90
+1847,Cardiff,United Kingdom,8.89
+1848,Cardiff,United Kingdom,8.97
+1849,Cardiff,United Kingdom,8.97
+1850,Cardiff,United Kingdom,8.74
+1851,Cardiff,United Kingdom,8.86
+1852,Cardiff,United Kingdom,9.48
+1853,Cardiff,United Kingdom,8.16
+1854,Cardiff,United Kingdom,8.96
+1855,Cardiff,United Kingdom,7.80
+1856,Cardiff,United Kingdom,8.76
+1857,Cardiff,United Kingdom,9.76
+1858,Cardiff,United Kingdom,8.89
+1859,Cardiff,United Kingdom,9.40
+1860,Cardiff,United Kingdom,7.81
+1861,Cardiff,United Kingdom,9.04
+1862,Cardiff,United Kingdom,8.97
+1863,Cardiff,United Kingdom,9.37
+1864,Cardiff,United Kingdom,8.53
+1865,Cardiff,United Kingdom,9.40
+1866,Cardiff,United Kingdom,9.18
+1867,Cardiff,United Kingdom,8.65
+1868,Cardiff,United Kingdom,9.91
+1869,Cardiff,United Kingdom,9.14
+1870,Cardiff,United Kingdom,8.66
+1871,Cardiff,United Kingdom,8.74
+1872,Cardiff,United Kingdom,9.42
+1873,Cardiff,United Kingdom,8.75
+1874,Cardiff,United Kingdom,9.00
+1875,Cardiff,United Kingdom,9.00
+1876,Cardiff,United Kingdom,9.21
+1877,Cardiff,United Kingdom,8.93
+1878,Cardiff,United Kingdom,9.00
+1879,Cardiff,United Kingdom,7.18
+1880,Cardiff,United Kingdom,8.83
+1881,Cardiff,United Kingdom,8.26
+1882,Cardiff,United Kingdom,9.03
+1883,Cardiff,United Kingdom,8.67
+1884,Cardiff,United Kingdom,9.36
+1885,Cardiff,United Kingdom,8.20
+1886,Cardiff,United Kingdom,8.34
+1887,Cardiff,United Kingdom,8.07
+1888,Cardiff,United Kingdom,7.95
+1889,Cardiff,United Kingdom,8.63
+1890,Cardiff,United Kingdom,8.56
+1891,Cardiff,United Kingdom,8.29
+1892,Cardiff,United Kingdom,7.93
+1893,Cardiff,United Kingdom,9.66
+1894,Cardiff,United Kingdom,8.94
+1895,Cardiff,United Kingdom,8.34
+1896,Cardiff,United Kingdom,9.01
+1897,Cardiff,United Kingdom,9.12
+1898,Cardiff,United Kingdom,9.67
+1899,Cardiff,United Kingdom,9.44
+1900,Cardiff,United Kingdom,9.16
+1901,Cardiff,United Kingdom,8.75
+1902,Cardiff,United Kingdom,8.55
+1903,Cardiff,United Kingdom,8.94
+1904,Cardiff,United Kingdom,8.73
+1905,Cardiff,United Kingdom,8.81
+1906,Cardiff,United Kingdom,9.10
+1907,Cardiff,United Kingdom,8.57
+1908,Cardiff,United Kingdom,9.01
+1909,Cardiff,United Kingdom,8.32
+1910,Cardiff,United Kingdom,8.88
+1911,Cardiff,United Kingdom,9.73
+1912,Cardiff,United Kingdom,9.01
+1913,Cardiff,United Kingdom,9.41
+1914,Cardiff,United Kingdom,9.52
+1915,Cardiff,United Kingdom,8.59
+1916,Cardiff,United Kingdom,8.82
+1917,Cardiff,United Kingdom,8.19
+1918,Cardiff,United Kingdom,9.19
+1919,Cardiff,United Kingdom,8.15
+1920,Cardiff,United Kingdom,9.22
+1921,Cardiff,United Kingdom,10.17
+1922,Cardiff,United Kingdom,8.37
+1923,Cardiff,United Kingdom,8.76
+1924,Cardiff,United Kingdom,8.89
+1925,Cardiff,United Kingdom,8.82
+1926,Cardiff,United Kingdom,9.37
+1927,Cardiff,United Kingdom,8.82
+1928,Cardiff,United Kingdom,9.24
+1929,Cardiff,United Kingdom,8.74
+1930,Cardiff,United Kingdom,9.10
+1931,Cardiff,United Kingdom,8.71
+1932,Cardiff,United Kingdom,9.08
+1933,Cardiff,United Kingdom,9.51
+1934,Cardiff,United Kingdom,9.65
+1935,Cardiff,United Kingdom,9.40
+1936,Cardiff,United Kingdom,8.98
+1937,Cardiff,United Kingdom,9.21
+1938,Cardiff,United Kingdom,9.71
+1939,Cardiff,United Kingdom,9.32
+1940,Cardiff,United Kingdom,8.81
+1941,Cardiff,United Kingdom,8.74
+1942,Cardiff,United Kingdom,8.77
+1943,Cardiff,United Kingdom,9.71
+1944,Cardiff,United Kingdom,9.25
+1945,Cardiff,United Kingdom,9.93
+1946,Cardiff,United Kingdom,9.10
+1947,Cardiff,United Kingdom,9.20
+1948,Cardiff,United Kingdom,9.69
+1949,Cardiff,United Kingdom,10.26
+1950,Cardiff,United Kingdom,9.13
+1951,Cardiff,United Kingdom,8.93
+1952,Cardiff,United Kingdom,8.88
+1953,Cardiff,United Kingdom,9.53
+1954,Cardiff,United Kingdom,8.91
+1955,Cardiff,United Kingdom,9.01
+1956,Cardiff,United Kingdom,8.58
+1957,Cardiff,United Kingdom,9.79
+1958,Cardiff,United Kingdom,9.17
+1959,Cardiff,United Kingdom,10.19
+1960,Cardiff,United Kingdom,9.41
+1961,Cardiff,United Kingdom,9.58
+1962,Cardiff,United Kingdom,8.28
+1963,Cardiff,United Kingdom,8.10
+1964,Cardiff,United Kingdom,9.15
+1965,Cardiff,United Kingdom,8.66
+1966,Cardiff,United Kingdom,9.15
+1967,Cardiff,United Kingdom,9.31
+1968,Cardiff,United Kingdom,9.02
+1969,Cardiff,United Kingdom,8.99
+1970,Cardiff,United Kingdom,9.29
+1971,Cardiff,United Kingdom,9.48
+1972,Cardiff,United Kingdom,8.94
+1973,Cardiff,United Kingdom,9.37
+1974,Cardiff,United Kingdom,9.20
+1975,Cardiff,United Kingdom,9.68
+1976,Cardiff,United Kingdom,9.67
+1977,Cardiff,United Kingdom,9.13
+1978,Cardiff,United Kingdom,9.05
+1979,Cardiff,United Kingdom,8.51
+1980,Cardiff,United Kingdom,9.14
+1981,Cardiff,United Kingdom,8.95
+1982,Cardiff,United Kingdom,9.59
+1983,Cardiff,United Kingdom,9.68
+1984,Cardiff,United Kingdom,9.50
+1985,Cardiff,United Kingdom,8.54
+1986,Cardiff,United Kingdom,8.37
+1987,Cardiff,United Kingdom,8.80
+1988,Cardiff,United Kingdom,9.44
+1989,Cardiff,United Kingdom,10.21
+1990,Cardiff,United Kingdom,10.40
+1991,Cardiff,United Kingdom,9.24
+1992,Cardiff,United Kingdom,9.54
+1993,Cardiff,United Kingdom,9.14
+1994,Cardiff,United Kingdom,9.86
+1995,Cardiff,United Kingdom,10.17
+1996,Cardiff,United Kingdom,8.87
+1997,Cardiff,United Kingdom,10.17
+1998,Cardiff,United Kingdom,10.00
+1999,Cardiff,United Kingdom,10.30
+2000,Cardiff,United Kingdom,9.97
+2001,Cardiff,United Kingdom,9.69
+2002,Cardiff,United Kingdom,10.28
+2003,Cardiff,United Kingdom,10.25
+2004,Cardiff,United Kingdom,10.27
+2005,Cardiff,United Kingdom,10.24
+2006,Cardiff,United Kingdom,10.58
+2007,Cardiff,United Kingdom,10.37
+2008,Cardiff,United Kingdom,9.82
+2009,Cardiff,United Kingdom,9.90
+2010,Cardiff,United Kingdom,8.80
+2011,Cardiff,United Kingdom,10.63
+2012,Cardiff,United Kingdom,9.55
+2013,Cardiff,United Kingdom,9.57
+1857,Durban,South Africa,19.52
+1858,Durban,South Africa,19.83
+1859,Durban,South Africa,19.90
+1860,Durban,South Africa,20.01
+1861,Durban,South Africa,19.85
+1862,Durban,South Africa,19.44
+1863,Durban,South Africa,19.85
+1864,Durban,South Africa,19.85
+1865,Durban,South Africa,20.17
+1866,Durban,South Africa,20.10
+1867,Durban,South Africa,20.19
+1868,Durban,South Africa,19.86
+1869,Durban,South Africa,20.20
+1870,Durban,South Africa,19.88
+1871,Durban,South Africa,19.97
+1872,Durban,South Africa,19.97
+1873,Durban,South Africa,20.44
+1874,Durban,South Africa,20.00
+1875,Durban,South Africa,19.71
+1876,Durban,South Africa,19.73
+1877,Durban,South Africa,20.20
+1878,Durban,South Africa,20.14
+1879,Durban,South Africa,19.68
+1880,Durban,South Africa,19.92
+1881,Durban,South Africa,20.00
+1882,Durban,South Africa,19.73
+1883,Durban,South Africa,19.98
+1884,Durban,South Africa,19.66
+1885,Durban,South Africa,19.93
+1886,Durban,South Africa,20.08
+1887,Durban,South Africa,19.60
+1888,Durban,South Africa,20.21
+1889,Durban,South Africa,20.61
+1890,Durban,South Africa,20.30
+1891,Durban,South Africa,20.04
+1892,Durban,South Africa,20.19
+1893,Durban,South Africa,19.59
+1894,Durban,South Africa,19.70
+1895,Durban,South Africa,19.82
+1896,Durban,South Africa,20.55
+1897,Durban,South Africa,20.10
+1898,Durban,South Africa,19.56
+1899,Durban,South Africa,19.83
+1900,Durban,South Africa,20.46
+1901,Durban,South Africa,19.92
+1902,Durban,South Africa,19.91
+1903,Durban,South Africa,19.99
+1904,Durban,South Africa,19.97
+1905,Durban,South Africa,19.84
+1906,Durban,South Africa,19.79
+1907,Durban,South Africa,19.66
+1908,Durban,South Africa,19.86
+1909,Durban,South Africa,20.12
+1910,Durban,South Africa,19.31
+1911,Durban,South Africa,19.73
+1912,Durban,South Africa,20.27
+1913,Durban,South Africa,20.41
+1914,Durban,South Africa,20.50
+1915,Durban,South Africa,20.14
+1916,Durban,South Africa,19.99
+1917,Durban,South Africa,19.59
+1918,Durban,South Africa,19.94
+1919,Durban,South Africa,20.17
+1920,Durban,South Africa,20.22
+1921,Durban,South Africa,19.86
+1922,Durban,South Africa,20.35
+1923,Durban,South Africa,20.58
+1924,Durban,South Africa,19.73
+1925,Durban,South Africa,20.37
+1926,Durban,South Africa,20.44
+1927,Durban,South Africa,20.49
+1928,Durban,South Africa,20.34
+1929,Durban,South Africa,20.33
+1930,Durban,South Africa,20.06
+1931,Durban,South Africa,20.43
+1932,Durban,South Africa,20.55
+1933,Durban,South Africa,20.32
+1934,Durban,South Africa,20.54
+1935,Durban,South Africa,19.63
+1936,Durban,South Africa,19.97
+1937,Durban,South Africa,20.47
+1938,Durban,South Africa,20.54
+1939,Durban,South Africa,20.10
+1940,Durban,South Africa,20.77
+1941,Durban,South Africa,20.93
+1942,Durban,South Africa,20.59
+1943,Durban,South Africa,20.06
+1944,Durban,South Africa,20.66
+1945,Durban,South Africa,20.43
+1946,Durban,South Africa,20.74
+1947,Durban,South Africa,20.55
+1948,Durban,South Africa,20.53
+1949,Durban,South Africa,20.55
+1950,Durban,South Africa,20.62
+1951,Durban,South Africa,19.99
+1952,Durban,South Africa,20.66
+1953,Durban,South Africa,20.38
+1954,Durban,South Africa,20.12
+1955,Durban,South Africa,19.79
+1956,Durban,South Africa,20.14
+1957,Durban,South Africa,20.56
+1958,Durban,South Africa,20.68
+1959,Durban,South Africa,20.35
+1960,Durban,South Africa,20.51
+1961,Durban,South Africa,20.70
+1962,Durban,South Africa,20.92
+1963,Durban,South Africa,20.53
+1964,Durban,South Africa,20.32
+1965,Durban,South Africa,20.27
+1966,Durban,South Africa,20.58
+1967,Durban,South Africa,20.50
+1968,Durban,South Africa,20.02
+1969,Durban,South Africa,20.79
+1970,Durban,South Africa,20.68
+1971,Durban,South Africa,20.19
+1972,Durban,South Africa,20.47
+1973,Durban,South Africa,20.28
+1974,Durban,South Africa,20.58
+1975,Durban,South Africa,20.20
+1976,Durban,South Africa,20.36
+1977,Durban,South Africa,20.94
+1978,Durban,South Africa,20.54
+1979,Durban,South Africa,20.73
+1980,Durban,South Africa,20.77
+1981,Durban,South Africa,20.27
+1982,Durban,South Africa,20.78
+1983,Durban,South Africa,21.25
+1984,Durban,South Africa,20.61
+1985,Durban,South Africa,21.34
+1986,Durban,South Africa,21.08
+1987,Durban,South Africa,21.02
+1988,Durban,South Africa,20.90
+1989,Durban,South Africa,20.82
+1990,Durban,South Africa,20.56
+1991,Durban,South Africa,21.06
+1992,Durban,South Africa,21.53
+1993,Durban,South Africa,21.32
+1994,Durban,South Africa,20.65
+1995,Durban,South Africa,20.73
+1996,Durban,South Africa,20.49
+1997,Durban,South Africa,20.57
+1998,Durban,South Africa,21.22
+1999,Durban,South Africa,21.64
+2000,Durban,South Africa,20.74
+2001,Durban,South Africa,21.25
+2002,Durban,South Africa,21.07
+2003,Durban,South Africa,21.11
+2004,Durban,South Africa,21.11
+2005,Durban,South Africa,21.14
+2006,Durban,South Africa,20.86
+2007,Durban,South Africa,21.07
+2008,Durban,South Africa,20.89
+2009,Durban,South Africa,20.71
+2010,Durban,South Africa,21.54
+2011,Durban,South Africa,20.72
+2012,Durban,South Africa,21.24
+2013,Durban,South Africa,21.31
+1743,Edinburgh,United Kingdom,5.27
+1744,Edinburgh,United Kingdom,8.29
+1745,Edinburgh,United Kingdom,2.75
+1746,Edinburgh,United Kingdom,
+1747,Edinburgh,United Kingdom,
+1748,Edinburgh,United Kingdom,
+1749,Edinburgh,United Kingdom,
+1750,Edinburgh,United Kingdom,8.41
+1751,Edinburgh,United Kingdom,8.16
+1752,Edinburgh,United Kingdom,4.78
+1753,Edinburgh,United Kingdom,7.51
+1754,Edinburgh,United Kingdom,7.42
+1755,Edinburgh,United Kingdom,7.14
+1756,Edinburgh,United Kingdom,7.64
+1757,Edinburgh,United Kingdom,7.65
+1758,Edinburgh,United Kingdom,6.87
+1759,Edinburgh,United Kingdom,7.85
+1760,Edinburgh,United Kingdom,7.13
+1761,Edinburgh,United Kingdom,7.93
+1762,Edinburgh,United Kingdom,7.13
+1763,Edinburgh,United Kingdom,6.92
+1764,Edinburgh,United Kingdom,7.13
+1765,Edinburgh,United Kingdom,6.87
+1766,Edinburgh,United Kingdom,7.14
+1767,Edinburgh,United Kingdom,7.14
+1768,Edinburgh,United Kingdom,7.20
+1769,Edinburgh,United Kingdom,7.24
+1770,Edinburgh,United Kingdom,6.96
+1771,Edinburgh,United Kingdom,6.86
+1772,Edinburgh,United Kingdom,6.95
+1773,Edinburgh,United Kingdom,7.25
+1774,Edinburgh,United Kingdom,6.86
+1775,Edinburgh,United Kingdom,7.95
+1776,Edinburgh,United Kingdom,7.15
+1777,Edinburgh,United Kingdom,7.34
+1778,Edinburgh,United Kingdom,7.82
+1779,Edinburgh,United Kingdom,8.90
+1780,Edinburgh,United Kingdom,7.75
+1781,Edinburgh,United Kingdom,8.53
+1782,Edinburgh,United Kingdom,6.28
+1783,Edinburgh,United Kingdom,7.66
+1784,Edinburgh,United Kingdom,6.36
+1785,Edinburgh,United Kingdom,6.98
+1786,Edinburgh,United Kingdom,6.63
+1787,Edinburgh,United Kingdom,7.79
+1788,Edinburgh,United Kingdom,7.63
+1789,Edinburgh,United Kingdom,7.78
+1790,Edinburgh,United Kingdom,7.97
+1791,Edinburgh,United Kingdom,7.83
+1792,Edinburgh,United Kingdom,7.72
+1793,Edinburgh,United Kingdom,7.65
+1794,Edinburgh,United Kingdom,8.18
+1795,Edinburgh,United Kingdom,7.17
+1796,Edinburgh,United Kingdom,7.64
+1797,Edinburgh,United Kingdom,7.76
+1798,Edinburgh,United Kingdom,8.14
+1799,Edinburgh,United Kingdom,6.23
+1800,Edinburgh,United Kingdom,7.25
+1801,Edinburgh,United Kingdom,7.77
+1802,Edinburgh,United Kingdom,7.44
+1803,Edinburgh,United Kingdom,7.22
+1804,Edinburgh,United Kingdom,7.49
+1805,Edinburgh,United Kingdom,7.20
+1806,Edinburgh,United Kingdom,7.56
+1807,Edinburgh,United Kingdom,6.83
+1808,Edinburgh,United Kingdom,7.12
+1809,Edinburgh,United Kingdom,7.02
+1810,Edinburgh,United Kingdom,6.87
+1811,Edinburgh,United Kingdom,7.82
+1812,Edinburgh,United Kingdom,6.60
+1813,Edinburgh,United Kingdom,7.35
+1814,Edinburgh,United Kingdom,6.33
+1815,Edinburgh,United Kingdom,7.15
+1816,Edinburgh,United Kingdom,6.18
+1817,Edinburgh,United Kingdom,7.03
+1818,Edinburgh,United Kingdom,7.82
+1819,Edinburgh,United Kingdom,7.47
+1820,Edinburgh,United Kingdom,7.06
+1821,Edinburgh,United Kingdom,7.94
+1822,Edinburgh,United Kingdom,8.23
+1823,Edinburgh,United Kingdom,6.80
+1824,Edinburgh,United Kingdom,7.69
+1825,Edinburgh,United Kingdom,8.13
+1826,Edinburgh,United Kingdom,8.39
+1827,Edinburgh,United Kingdom,7.58
+1828,Edinburgh,United Kingdom,8.26
+1829,Edinburgh,United Kingdom,6.52
+1830,Edinburgh,United Kingdom,7.06
+1831,Edinburgh,United Kingdom,8.10
+1832,Edinburgh,United Kingdom,7.79
+1833,Edinburgh,United Kingdom,7.52
+1834,Edinburgh,United Kingdom,8.56
+1835,Edinburgh,United Kingdom,7.52
+1836,Edinburgh,United Kingdom,6.87
+1837,Edinburgh,United Kingdom,6.92
+1838,Edinburgh,United Kingdom,6.18
+1839,Edinburgh,United Kingdom,6.99
+1840,Edinburgh,United Kingdom,7.11
+1841,Edinburgh,United Kingdom,7.17
+1842,Edinburgh,United Kingdom,7.88
+1843,Edinburgh,United Kingdom,7.56
+1844,Edinburgh,United Kingdom,7.13
+1845,Edinburgh,United Kingdom,6.94
+1846,Edinburgh,United Kingdom,8.73
+1847,Edinburgh,United Kingdom,7.57
+1848,Edinburgh,United Kingdom,7.50
+1849,Edinburgh,United Kingdom,7.39
+1850,Edinburgh,United Kingdom,7.38
+1851,Edinburgh,United Kingdom,7.44
+1852,Edinburgh,United Kingdom,8.16
+1853,Edinburgh,United Kingdom,7.01
+1854,Edinburgh,United Kingdom,7.78
+1855,Edinburgh,United Kingdom,6.57
+1856,Edinburgh,United Kingdom,7.26
+1857,Edinburgh,United Kingdom,8.52
+1858,Edinburgh,United Kingdom,7.53
+1859,Edinburgh,United Kingdom,7.57
+1860,Edinburgh,United Kingdom,6.22
+1861,Edinburgh,United Kingdom,7.59
+1862,Edinburgh,United Kingdom,7.31
+1863,Edinburgh,United Kingdom,7.85
+1864,Edinburgh,United Kingdom,6.98
+1865,Edinburgh,United Kingdom,7.73
+1866,Edinburgh,United Kingdom,7.53
+1867,Edinburgh,United Kingdom,7.26
+1868,Edinburgh,United Kingdom,8.39
+1869,Edinburgh,United Kingdom,7.61
+1870,Edinburgh,United Kingdom,7.32
+1871,Edinburgh,United Kingdom,7.35
+1872,Edinburgh,United Kingdom,7.81
+1873,Edinburgh,United Kingdom,7.43
+1874,Edinburgh,United Kingdom,7.63
+1875,Edinburgh,United Kingdom,7.73
+1876,Edinburgh,United Kingdom,7.64
+1877,Edinburgh,United Kingdom,7.21
+1878,Edinburgh,United Kingdom,7.68
+1879,Edinburgh,United Kingdom,5.98
+1880,Edinburgh,United Kingdom,7.54
+1881,Edinburgh,United Kingdom,6.65
+1882,Edinburgh,United Kingdom,7.70
+1883,Edinburgh,United Kingdom,7.37
+1884,Edinburgh,United Kingdom,7.95
+1885,Edinburgh,United Kingdom,6.87
+1886,Edinburgh,United Kingdom,6.83
+1887,Edinburgh,United Kingdom,7.08
+1888,Edinburgh,United Kingdom,6.75
+1889,Edinburgh,United Kingdom,7.57
+1890,Edinburgh,United Kingdom,7.59
+1891,Edinburgh,United Kingdom,7.15
+1892,Edinburgh,United Kingdom,6.46
+1893,Edinburgh,United Kingdom,8.21
+1894,Edinburgh,United Kingdom,7.61
+1895,Edinburgh,United Kingdom,6.98
+1896,Edinburgh,United Kingdom,7.84
+1897,Edinburgh,United Kingdom,7.60
+1898,Edinburgh,United Kingdom,8.33
+1899,Edinburgh,United Kingdom,7.88
+1900,Edinburgh,United Kingdom,7.60
+1901,Edinburgh,United Kingdom,7.64
+1902,Edinburgh,United Kingdom,7.09
+1903,Edinburgh,United Kingdom,7.37
+1904,Edinburgh,United Kingdom,7.38
+1905,Edinburgh,United Kingdom,7.65
+1906,Edinburgh,United Kingdom,7.67
+1907,Edinburgh,United Kingdom,7.23
+1908,Edinburgh,United Kingdom,7.79
+1909,Edinburgh,United Kingdom,6.99
+1910,Edinburgh,United Kingdom,7.49
+1911,Edinburgh,United Kingdom,8.20
+1912,Edinburgh,United Kingdom,7.52
+1913,Edinburgh,United Kingdom,7.95
+1914,Edinburgh,United Kingdom,8.23
+1915,Edinburgh,United Kingdom,7.14
+1916,Edinburgh,United Kingdom,7.55
+1917,Edinburgh,United Kingdom,7.05
+1918,Edinburgh,United Kingdom,7.74
+1919,Edinburgh,United Kingdom,6.91
+1920,Edinburgh,United Kingdom,7.91
+1921,Edinburgh,United Kingdom,8.59
+1922,Edinburgh,United Kingdom,7.02
+1923,Edinburgh,United Kingdom,7.26
+1924,Edinburgh,United Kingdom,7.59
+1925,Edinburgh,United Kingdom,7.49
+1926,Edinburgh,United Kingdom,8.00
+1927,Edinburgh,United Kingdom,7.40
+1928,Edinburgh,United Kingdom,7.59
+1929,Edinburgh,United Kingdom,7.37
+1930,Edinburgh,United Kingdom,7.64
+1931,Edinburgh,United Kingdom,7.33
+1932,Edinburgh,United Kingdom,7.90
+1933,Edinburgh,United Kingdom,8.39
+1934,Edinburgh,United Kingdom,8.43
+1935,Edinburgh,United Kingdom,7.87
+1936,Edinburgh,United Kingdom,7.76
+1937,Edinburgh,United Kingdom,7.70
+1938,Edinburgh,United Kingdom,8.49
+1939,Edinburgh,United Kingdom,8.13
+1940,Edinburgh,United Kingdom,7.42
+1941,Edinburgh,United Kingdom,7.34
+1942,Edinburgh,United Kingdom,7.38
+1943,Edinburgh,United Kingdom,8.30
+1944,Edinburgh,United Kingdom,7.94
+1945,Edinburgh,United Kingdom,8.67
+1946,Edinburgh,United Kingdom,7.82
+1947,Edinburgh,United Kingdom,7.70
+1948,Edinburgh,United Kingdom,8.17
+1949,Edinburgh,United Kingdom,8.81
+1950,Edinburgh,United Kingdom,7.67
+1951,Edinburgh,United Kingdom,7.47
+1952,Edinburgh,United Kingdom,7.38
+1953,Edinburgh,United Kingdom,8.54
+1954,Edinburgh,United Kingdom,7.57
+1955,Edinburgh,United Kingdom,7.68
+1956,Edinburgh,United Kingdom,7.43
+1957,Edinburgh,United Kingdom,8.28
+1958,Edinburgh,United Kingdom,7.56
+1959,Edinburgh,United Kingdom,8.67
+1960,Edinburgh,United Kingdom,8.02
+1961,Edinburgh,United Kingdom,8.07
+1962,Edinburgh,United Kingdom,7.10
+1963,Edinburgh,United Kingdom,6.92
+1964,Edinburgh,United Kingdom,7.83
+1965,Edinburgh,United Kingdom,7.13
+1966,Edinburgh,United Kingdom,7.51
+1967,Edinburgh,United Kingdom,7.99
+1968,Edinburgh,United Kingdom,7.61
+1969,Edinburgh,United Kingdom,7.48
+1970,Edinburgh,United Kingdom,7.74
+1971,Edinburgh,United Kingdom,8.31
+1972,Edinburgh,United Kingdom,7.64
+1973,Edinburgh,United Kingdom,7.89
+1974,Edinburgh,United Kingdom,7.81
+1975,Edinburgh,United Kingdom,8.22
+1976,Edinburgh,United Kingdom,8.15
+1977,Edinburgh,United Kingdom,7.68
+1978,Edinburgh,United Kingdom,7.62
+1979,Edinburgh,United Kingdom,7.06
+1980,Edinburgh,United Kingdom,7.74
+1981,Edinburgh,United Kingdom,7.48
+1982,Edinburgh,United Kingdom,7.99
+1983,Edinburgh,United Kingdom,8.14
+1984,Edinburgh,United Kingdom,8.09
+1985,Edinburgh,United Kingdom,7.25
+1986,Edinburgh,United Kingdom,7.04
+1987,Edinburgh,United Kingdom,7.33
+1988,Edinburgh,United Kingdom,8.11
+1989,Edinburgh,United Kingdom,8.57
+1990,Edinburgh,United Kingdom,8.68
+1991,Edinburgh,United Kingdom,7.99
+1992,Edinburgh,United Kingdom,8.05
+1993,Edinburgh,United Kingdom,7.59
+1994,Edinburgh,United Kingdom,8.07
+1995,Edinburgh,United Kingdom,8.49
+1996,Edinburgh,United Kingdom,7.71
+1997,Edinburgh,United Kingdom,8.87
+1998,Edinburgh,United Kingdom,8.56
+1999,Edinburgh,United Kingdom,8.74
+2000,Edinburgh,United Kingdom,8.48
+2001,Edinburgh,United Kingdom,8.15
+2002,Edinburgh,United Kingdom,8.76
+2003,Edinburgh,United Kingdom,8.95
+2004,Edinburgh,United Kingdom,8.92
+2005,Edinburgh,United Kingdom,8.85
+2006,Edinburgh,United Kingdom,9.10
+2007,Edinburgh,United Kingdom,8.94
+2008,Edinburgh,United Kingdom,8.42
+2009,Edinburgh,United Kingdom,8.64
+2010,Edinburgh,United Kingdom,7.43
+2011,Edinburgh,United Kingdom,8.95
+2012,Edinburgh,United Kingdom,8.08
+2013,Edinburgh,United Kingdom,8.39
+1841,Hiroshima,Japan,14.02
+1842,Hiroshima,Japan,14.51
+1843,Hiroshima,Japan,14.65
+1844,Hiroshima,Japan,14.33
+1845,Hiroshima,Japan,14.53
+1846,Hiroshima,Japan,14.74
+1847,Hiroshima,Japan,14.87
+1848,Hiroshima,Japan,14.70
+1849,Hiroshima,Japan,14.67
+1850,Hiroshima,Japan,14.20
+1851,Hiroshima,Japan,14.03
+1852,Hiroshima,Japan,14.08
+1853,Hiroshima,Japan,14.38
+1854,Hiroshima,Japan,14.82
+1855,Hiroshima,Japan,15.07
+1856,Hiroshima,Japan,14.60
+1857,Hiroshima,Japan,14.58
+1858,Hiroshima,Japan,14.69
+1859,Hiroshima,Japan,14.67
+1860,Hiroshima,Japan,14.12
+1861,Hiroshima,Japan,14.27
+1862,Hiroshima,Japan,14.06
+1863,Hiroshima,Japan,14.75
+1864,Hiroshima,Japan,14.32
+1865,Hiroshima,Japan,14.75
+1866,Hiroshima,Japan,14.22
+1867,Hiroshima,Japan,14.94
+1868,Hiroshima,Japan,14.80
+1869,Hiroshima,Japan,14.82
+1870,Hiroshima,Japan,14.78
+1871,Hiroshima,Japan,14.83
+1872,Hiroshima,Japan,14.60
+1873,Hiroshima,Japan,14.08
+1874,Hiroshima,Japan,14.81
+1875,Hiroshima,Japan,14.57
+1876,Hiroshima,Japan,14.81
+1877,Hiroshima,Japan,14.98
+1878,Hiroshima,Japan,14.73
+1879,Hiroshima,Japan,15.12
+1880,Hiroshima,Japan,14.77
+1881,Hiroshima,Japan,14.57
+1882,Hiroshima,Japan,14.62
+1883,Hiroshima,Japan,14.73
+1884,Hiroshima,Japan,13.73
+1885,Hiroshima,Japan,14.23
+1886,Hiroshima,Japan,14.55
+1887,Hiroshima,Japan,14.69
+1888,Hiroshima,Japan,14.83
+1889,Hiroshima,Japan,14.31
+1890,Hiroshima,Japan,15.73
+1891,Hiroshima,Japan,14.82
+1892,Hiroshima,Japan,14.52
+1893,Hiroshima,Japan,14.36
+1894,Hiroshima,Japan,15.66
+1895,Hiroshima,Japan,14.73
+1896,Hiroshima,Japan,14.61
+1897,Hiroshima,Japan,14.65
+1898,Hiroshima,Japan,15.46
+1899,Hiroshima,Japan,14.92
+1900,Hiroshima,Japan,14.63
+1901,Hiroshima,Japan,14.45
+1902,Hiroshima,Japan,14.74
+1903,Hiroshima,Japan,14.79
+1904,Hiroshima,Japan,14.68
+1905,Hiroshima,Japan,14.87
+1906,Hiroshima,Japan,14.35
+1907,Hiroshima,Japan,14.50
+1908,Hiroshima,Japan,14.53
+1909,Hiroshima,Japan,14.59
+1910,Hiroshima,Japan,14.39
+1911,Hiroshima,Japan,14.93
+1912,Hiroshima,Japan,14.65
+1913,Hiroshima,Japan,14.21
+1914,Hiroshima,Japan,15.55
+1915,Hiroshima,Japan,15.22
+1916,Hiroshima,Japan,15.60
+1917,Hiroshima,Japan,14.11
+1918,Hiroshima,Japan,14.33
+1919,Hiroshima,Japan,14.95
+1920,Hiroshima,Japan,15.13
+1921,Hiroshima,Japan,14.55
+1922,Hiroshima,Japan,15.21
+1923,Hiroshima,Japan,14.91
+1924,Hiroshima,Japan,14.63
+1925,Hiroshima,Japan,14.68
+1926,Hiroshima,Japan,14.54
+1927,Hiroshima,Japan,14.71
+1928,Hiroshima,Japan,15.14
+1929,Hiroshima,Japan,14.92
+1930,Hiroshima,Japan,15.41
+1931,Hiroshima,Japan,14.87
+1932,Hiroshima,Japan,14.77
+1933,Hiroshima,Japan,15.07
+1934,Hiroshima,Japan,14.71
+1935,Hiroshima,Japan,15.05
+1936,Hiroshima,Japan,14.29
+1937,Hiroshima,Japan,15.44
+1938,Hiroshima,Japan,15.09
+1939,Hiroshima,Japan,15.23
+1940,Hiroshima,Japan,15.01
+1941,Hiroshima,Japan,15.15
+1942,Hiroshima,Japan,15.12
+1943,Hiroshima,Japan,14.88
+1944,Hiroshima,Japan,15.03
+1945,Hiroshima,Japan,14.51
+1946,Hiroshima,Japan,15.40
+1947,Hiroshima,Japan,14.32
+1948,Hiroshima,Japan,15.74
+1949,Hiroshima,Japan,14.94
+1950,Hiroshima,Japan,15.40
+1951,Hiroshima,Japan,15.10
+1952,Hiroshima,Japan,15.13
+1953,Hiroshima,Japan,15.44
+1954,Hiroshima,Japan,15.50
+1955,Hiroshima,Japan,15.70
+1956,Hiroshima,Japan,14.88
+1957,Hiroshima,Japan,14.87
+1958,Hiroshima,Japan,15.64
+1959,Hiroshima,Japan,16.10
+1960,Hiroshima,Japan,15.83
+1961,Hiroshima,Japan,16.18
+1962,Hiroshima,Japan,15.30
+1963,Hiroshima,Japan,14.90
+1964,Hiroshima,Japan,15.83
+1965,Hiroshima,Japan,14.61
+1966,Hiroshima,Japan,15.27
+1967,Hiroshima,Japan,15.34
+1968,Hiroshima,Japan,14.90
+1969,Hiroshima,Japan,15.10
+1970,Hiroshima,Japan,15.05
+1971,Hiroshima,Japan,15.25
+1972,Hiroshima,Japan,15.33
+1973,Hiroshima,Japan,15.40
+1974,Hiroshima,Japan,14.79
+1975,Hiroshima,Japan,15.51
+1976,Hiroshima,Japan,14.68
+1977,Hiroshima,Japan,15.39
+1978,Hiroshima,Japan,15.81
+1979,Hiroshima,Japan,15.85
+1980,Hiroshima,Japan,14.59
+1981,Hiroshima,Japan,14.76
+1982,Hiroshima,Japan,15.27
+1983,Hiroshima,Japan,15.50
+1984,Hiroshima,Japan,14.93
+1985,Hiroshima,Japan,15.48
+1986,Hiroshima,Japan,14.81
+1987,Hiroshima,Japan,15.65
+1988,Hiroshima,Japan,15.12
+1989,Hiroshima,Japan,15.77
+1990,Hiroshima,Japan,16.40
+1991,Hiroshima,Japan,15.60
+1992,Hiroshima,Japan,15.63
+1993,Hiroshima,Japan,14.93
+1994,Hiroshima,Japan,16.33
+1995,Hiroshima,Japan,15.25
+1996,Hiroshima,Japan,15.20
+1997,Hiroshima,Japan,15.76
+1998,Hiroshima,Japan,16.72
+1999,Hiroshima,Japan,15.93
+2000,Hiroshima,Japan,15.92
+2001,Hiroshima,Japan,15.86
+2002,Hiroshima,Japan,16.09
+2003,Hiroshima,Japan,15.67
+2004,Hiroshima,Japan,16.56
+2005,Hiroshima,Japan,15.75
+2006,Hiroshima,Japan,15.87
+2007,Hiroshima,Japan,16.53
+2008,Hiroshima,Japan,15.96
+2009,Hiroshima,Japan,15.93
+2010,Hiroshima,Japan,16.12
+2011,Hiroshima,Japan,15.71
+2012,Hiroshima,Japan,15.53
+2013,Hiroshima,Japan,16.54
+1857,Johannesburg,South Africa,14.25
+1858,Johannesburg,South Africa,14.55
+1859,Johannesburg,South Africa,14.62
+1860,Johannesburg,South Africa,14.75
+1861,Johannesburg,South Africa,14.57
+1862,Johannesburg,South Africa,14.17
+1863,Johannesburg,South Africa,14.58
+1864,Johannesburg,South Africa,14.58
+1865,Johannesburg,South Africa,14.91
+1866,Johannesburg,South Africa,14.83
+1867,Johannesburg,South Africa,14.92
+1868,Johannesburg,South Africa,14.58
+1869,Johannesburg,South Africa,14.92
+1870,Johannesburg,South Africa,14.60
+1871,Johannesburg,South Africa,14.70
+1872,Johannesburg,South Africa,14.70
+1873,Johannesburg,South Africa,13.91
+1874,Johannesburg,South Africa,14.72
+1875,Johannesburg,South Africa,14.45
+1876,Johannesburg,South Africa,14.45
+1877,Johannesburg,South Africa,14.93
+1878,Johannesburg,South Africa,14.85
+1879,Johannesburg,South Africa,14.37
+1880,Johannesburg,South Africa,15.00
+1881,Johannesburg,South Africa,14.67
+1882,Johannesburg,South Africa,14.47
+1883,Johannesburg,South Africa,14.69
+1884,Johannesburg,South Africa,14.38
+1885,Johannesburg,South Africa,14.76
+1886,Johannesburg,South Africa,14.88
+1887,Johannesburg,South Africa,14.44
+1888,Johannesburg,South Africa,14.79
+1889,Johannesburg,South Africa,15.23
+1890,Johannesburg,South Africa,14.67
+1891,Johannesburg,South Africa,14.73
+1892,Johannesburg,South Africa,14.78
+1893,Johannesburg,South Africa,14.48
+1894,Johannesburg,South Africa,14.55
+1895,Johannesburg,South Africa,14.71
+1896,Johannesburg,South Africa,15.29
+1897,Johannesburg,South Africa,14.82
+1898,Johannesburg,South Africa,14.22
+1899,Johannesburg,South Africa,14.59
+1900,Johannesburg,South Africa,15.13
+1901,Johannesburg,South Africa,14.56
+1902,Johannesburg,South Africa,14.49
+1903,Johannesburg,South Africa,14.68
+1904,Johannesburg,South Africa,14.35
+1905,Johannesburg,South Africa,14.66
+1906,Johannesburg,South Africa,14.36
+1907,Johannesburg,South Africa,14.27
+1908,Johannesburg,South Africa,14.80
+1909,Johannesburg,South Africa,14.77
+1910,Johannesburg,South Africa,14.19
+1911,Johannesburg,South Africa,14.57
+1912,Johannesburg,South Africa,15.16
+1913,Johannesburg,South Africa,15.18
+1914,Johannesburg,South Africa,15.33
+1915,Johannesburg,South Africa,14.78
+1916,Johannesburg,South Africa,14.95
+1917,Johannesburg,South Africa,14.21
+1918,Johannesburg,South Africa,14.50
+1919,Johannesburg,South Africa,15.11
+1920,Johannesburg,South Africa,15.13
+1921,Johannesburg,South Africa,14.49
+1922,Johannesburg,South Africa,15.27
+1923,Johannesburg,South Africa,15.42
+1924,Johannesburg,South Africa,14.40
+1925,Johannesburg,South Africa,14.78
+1926,Johannesburg,South Africa,15.26
+1927,Johannesburg,South Africa,15.18
+1928,Johannesburg,South Africa,15.16
+1929,Johannesburg,South Africa,15.17
+1930,Johannesburg,South Africa,14.75
+1931,Johannesburg,South Africa,15.17
+1932,Johannesburg,South Africa,15.40
+1933,Johannesburg,South Africa,15.21
+1934,Johannesburg,South Africa,15.17
+1935,Johannesburg,South Africa,14.56
+1936,Johannesburg,South Africa,14.67
+1937,Johannesburg,South Africa,15.08
+1938,Johannesburg,South Africa,15.28
+1939,Johannesburg,South Africa,14.57
+1940,Johannesburg,South Africa,15.32
+1941,Johannesburg,South Africa,15.90
+1942,Johannesburg,South Africa,15.30
+1943,Johannesburg,South Africa,14.67
+1944,Johannesburg,South Africa,15.26
+1945,Johannesburg,South Africa,15.18
+1946,Johannesburg,South Africa,15.33
+1947,Johannesburg,South Africa,15.33
+1948,Johannesburg,South Africa,15.14
+1949,Johannesburg,South Africa,15.35
+1950,Johannesburg,South Africa,15.35
+1951,Johannesburg,South Africa,14.88
+1952,Johannesburg,South Africa,15.27
+1953,Johannesburg,South Africa,14.76
+1954,Johannesburg,South Africa,14.91
+1955,Johannesburg,South Africa,14.44
+1956,Johannesburg,South Africa,15.14
+1957,Johannesburg,South Africa,15.27
+1958,Johannesburg,South Africa,15.54
+1959,Johannesburg,South Africa,15.07
+1960,Johannesburg,South Africa,15.14
+1961,Johannesburg,South Africa,15.39
+1962,Johannesburg,South Africa,15.57
+1963,Johannesburg,South Africa,15.09
+1964,Johannesburg,South Africa,15.15
+1965,Johannesburg,South Africa,15.28
+1966,Johannesburg,South Africa,15.64
+1967,Johannesburg,South Africa,14.88
+1968,Johannesburg,South Africa,15.09
+1969,Johannesburg,South Africa,15.66
+1970,Johannesburg,South Africa,15.83
+1971,Johannesburg,South Africa,15.15
+1972,Johannesburg,South Africa,15.31
+1973,Johannesburg,South Africa,15.34
+1974,Johannesburg,South Africa,14.93
+1975,Johannesburg,South Africa,14.99
+1976,Johannesburg,South Africa,14.62
+1977,Johannesburg,South Africa,15.57
+1978,Johannesburg,South Africa,15.30
+1979,Johannesburg,South Africa,15.65
+1980,Johannesburg,South Africa,15.08
+1981,Johannesburg,South Africa,14.81
+1982,Johannesburg,South Africa,15.69
+1983,Johannesburg,South Africa,16.17
+1984,Johannesburg,South Africa,15.68
+1985,Johannesburg,South Africa,15.81
+1986,Johannesburg,South Africa,15.72
+1987,Johannesburg,South Africa,15.85
+1988,Johannesburg,South Africa,15.43
+1989,Johannesburg,South Africa,15.14
+1990,Johannesburg,South Africa,15.56
+1991,Johannesburg,South Africa,15.56
+1992,Johannesburg,South Africa,16.48
+1993,Johannesburg,South Africa,16.01
+1994,Johannesburg,South Africa,15.10
+1995,Johannesburg,South Africa,15.77
+1996,Johannesburg,South Africa,15.23
+1997,Johannesburg,South Africa,15.38
+1998,Johannesburg,South Africa,16.11
+1999,Johannesburg,South Africa,16.09
+2000,Johannesburg,South Africa,15.13
+2001,Johannesburg,South Africa,15.68
+2002,Johannesburg,South Africa,15.88
+2003,Johannesburg,South Africa,16.34
+2004,Johannesburg,South Africa,15.49
+2005,Johannesburg,South Africa,16.29
+2006,Johannesburg,South Africa,15.26
+2007,Johannesburg,South Africa,15.90
+2008,Johannesburg,South Africa,15.75
+2009,Johannesburg,South Africa,15.44
+2010,Johannesburg,South Africa,16.11
+2011,Johannesburg,South Africa,15.49
+2012,Johannesburg,South Africa,15.89
+2013,Johannesburg,South Africa,14.98
+1845,Kawasaki,Japan,11.95
+1846,Kawasaki,Japan,12.40
+1847,Kawasaki,Japan,12.21
+1848,Kawasaki,Japan,12.14
+1849,Kawasaki,Japan,12.14
+1850,Kawasaki,Japan,11.71
+1851,Kawasaki,Japan,11.76
+1852,Kawasaki,Japan,11.73
+1853,Kawasaki,Japan,11.86
+1854,Kawasaki,Japan,12.24
+1855,Kawasaki,Japan,12.56
+1856,Kawasaki,Japan,12.06
+1857,Kawasaki,Japan,11.94
+1858,Kawasaki,Japan,12.23
+1859,Kawasaki,Japan,12.15
+1860,Kawasaki,Japan,11.72
+1861,Kawasaki,Japan,11.79
+1862,Kawasaki,Japan,11.73
+1863,Kawasaki,Japan,12.45
+1864,Kawasaki,Japan,11.95
+1865,Kawasaki,Japan,12.39
+1866,Kawasaki,Japan,11.58
+1867,Kawasaki,Japan,12.46
+1868,Kawasaki,Japan,12.25
+1869,Kawasaki,Japan,12.03
+1870,Kawasaki,Japan,16.12
+1871,Kawasaki,Japan,12.12
+1872,Kawasaki,Japan,12.00
+1873,Kawasaki,Japan,11.53
+1874,Kawasaki,Japan,12.33
+1875,Kawasaki,Japan,12.17
+1876,Kawasaki,Japan,12.39
+1877,Kawasaki,Japan,12.73
+1878,Kawasaki,Japan,12.24
+1879,Kawasaki,Japan,12.82
+1880,Kawasaki,Japan,12.43
+1881,Kawasaki,Japan,12.15
+1882,Kawasaki,Japan,12.29
+1883,Kawasaki,Japan,11.84
+1884,Kawasaki,Japan,11.18
+1885,Kawasaki,Japan,11.53
+1886,Kawasaki,Japan,12.44
+1887,Kawasaki,Japan,12.25
+1888,Kawasaki,Japan,12.01
+1889,Kawasaki,Japan,11.66
+1890,Kawasaki,Japan,13.50
+1891,Kawasaki,Japan,12.42
+1892,Kawasaki,Japan,12.10
+1893,Kawasaki,Japan,11.71
+1894,Kawasaki,Japan,12.92
+1895,Kawasaki,Japan,12.22
+1896,Kawasaki,Japan,12.33
+1897,Kawasaki,Japan,11.72
+1898,Kawasaki,Japan,12.49
+1899,Kawasaki,Japan,12.32
+1900,Kawasaki,Japan,12.11
+1901,Kawasaki,Japan,12.31
+1902,Kawasaki,Japan,12.22
+1903,Kawasaki,Japan,12.34
+1904,Kawasaki,Japan,12.29
+1905,Kawasaki,Japan,12.03
+1906,Kawasaki,Japan,11.66
+1907,Kawasaki,Japan,11.97
+1908,Kawasaki,Japan,11.72
+1909,Kawasaki,Japan,12.04
+1910,Kawasaki,Japan,12.00
+1911,Kawasaki,Japan,12.81
+1912,Kawasaki,Japan,12.32
+1913,Kawasaki,Japan,11.72
+1914,Kawasaki,Japan,13.10
+1915,Kawasaki,Japan,12.74
+1916,Kawasaki,Japan,13.10
+1917,Kawasaki,Japan,12.04
+1918,Kawasaki,Japan,12.19
+1919,Kawasaki,Japan,12.59
+1920,Kawasaki,Japan,12.69
+1921,Kawasaki,Japan,12.12
+1922,Kawasaki,Japan,12.86
+1923,Kawasaki,Japan,12.64
+1924,Kawasaki,Japan,12.35
+1925,Kawasaki,Japan,12.19
+1926,Kawasaki,Japan,11.74
+1927,Kawasaki,Japan,12.19
+1928,Kawasaki,Japan,12.42
+1929,Kawasaki,Japan,12.44
+1930,Kawasaki,Japan,13.00
+1931,Kawasaki,Japan,12.16
+1932,Kawasaki,Japan,12.67
+1933,Kawasaki,Japan,12.69
+1934,Kawasaki,Japan,11.85
+1935,Kawasaki,Japan,12.25
+1936,Kawasaki,Japan,12.09
+1937,Kawasaki,Japan,12.86
+1938,Kawasaki,Japan,12.60
+1939,Kawasaki,Japan,12.72
+1940,Kawasaki,Japan,12.66
+1941,Kawasaki,Japan,12.61
+1942,Kawasaki,Japan,12.80
+1943,Kawasaki,Japan,12.48
+1944,Kawasaki,Japan,12.16
+1945,Kawasaki,Japan,11.62
+1946,Kawasaki,Japan,12.86
+1947,Kawasaki,Japan,11.99
+1948,Kawasaki,Japan,13.18
+1949,Kawasaki,Japan,12.62
+1950,Kawasaki,Japan,13.21
+1951,Kawasaki,Japan,12.72
+1952,Kawasaki,Japan,12.65
+1953,Kawasaki,Japan,12.51
+1954,Kawasaki,Japan,12.76
+1955,Kawasaki,Japan,13.42
+1956,Kawasaki,Japan,12.61
+1957,Kawasaki,Japan,12.66
+1958,Kawasaki,Japan,13.09
+1959,Kawasaki,Japan,13.50
+1960,Kawasaki,Japan,13.26
+1961,Kawasaki,Japan,13.66
+1962,Kawasaki,Japan,13.01
+1963,Kawasaki,Japan,12.71
+1964,Kawasaki,Japan,12.93
+1965,Kawasaki,Japan,12.27
+1966,Kawasaki,Japan,12.81
+1967,Kawasaki,Japan,12.85
+1968,Kawasaki,Japan,12.75
+1969,Kawasaki,Japan,12.64
+1970,Kawasaki,Japan,12.35
+1971,Kawasaki,Japan,12.52
+1972,Kawasaki,Japan,13.17
+1973,Kawasaki,Japan,12.96
+1974,Kawasaki,Japan,12.23
+1975,Kawasaki,Japan,12.72
+1976,Kawasaki,Japan,12.19
+1977,Kawasaki,Japan,12.94
+1978,Kawasaki,Japan,13.05
+1979,Kawasaki,Japan,13.83
+1980,Kawasaki,Japan,12.35
+1981,Kawasaki,Japan,12.06
+1982,Kawasaki,Japan,12.91
+1983,Kawasaki,Japan,12.64
+1984,Kawasaki,Japan,11.98
+1985,Kawasaki,Japan,12.90
+1986,Kawasaki,Japan,12.22
+1987,Kawasaki,Japan,13.41
+1988,Kawasaki,Japan,12.44
+1989,Kawasaki,Japan,13.35
+1990,Kawasaki,Japan,14.14
+1991,Kawasaki,Japan,13.32
+1992,Kawasaki,Japan,12.94
+1993,Kawasaki,Japan,12.49
+1994,Kawasaki,Japan,13.78
+1995,Kawasaki,Japan,12.98
+1996,Kawasaki,Japan,12.61
+1997,Kawasaki,Japan,13.43
+1998,Kawasaki,Japan,13.74
+1999,Kawasaki,Japan,13.78
+2000,Kawasaki,Japan,13.50
+2001,Kawasaki,Japan,13.13
+2002,Kawasaki,Japan,13.42
+2003,Kawasaki,Japan,12.89
+2004,Kawasaki,Japan,14.05
+2005,Kawasaki,Japan,12.99
+2006,Kawasaki,Japan,13.28
+2007,Kawasaki,Japan,13.68
+2008,Kawasaki,Japan,13.31
+2009,Kawasaki,Japan,13.55
+2010,Kawasaki,Japan,13.82
+2011,Kawasaki,Japan,13.32
+2012,Kawasaki,Japan,13.11
+2013,Kawasaki,Japan,13.91
+1937,Kitakyushu,Japan,15.47
+1841,Kitakyushu,Japan,13.98
+1842,Kitakyushu,Japan,14.50
+1843,Kitakyushu,Japan,14.64
+1844,Kitakyushu,Japan,14.35
+1845,Kitakyushu,Japan,14.55
+1846,Kitakyushu,Japan,14.72
+1847,Kitakyushu,Japan,14.92
+1848,Kitakyushu,Japan,14.69
+1849,Kitakyushu,Japan,14.67
+1850,Kitakyushu,Japan,14.20
+1851,Kitakyushu,Japan,13.95
+1852,Kitakyushu,Japan,14.04
+1853,Kitakyushu,Japan,14.38
+1854,Kitakyushu,Japan,14.84
+1855,Kitakyushu,Japan,15.07
+1856,Kitakyushu,Japan,14.61
+1857,Kitakyushu,Japan,14.62
+1858,Kitakyushu,Japan,14.68
+1859,Kitakyushu,Japan,14.68
+1860,Kitakyushu,Japan,14.07
+1861,Kitakyushu,Japan,14.25
+1862,Kitakyushu,Japan,14.00
+1863,Kitakyushu,Japan,14.71
+1864,Kitakyushu,Japan,14.28
+1865,Kitakyushu,Japan,14.71
+1866,Kitakyushu,Japan,14.27
+1867,Kitakyushu,Japan,14.93
+1868,Kitakyushu,Japan,14.81
+1869,Kitakyushu,Japan,14.89
+1870,Kitakyushu,Japan,14.80
+1871,Kitakyushu,Japan,14.88
+1872,Kitakyushu,Japan,14.64
+1873,Kitakyushu,Japan,14.12
+1874,Kitakyushu,Japan,14.80
+1875,Kitakyushu,Japan,14.58
+1876,Kitakyushu,Japan,14.81
+1877,Kitakyushu,Japan,14.90
+1878,Kitakyushu,Japan,14.70
+1879,Kitakyushu,Japan,15.05
+1880,Kitakyushu,Japan,14.69
+1881,Kitakyushu,Japan,14.58
+1882,Kitakyushu,Japan,14.60
+1883,Kitakyushu,Japan,14.70
+1884,Kitakyushu,Japan,13.70
+1885,Kitakyushu,Japan,14.21
+1886,Kitakyushu,Japan,14.50
+1887,Kitakyushu,Japan,14.77
+1888,Kitakyushu,Japan,14.88
+1889,Kitakyushu,Japan,14.30
+1890,Kitakyushu,Japan,15.74
+1891,Kitakyushu,Japan,14.78
+1892,Kitakyushu,Japan,14.49
+1893,Kitakyushu,Japan,14.32
+1894,Kitakyushu,Japan,15.78
+1895,Kitakyushu,Japan,14.70
+1896,Kitakyushu,Japan,14.67
+1897,Kitakyushu,Japan,14.72
+1898,Kitakyushu,Japan,15.62
+1899,Kitakyushu,Japan,14.99
+1900,Kitakyushu,Japan,14.65
+1901,Kitakyushu,Japan,14.37
+1902,Kitakyushu,Japan,14.79
+1903,Kitakyushu,Japan,14.80
+1904,Kitakyushu,Japan,14.68
+1905,Kitakyushu,Japan,14.94
+1906,Kitakyushu,Japan,14.37
+1907,Kitakyushu,Japan,14.57
+1908,Kitakyushu,Japan,14.57
+1909,Kitakyushu,Japan,14.64
+1910,Kitakyushu,Japan,14.34
+1911,Kitakyushu,Japan,14.86
+1912,Kitakyushu,Japan,14.59
+1913,Kitakyushu,Japan,14.22
+1914,Kitakyushu,Japan,15.57
+1915,Kitakyushu,Japan,15.17
+1916,Kitakyushu,Japan,15.48
+1917,Kitakyushu,Japan,14.05
+1918,Kitakyushu,Japan,14.32
+1919,Kitakyushu,Japan,14.94
+1920,Kitakyushu,Japan,15.13
+1921,Kitakyushu,Japan,14.54
+1922,Kitakyushu,Japan,15.20
+1923,Kitakyushu,Japan,14.82
+1924,Kitakyushu,Japan,14.58
+1925,Kitakyushu,Japan,14.65
+1926,Kitakyushu,Japan,14.54
+1927,Kitakyushu,Japan,14.73
+1928,Kitakyushu,Japan,15.04
+1929,Kitakyushu,Japan,14.98
+1930,Kitakyushu,Japan,15.42
+1931,Kitakyushu,Japan,14.88
+1932,Kitakyushu,Japan,14.78
+1933,Kitakyushu,Japan,14.99
+1934,Kitakyushu,Japan,14.59
+1935,Kitakyushu,Japan,15.14
+1936,Kitakyushu,Japan,14.22
+1938,Kitakyushu,Japan,15.05
+1939,Kitakyushu,Japan,15.29
+1940,Kitakyushu,Japan,15.02
+1941,Kitakyushu,Japan,15.10
+1942,Kitakyushu,Japan,15.11
+1943,Kitakyushu,Japan,14.92
+1944,Kitakyushu,Japan,15.02
+1945,Kitakyushu,Japan,14.52
+1946,Kitakyushu,Japan,15.37
+1947,Kitakyushu,Japan,14.20
+1948,Kitakyushu,Japan,15.66
+1949,Kitakyushu,Japan,14.90
+1950,Kitakyushu,Japan,15.35
+1951,Kitakyushu,Japan,15.20
+1952,Kitakyushu,Japan,15.09
+1953,Kitakyushu,Japan,15.47
+1954,Kitakyushu,Japan,15.54
+1955,Kitakyushu,Japan,15.64
+1956,Kitakyushu,Japan,14.69
+1957,Kitakyushu,Japan,14.81
+1958,Kitakyushu,Japan,15.61
+1959,Kitakyushu,Japan,16.02
+1960,Kitakyushu,Japan,15.84
+1961,Kitakyushu,Japan,16.08
+1962,Kitakyushu,Japan,15.19
+1963,Kitakyushu,Japan,14.69
+1964,Kitakyushu,Japan,15.82
+1965,Kitakyushu,Japan,14.69
+1966,Kitakyushu,Japan,15.29
+1967,Kitakyushu,Japan,15.32
+1968,Kitakyushu,Japan,14.87
+1969,Kitakyushu,Japan,14.98
+1970,Kitakyushu,Japan,14.96
+1971,Kitakyushu,Japan,15.20
+1972,Kitakyushu,Japan,15.30
+1973,Kitakyushu,Japan,15.48
+1974,Kitakyushu,Japan,14.72
+1975,Kitakyushu,Japan,15.62
+1976,Kitakyushu,Japan,14.73
+1977,Kitakyushu,Japan,15.39
+1978,Kitakyushu,Japan,15.95
+1979,Kitakyushu,Japan,15.84
+1980,Kitakyushu,Japan,14.53
+1981,Kitakyushu,Japan,14.81
+1982,Kitakyushu,Japan,15.36
+1983,Kitakyushu,Japan,15.38
+1984,Kitakyushu,Japan,14.95
+1985,Kitakyushu,Japan,15.39
+1986,Kitakyushu,Japan,14.78
+1987,Kitakyushu,Japan,15.58
+1988,Kitakyushu,Japan,15.22
+1989,Kitakyushu,Japan,15.87
+1990,Kitakyushu,Japan,16.46
+1991,Kitakyushu,Japan,15.43
+1992,Kitakyushu,Japan,15.68
+1993,Kitakyushu,Japan,14.99
+1994,Kitakyushu,Japan,16.41
+1995,Kitakyushu,Japan,15.32
+1996,Kitakyushu,Japan,15.32
+1997,Kitakyushu,Japan,15.89
+1998,Kitakyushu,Japan,16.74
+1999,Kitakyushu,Japan,15.93
+2000,Kitakyushu,Japan,15.95
+2001,Kitakyushu,Japan,15.97
+2002,Kitakyushu,Japan,16.00
+2003,Kitakyushu,Japan,15.77
+2004,Kitakyushu,Japan,16.54
+2005,Kitakyushu,Japan,15.75
+2006,Kitakyushu,Japan,15.92
+2007,Kitakyushu,Japan,16.55
+2008,Kitakyushu,Japan,15.98
+2009,Kitakyushu,Japan,16.02
+2010,Kitakyushu,Japan,16.01
+2011,Kitakyushu,Japan,15.62
+2012,Kitakyushu,Japan,15.54
+2013,Kitakyushu,Japan,16.30
+1841,Kobe,Japan,13.72
+1842,Kobe,Japan,14.18
+1843,Kobe,Japan,14.32
+1844,Kobe,Japan,13.97
+1845,Kobe,Japan,14.16
+1846,Kobe,Japan,14.44
+1847,Kobe,Japan,14.48
+1848,Kobe,Japan,14.34
+1849,Kobe,Japan,14.31
+1850,Kobe,Japan,13.87
+1851,Kobe,Japan,13.77
+1852,Kobe,Japan,13.79
+1853,Kobe,Japan,14.04
+1854,Kobe,Japan,14.45
+1855,Kobe,Japan,14.71
+1856,Kobe,Japan,14.24
+1857,Kobe,Japan,14.20
+1858,Kobe,Japan,14.35
+1859,Kobe,Japan,14.33
+1860,Kobe,Japan,13.82
+1861,Kobe,Japan,13.94
+1862,Kobe,Japan,13.75
+1863,Kobe,Japan,14.45
+1864,Kobe,Japan,14.00
+1865,Kobe,Japan,14.44
+1866,Kobe,Japan,13.83
+1867,Kobe,Japan,14.62
+1868,Kobe,Japan,14.45
+1869,Kobe,Japan,14.40
+1870,Kobe,Japan,14.41
+1871,Kobe,Japan,14.43
+1872,Kobe,Japan,14.22
+1873,Kobe,Japan,13.71
+1874,Kobe,Japan,14.47
+1875,Kobe,Japan,14.23
+1876,Kobe,Japan,14.46
+1877,Kobe,Japan,14.70
+1878,Kobe,Japan,14.40
+1879,Kobe,Japan,14.83
+1880,Kobe,Japan,14.44
+1881,Kobe,Japan,14.25
+1882,Kobe,Japan,14.27
+1883,Kobe,Japan,14.29
+1884,Kobe,Japan,13.41
+1885,Kobe,Japan,13.88
+1886,Kobe,Japan,14.28
+1887,Kobe,Japan,14.31
+1888,Kobe,Japan,14.45
+1889,Kobe,Japan,13.94
+1890,Kobe,Japan,15.49
+1891,Kobe,Japan,14.50
+1892,Kobe,Japan,14.21
+1893,Kobe,Japan,14.07
+1894,Kobe,Japan,15.26
+1895,Kobe,Japan,14.40
+1896,Kobe,Japan,14.26
+1897,Kobe,Japan,14.24
+1898,Kobe,Japan,14.99
+1899,Kobe,Japan,14.50
+1900,Kobe,Japan,14.33
+1901,Kobe,Japan,14.20
+1902,Kobe,Japan,14.31
+1903,Kobe,Japan,14.46
+1904,Kobe,Japan,14.36
+1905,Kobe,Japan,14.51
+1906,Kobe,Japan,13.98
+1907,Kobe,Japan,14.09
+1908,Kobe,Japan,14.12
+1909,Kobe,Japan,14.16
+1910,Kobe,Japan,14.08
+1911,Kobe,Japan,14.58
+1912,Kobe,Japan,14.37
+1913,Kobe,Japan,13.95
+1914,Kobe,Japan,15.23
+1915,Kobe,Japan,14.95
+1916,Kobe,Japan,15.31
+1917,Kobe,Japan,13.84
+1918,Kobe,Japan,14.04
+1919,Kobe,Japan,14.64
+1920,Kobe,Japan,14.81
+1921,Kobe,Japan,14.19
+1922,Kobe,Japan,14.95
+1923,Kobe,Japan,14.69
+1924,Kobe,Japan,14.30
+1925,Kobe,Japan,14.26
+1926,Kobe,Japan,14.10
+1927,Kobe,Japan,14.38
+1928,Kobe,Japan,14.74
+1929,Kobe,Japan,14.52
+1930,Kobe,Japan,15.08
+1931,Kobe,Japan,14.50
+1932,Kobe,Japan,14.42
+1933,Kobe,Japan,14.72
+1934,Kobe,Japan,14.28
+1935,Kobe,Japan,14.64
+1936,Kobe,Japan,14.00
+1937,Kobe,Japan,15.01
+1938,Kobe,Japan,14.69
+1939,Kobe,Japan,14.85
+1940,Kobe,Japan,14.70
+1941,Kobe,Japan,14.80
+1942,Kobe,Japan,14.82
+1943,Kobe,Japan,14.47
+1944,Kobe,Japan,14.63
+1945,Kobe,Japan,14.06
+1946,Kobe,Japan,14.95
+1947,Kobe,Japan,14.05
+1948,Kobe,Japan,15.31
+1949,Kobe,Japan,14.67
+1950,Kobe,Japan,15.14
+1951,Kobe,Japan,14.76
+1952,Kobe,Japan,14.84
+1953,Kobe,Japan,14.98
+1954,Kobe,Japan,15.10
+1955,Kobe,Japan,15.35
+1956,Kobe,Japan,14.66
+1957,Kobe,Japan,14.59
+1958,Kobe,Japan,15.32
+1959,Kobe,Japan,15.88
+1960,Kobe,Japan,15.46
+1961,Kobe,Japan,15.77
+1962,Kobe,Japan,15.02
+1963,Kobe,Japan,14.69
+1964,Kobe,Japan,15.50
+1965,Kobe,Japan,14.27
+1966,Kobe,Japan,14.84
+1967,Kobe,Japan,15.06
+1968,Kobe,Japan,14.63
+1969,Kobe,Japan,14.72
+1970,Kobe,Japan,14.70
+1971,Kobe,Japan,14.88
+1972,Kobe,Japan,15.06
+1973,Kobe,Japan,15.05
+1974,Kobe,Japan,14.55
+1975,Kobe,Japan,15.12
+1976,Kobe,Japan,14.36
+1977,Kobe,Japan,15.14
+1978,Kobe,Japan,15.40
+1979,Kobe,Japan,15.62
+1980,Kobe,Japan,14.40
+1981,Kobe,Japan,14.38
+1982,Kobe,Japan,14.87
+1983,Kobe,Japan,15.20
+1984,Kobe,Japan,14.53
+1985,Kobe,Japan,15.18
+1986,Kobe,Japan,14.56
+1987,Kobe,Japan,15.37
+1988,Kobe,Japan,14.66
+1989,Kobe,Japan,15.38
+1990,Kobe,Japan,16.12
+1991,Kobe,Japan,15.38
+1992,Kobe,Japan,15.21
+1993,Kobe,Japan,14.68
+1994,Kobe,Japan,16.06
+1995,Kobe,Japan,14.83
+1996,Kobe,Japan,14.79
+1997,Kobe,Japan,15.37
+1998,Kobe,Japan,16.39
+1999,Kobe,Japan,15.66
+2000,Kobe,Japan,15.58
+2001,Kobe,Japan,15.40
+2002,Kobe,Japan,15.71
+2003,Kobe,Japan,15.27
+2004,Kobe,Japan,16.19
+2005,Kobe,Japan,15.36
+2006,Kobe,Japan,15.43
+2007,Kobe,Japan,16.03
+2008,Kobe,Japan,15.55
+2009,Kobe,Japan,15.61
+2010,Kobe,Japan,15.80
+2011,Kobe,Japan,15.38
+2012,Kobe,Japan,15.14
+2013,Kobe,Japan,16.00
+1743,London,United Kingdom,7.54
+1744,London,United Kingdom,10.34
+1745,London,United Kingdom,4.13
+1746,London,United Kingdom,
+1747,London,United Kingdom,
+1748,London,United Kingdom,
+1749,London,United Kingdom,
+1750,London,United Kingdom,10.25
+1751,London,United Kingdom,9.99
+1752,London,United Kingdom,6.54
+1753,London,United Kingdom,9.42
+1754,London,United Kingdom,9.20
+1755,London,United Kingdom,8.95
+1756,London,United Kingdom,9.42
+1757,London,United Kingdom,9.34
+1758,London,United Kingdom,8.85
+1759,London,United Kingdom,9.80
+1760,London,United Kingdom,9.26
+1761,London,United Kingdom,9.69
+1762,London,United Kingdom,8.99
+1763,London,United Kingdom,8.75
+1764,London,United Kingdom,9.14
+1765,London,United Kingdom,8.95
+1766,London,United Kingdom,9.07
+1767,London,United Kingdom,8.98
+1768,London,United Kingdom,9.12
+1769,London,United Kingdom,9.04
+1770,London,United Kingdom,9.03
+1771,London,United Kingdom,8.78
+1772,London,United Kingdom,9.36
+1773,London,United Kingdom,9.33
+1774,London,United Kingdom,9.10
+1775,London,United Kingdom,10.10
+1776,London,United Kingdom,9.21
+1777,London,United Kingdom,9.25
+1778,London,United Kingdom,9.80
+1779,London,United Kingdom,10.76
+1780,London,United Kingdom,9.67
+1781,London,United Kingdom,10.41
+1782,London,United Kingdom,8.44
+1783,London,United Kingdom,9.97
+1784,London,United Kingdom,8.29
+1785,London,United Kingdom,8.54
+1786,London,United Kingdom,8.35
+1787,London,United Kingdom,9.53
+1788,London,United Kingdom,9.39
+1789,London,United Kingdom,9.12
+1790,London,United Kingdom,9.67
+1791,London,United Kingdom,9.59
+1792,London,United Kingdom,9.56
+1793,London,United Kingdom,9.59
+1794,London,United Kingdom,10.00
+1795,London,United Kingdom,9.19
+1796,London,United Kingdom,9.50
+1797,London,United Kingdom,9.62
+1798,London,United Kingdom,9.83
+1799,London,United Kingdom,7.94
+1800,London,United Kingdom,9.32
+1801,London,United Kingdom,9.68
+1802,London,United Kingdom,9.31
+1803,London,United Kingdom,8.79
+1804,London,United Kingdom,9.37
+1805,London,United Kingdom,8.56
+1806,London,United Kingdom,9.87
+1807,London,United Kingdom,9.03
+1808,London,United Kingdom,8.91
+1809,London,United Kingdom,8.99
+1810,London,United Kingdom,8.97
+1811,London,United Kingdom,10.10
+1812,London,United Kingdom,8.58
+1813,London,United Kingdom,9.13
+1814,London,United Kingdom,7.93
+1815,London,United Kingdom,8.99
+1816,London,United Kingdom,7.98
+1817,London,United Kingdom,8.95
+1818,London,United Kingdom,9.88
+1819,London,United Kingdom,9.58
+1820,London,United Kingdom,8.61
+1821,London,United Kingdom,9.63
+1822,London,United Kingdom,10.36
+1823,London,United Kingdom,8.80
+1824,London,United Kingdom,9.65
+1825,London,United Kingdom,9.98
+1826,London,United Kingdom,10.12
+1827,London,United Kingdom,9.37
+1828,London,United Kingdom,10.10
+1829,London,United Kingdom,7.95
+1830,London,United Kingdom,8.78
+1831,London,United Kingdom,10.01
+1832,London,United Kingdom,9.24
+1833,London,United Kingdom,9.40
+1834,London,United Kingdom,10.59
+1835,London,United Kingdom,9.48
+1836,London,United Kingdom,9.04
+1837,London,United Kingdom,8.85
+1838,London,United Kingdom,8.05
+1839,London,United Kingdom,8.89
+1840,London,United Kingdom,8.68
+1841,London,United Kingdom,9.12
+1842,London,United Kingdom,9.43
+1843,London,United Kingdom,9.40
+1844,London,United Kingdom,8.85
+1845,London,United Kingdom,8.46
+1846,London,United Kingdom,10.48
+1847,London,United Kingdom,9.24
+1848,London,United Kingdom,9.52
+1849,London,United Kingdom,9.42
+1850,London,United Kingdom,9.06
+1851,London,United Kingdom,9.17
+1852,London,United Kingdom,9.96
+1853,London,United Kingdom,8.44
+1854,London,United Kingdom,9.30
+1855,London,United Kingdom,8.03
+1856,London,United Kingdom,9.17
+1857,London,United Kingdom,10.21
+1858,London,United Kingdom,9.20
+1859,London,United Kingdom,9.97
+1860,London,United Kingdom,8.17
+1861,London,United Kingdom,9.42
+1862,London,United Kingdom,9.56
+1863,London,United Kingdom,9.90
+1864,London,United Kingdom,8.74
+1865,London,United Kingdom,9.82
+1866,London,United Kingdom,9.69
+1867,London,United Kingdom,9.06
+1868,London,United Kingdom,10.50
+1869,London,United Kingdom,9.46
+1870,London,United Kingdom,8.94
+1871,London,United Kingdom,8.97
+1872,London,United Kingdom,10.07
+1873,London,United Kingdom,9.26
+1874,London,United Kingdom,9.37
+1875,London,United Kingdom,9.43
+1876,London,United Kingdom,9.75
+1877,London,United Kingdom,9.43
+1878,London,United Kingdom,9.47
+1879,London,United Kingdom,7.62
+1880,London,United Kingdom,9.35
+1881,London,United Kingdom,8.71
+1882,London,United Kingdom,9.43
+1883,London,United Kingdom,9.21
+1884,London,United Kingdom,9.86
+1885,London,United Kingdom,8.68
+1886,London,United Kingdom,8.80
+1887,London,United Kingdom,8.39
+1888,London,United Kingdom,8.31
+1889,London,United Kingdom,8.91
+1890,London,United Kingdom,8.86
+1891,London,United Kingdom,8.65
+1892,London,United Kingdom,8.35
+1893,London,United Kingdom,10.05
+1894,London,United Kingdom,9.42
+1895,London,United Kingdom,8.91
+1896,London,United Kingdom,9.41
+1897,London,United Kingdom,9.50
+1898,London,United Kingdom,10.08
+1899,London,United Kingdom,9.85
+1900,London,United Kingdom,9.73
+1901,London,United Kingdom,9.20
+1902,London,United Kingdom,8.95
+1903,London,United Kingdom,9.45
+1904,London,United Kingdom,9.18
+1905,London,United Kingdom,9.25
+1906,London,United Kingdom,9.62
+1907,London,United Kingdom,9.03
+1908,London,United Kingdom,9.31
+1909,London,United Kingdom,8.70
+1910,London,United Kingdom,9.39
+1911,London,United Kingdom,10.22
+1912,London,United Kingdom,9.57
+1913,London,United Kingdom,9.89
+1914,London,United Kingdom,9.98
+1915,London,United Kingdom,9.07
+1916,London,United Kingdom,9.28
+1917,London,United Kingdom,8.65
+1918,London,United Kingdom,9.60
+1919,London,United Kingdom,8.48
+1920,London,United Kingdom,9.67
+1921,London,United Kingdom,10.60
+1922,London,United Kingdom,8.81
+1923,London,United Kingdom,9.17
+1924,London,United Kingdom,9.34
+1925,London,United Kingdom,9.31
+1926,London,United Kingdom,9.83
+1927,London,United Kingdom,9.25
+1928,London,United Kingdom,9.69
+1929,London,United Kingdom,9.09
+1930,London,United Kingdom,9.70
+1931,London,United Kingdom,9.12
+1932,London,United Kingdom,9.57
+1933,London,United Kingdom,9.96
+1934,London,United Kingdom,10.11
+1935,London,United Kingdom,9.90
+1936,London,United Kingdom,9.43
+1937,London,United Kingdom,9.69
+1938,London,United Kingdom,10.18
+1939,London,United Kingdom,9.77
+1940,London,United Kingdom,9.06
+1941,London,United Kingdom,9.09
+1942,London,United Kingdom,9.10
+1943,London,United Kingdom,10.19
+1944,London,United Kingdom,9.62
+1945,London,United Kingdom,10.39
+1946,London,United Kingdom,9.58
+1947,London,United Kingdom,9.75
+1948,London,United Kingdom,10.16
+1949,London,United Kingdom,10.63
+1950,London,United Kingdom,9.75
+1951,London,United Kingdom,9.52
+1952,London,United Kingdom,9.35
+1953,London,United Kingdom,9.95
+1954,London,United Kingdom,9.35
+1955,London,United Kingdom,9.39
+1956,London,United Kingdom,8.87
+1957,London,United Kingdom,10.26
+1958,London,United Kingdom,9.66
+1959,London,United Kingdom,10.63
+1960,London,United Kingdom,9.88
+1961,London,United Kingdom,10.20
+1962,London,United Kingdom,8.65
+1963,London,United Kingdom,8.48
+1964,London,United Kingdom,9.53
+1965,London,United Kingdom,9.03
+1966,London,United Kingdom,9.59
+1967,London,United Kingdom,9.81
+1968,London,United Kingdom,9.48
+1969,London,United Kingdom,9.47
+1970,London,United Kingdom,9.69
+1971,London,United Kingdom,9.89
+1972,London,United Kingdom,9.41
+1973,London,United Kingdom,9.75
+1974,London,United Kingdom,9.70
+1975,London,United Kingdom,9.99
+1976,London,United Kingdom,10.28
+1977,London,United Kingdom,9.69
+1978,London,United Kingdom,9.41
+1979,London,United Kingdom,9.06
+1980,London,United Kingdom,9.54
+1981,London,United Kingdom,9.38
+1982,London,United Kingdom,10.07
+1983,London,United Kingdom,10.12
+1984,London,United Kingdom,9.75
+1985,London,United Kingdom,9.00
+1986,London,United Kingdom,8.94
+1987,London,United Kingdom,9.22
+1988,London,United Kingdom,9.82
+1989,London,United Kingdom,10.76
+1990,London,United Kingdom,10.94
+1991,London,United Kingdom,9.67
+1992,London,United Kingdom,10.15
+1993,London,United Kingdom,9.69
+1994,London,United Kingdom,10.48
+1995,London,United Kingdom,10.55
+1996,London,United Kingdom,9.27
+1997,London,United Kingdom,10.64
+1998,London,United Kingdom,10.40
+1999,London,United Kingdom,10.86
+2000,London,United Kingdom,10.52
+2001,London,United Kingdom,10.18
+2002,London,United Kingdom,10.91
+2003,London,United Kingdom,10.81
+2004,London,United Kingdom,10.77
+2005,London,United Kingdom,10.63
+2006,London,United Kingdom,11.10
+2007,London,United Kingdom,10.83
+2008,London,United Kingdom,10.38
+2009,London,United Kingdom,10.52
+2010,London,United Kingdom,9.38
+2011,London,United Kingdom,11.19
+2012,London,United Kingdom,10.00
+2013,London,United Kingdom,9.91
+1855,Los Angeles,Chile,10.20
+1856,Los Angeles,Chile,12.01
+1857,Los Angeles,Chile,12.06
+1858,Los Angeles,Chile,12.13
+1859,Los Angeles,Chile,12.39
+1860,Los Angeles,Chile,12.07
+1861,Los Angeles,Chile,11.89
+1862,Los Angeles,Chile,11.65
+1863,Los Angeles,Chile,11.49
+1864,Los Angeles,Chile,12.00
+1865,Los Angeles,Chile,12.43
+1866,Los Angeles,Chile,12.31
+1867,Los Angeles,Chile,12.17
+1868,Los Angeles,Chile,12.15
+1869,Los Angeles,Chile,12.01
+1870,Los Angeles,Chile,11.87
+1871,Los Angeles,Chile,11.68
+1872,Los Angeles,Chile,11.69
+1873,Los Angeles,Chile,12.27
+1874,Los Angeles,Chile,12.06
+1875,Los Angeles,Chile,11.92
+1876,Los Angeles,Chile,12.39
+1877,Los Angeles,Chile,12.91
+1878,Los Angeles,Chile,12.50
+1879,Los Angeles,Chile,12.71
+1880,Los Angeles,Chile,12.56
+1881,Los Angeles,Chile,12.12
+1882,Los Angeles,Chile,12.35
+1883,Los Angeles,Chile,11.99
+1884,Los Angeles,Chile,11.93
+1885,Los Angeles,Chile,11.62
+1886,Los Angeles,Chile,12.05
+1887,Los Angeles,Chile,12.02
+1888,Los Angeles,Chile,12.34
+1889,Los Angeles,Chile,11.54
+1890,Los Angeles,Chile,12.12
+1891,Los Angeles,Chile,12.40
+1892,Los Angeles,Chile,12.00
+1893,Los Angeles,Chile,12.09
+1894,Los Angeles,Chile,12.31
+1895,Los Angeles,Chile,12.35
+1896,Los Angeles,Chile,12.97
+1897,Los Angeles,Chile,12.44
+1898,Los Angeles,Chile,11.76
+1899,Los Angeles,Chile,12.91
+1900,Los Angeles,Chile,12.68
+1901,Los Angeles,Chile,12.61
+1902,Los Angeles,Chile,12.37
+1903,Los Angeles,Chile,12.13
+1904,Los Angeles,Chile,12.94
+1905,Los Angeles,Chile,12.66
+1906,Los Angeles,Chile,12.53
+1907,Los Angeles,Chile,12.02
+1908,Los Angeles,Chile,12.55
+1909,Los Angeles,Chile,12.20
+1910,Los Angeles,Chile,11.78
+1911,Los Angeles,Chile,12.33
+1912,Los Angeles,Chile,12.52
+1913,Los Angeles,Chile,12.87
+1914,Los Angeles,Chile,12.40
+1915,Los Angeles,Chile,12.31
+1916,Los Angeles,Chile,11.91
+1917,Los Angeles,Chile,12.67
+1918,Los Angeles,Chile,12.19
+1919,Los Angeles,Chile,12.76
+1920,Los Angeles,Chile,12.47
+1921,Los Angeles,Chile,12.10
+1922,Los Angeles,Chile,12.41
+1923,Los Angeles,Chile,11.99
+1924,Los Angeles,Chile,12.46
+1925,Los Angeles,Chile,12.31
+1926,Los Angeles,Chile,12.77
+1927,Los Angeles,Chile,12.53
+1928,Los Angeles,Chile,12.31
+1929,Los Angeles,Chile,12.38
+1930,Los Angeles,Chile,13.29
+1931,Los Angeles,Chile,12.71
+1932,Los Angeles,Chile,12.83
+1933,Los Angeles,Chile,12.34
+1934,Los Angeles,Chile,12.44
+1935,Los Angeles,Chile,12.89
+1936,Los Angeles,Chile,12.53
+1937,Los Angeles,Chile,12.53
+1938,Los Angeles,Chile,12.09
+1939,Los Angeles,Chile,12.93
+1940,Los Angeles,Chile,13.08
+1941,Los Angeles,Chile,12.65
+1942,Los Angeles,Chile,12.73
+1943,Los Angeles,Chile,13.14
+1944,Los Angeles,Chile,13.15
+1945,Los Angeles,Chile,13.24
+1946,Los Angeles,Chile,12.70
+1947,Los Angeles,Chile,12.75
+1948,Los Angeles,Chile,12.58
+1949,Los Angeles,Chile,12.75
+1950,Los Angeles,Chile,12.62
+1951,Los Angeles,Chile,13.10
+1952,Los Angeles,Chile,13.21
+1953,Los Angeles,Chile,12.81
+1954,Los Angeles,Chile,12.61
+1955,Los Angeles,Chile,12.32
+1956,Los Angeles,Chile,12.49
+1957,Los Angeles,Chile,12.85
+1958,Los Angeles,Chile,12.90
+1959,Los Angeles,Chile,12.59
+1960,Los Angeles,Chile,13.15
+1961,Los Angeles,Chile,12.73
+1962,Los Angeles,Chile,13.10
+1963,Los Angeles,Chile,12.81
+1964,Los Angeles,Chile,12.72
+1965,Los Angeles,Chile,13.00
+1966,Los Angeles,Chile,12.54
+1967,Los Angeles,Chile,12.51
+1968,Los Angeles,Chile,13.14
+1969,Los Angeles,Chile,12.65
+1970,Los Angeles,Chile,12.70
+1971,Los Angeles,Chile,12.52
+1972,Los Angeles,Chile,12.87
+1973,Los Angeles,Chile,12.40
+1974,Los Angeles,Chile,12.38
+1975,Los Angeles,Chile,12.70
+1976,Los Angeles,Chile,12.57
+1977,Los Angeles,Chile,13.47
+1978,Los Angeles,Chile,13.34
+1979,Los Angeles,Chile,13.04
+1980,Los Angeles,Chile,13.29
+1981,Los Angeles,Chile,13.23
+1982,Los Angeles,Chile,13.34
+1983,Los Angeles,Chile,13.00
+1984,Los Angeles,Chile,12.57
+1985,Los Angeles,Chile,13.35
+1986,Los Angeles,Chile,13.04
+1987,Los Angeles,Chile,13.53
+1988,Los Angeles,Chile,12.81
+1989,Los Angeles,Chile,13.23
+1990,Los Angeles,Chile,12.88
+1991,Los Angeles,Chile,13.00
+1992,Los Angeles,Chile,12.93
+1993,Los Angeles,Chile,13.26
+1994,Los Angeles,Chile,13.42
+1995,Los Angeles,Chile,13.02
+1996,Los Angeles,Chile,13.16
+1997,Los Angeles,Chile,13.66
+1998,Los Angeles,Chile,13.19
+1999,Los Angeles,Chile,13.24
+2000,Los Angeles,Chile,12.99
+2001,Los Angeles,Chile,13.16
+2002,Los Angeles,Chile,12.95
+2003,Los Angeles,Chile,13.24
+2004,Los Angeles,Chile,13.44
+2005,Los Angeles,Chile,13.06
+2006,Los Angeles,Chile,13.19
+2007,Los Angeles,Chile,12.31
+2008,Los Angeles,Chile,13.69
+2009,Los Angeles,Chile,13.04
+2010,Los Angeles,Chile,12.69
+2011,Los Angeles,Chile,13.25
+2012,Los Angeles,Chile,13.48
+2013,Los Angeles,Chile,13.07
+1841,Melbourne,Australia,13.09
+1842,Melbourne,Australia,12.96
+1843,Melbourne,Australia,13.34
+1844,Melbourne,Australia,12.60
+1845,Melbourne,Australia,13.16
+1846,Melbourne,Australia,13.43
+1847,Melbourne,Australia,13.03
+1848,Melbourne,Australia,12.58
+1849,Melbourne,Australia,12.30
+1850,Melbourne,Australia,12.99
+1851,Melbourne,Australia,12.97
+1852,Melbourne,Australia,12.72
+1853,Melbourne,Australia,12.51
+1854,Melbourne,Australia,12.84
+1855,Melbourne,Australia,11.43
+1856,Melbourne,Australia,13.40
+1857,Melbourne,Australia,13.44
+1858,Melbourne,Australia,13.60
+1859,Melbourne,Australia,13.17
+1860,Melbourne,Australia,13.29
+1861,Melbourne,Australia,13.18
+1862,Melbourne,Australia,13.50
+1863,Melbourne,Australia,12.96
+1864,Melbourne,Australia,13.01
+1865,Melbourne,Australia,12.78
+1866,Melbourne,Australia,13.36
+1867,Melbourne,Australia,13.37
+1868,Melbourne,Australia,13.31
+1869,Melbourne,Australia,13.18
+1870,Melbourne,Australia,13.30
+1871,Melbourne,Australia,13.50
+1872,Melbourne,Australia,13.40
+1873,Melbourne,Australia,13.47
+1874,Melbourne,Australia,12.96
+1875,Melbourne,Australia,13.09
+1876,Melbourne,Australia,13.22
+1877,Melbourne,Australia,13.10
+1878,Melbourne,Australia,13.34
+1879,Melbourne,Australia,13.02
+1880,Melbourne,Australia,13.40
+1881,Melbourne,Australia,13.10
+1882,Melbourne,Australia,13.34
+1883,Melbourne,Australia,13.42
+1884,Melbourne,Australia,12.87
+1885,Melbourne,Australia,13.01
+1886,Melbourne,Australia,13.03
+1887,Melbourne,Australia,13.47
+1888,Melbourne,Australia,13.36
+1889,Melbourne,Australia,13.54
+1890,Melbourne,Australia,13.60
+1891,Melbourne,Australia,13.11
+1892,Melbourne,Australia,12.93
+1893,Melbourne,Australia,13.23
+1894,Melbourne,Australia,13.49
+1895,Melbourne,Australia,13.53
+1896,Melbourne,Australia,13.19
+1897,Melbourne,Australia,13.11
+1898,Melbourne,Australia,13.97
+1899,Melbourne,Australia,13.24
+1900,Melbourne,Australia,12.98
+1901,Melbourne,Australia,13.33
+1902,Melbourne,Australia,13.35
+1903,Melbourne,Australia,13.18
+1904,Melbourne,Australia,13.19
+1905,Melbourne,Australia,12.74
+1906,Melbourne,Australia,13.41
+1907,Melbourne,Australia,13.10
+1908,Melbourne,Australia,13.51
+1909,Melbourne,Australia,12.62
+1910,Melbourne,Australia,13.47
+1911,Melbourne,Australia,13.13
+1912,Melbourne,Australia,13.16
+1913,Melbourne,Australia,13.12
+1914,Melbourne,Australia,14.13
+1915,Melbourne,Australia,13.13
+1916,Melbourne,Australia,13.02
+1917,Melbourne,Australia,13.00
+1918,Melbourne,Australia,13.44
+1919,Melbourne,Australia,13.87
+1920,Melbourne,Australia,13.25
+1921,Melbourne,Australia,13.96
+1922,Melbourne,Australia,13.34
+1923,Melbourne,Australia,13.21
+1924,Melbourne,Australia,12.51
+1925,Melbourne,Australia,13.02
+1926,Melbourne,Australia,13.48
+1927,Melbourne,Australia,13.18
+1928,Melbourne,Australia,13.45
+1929,Melbourne,Australia,12.62
+1930,Melbourne,Australia,13.61
+1931,Melbourne,Australia,12.73
+1932,Melbourne,Australia,12.89
+1933,Melbourne,Australia,13.06
+1934,Melbourne,Australia,13.59
+1935,Melbourne,Australia,13.02
+1936,Melbourne,Australia,13.26
+1937,Melbourne,Australia,13.45
+1938,Melbourne,Australia,13.76
+1939,Melbourne,Australia,13.41
+1940,Melbourne,Australia,13.36
+1941,Melbourne,Australia,13.16
+1942,Melbourne,Australia,13.69
+1943,Melbourne,Australia,12.68
+1944,Melbourne,Australia,13.05
+1945,Melbourne,Australia,13.00
+1946,Melbourne,Australia,12.63
+1947,Melbourne,Australia,13.47
+1948,Melbourne,Australia,12.81
+1949,Melbourne,Australia,12.42
+1950,Melbourne,Australia,13.42
+1951,Melbourne,Australia,13.56
+1952,Melbourne,Australia,12.94
+1953,Melbourne,Australia,13.31
+1954,Melbourne,Australia,13.32
+1955,Melbourne,Australia,13.24
+1956,Melbourne,Australia,13.06
+1957,Melbourne,Australia,13.05
+1958,Melbourne,Australia,12.99
+1959,Melbourne,Australia,13.79
+1960,Melbourne,Australia,13.17
+1961,Melbourne,Australia,14.33
+1962,Melbourne,Australia,13.55
+1963,Melbourne,Australia,13.51
+1964,Melbourne,Australia,12.88
+1965,Melbourne,Australia,13.32
+1966,Melbourne,Australia,13.10
+1967,Melbourne,Australia,13.52
+1968,Melbourne,Australia,13.62
+1969,Melbourne,Australia,13.39
+1970,Melbourne,Australia,13.12
+1971,Melbourne,Australia,13.58
+1972,Melbourne,Australia,13.73
+1973,Melbourne,Australia,13.69
+1974,Melbourne,Australia,13.82
+1975,Melbourne,Australia,13.90
+1976,Melbourne,Australia,13.55
+1977,Melbourne,Australia,13.50
+1978,Melbourne,Australia,13.48
+1979,Melbourne,Australia,13.90
+1980,Melbourne,Australia,14.12
+1981,Melbourne,Australia,14.26
+1982,Melbourne,Australia,14.03
+1983,Melbourne,Australia,13.72
+1984,Melbourne,Australia,13.25
+1985,Melbourne,Australia,13.70
+1986,Melbourne,Australia,13.19
+1987,Melbourne,Australia,13.47
+1988,Melbourne,Australia,14.53
+1989,Melbourne,Australia,13.86
+1990,Melbourne,Australia,14.16
+1991,Melbourne,Australia,13.77
+1992,Melbourne,Australia,13.31
+1993,Melbourne,Australia,13.81
+1994,Melbourne,Australia,13.52
+1995,Melbourne,Australia,13.14
+1996,Melbourne,Australia,13.05
+1997,Melbourne,Australia,13.93
+1998,Melbourne,Australia,13.61
+1999,Melbourne,Australia,14.20
+2000,Melbourne,Australia,14.32
+2001,Melbourne,Australia,14.18
+2002,Melbourne,Australia,14.08
+2003,Melbourne,Australia,13.99
+2004,Melbourne,Australia,13.74
+2005,Melbourne,Australia,14.38
+2006,Melbourne,Australia,13.99
+2007,Melbourne,Australia,14.99
+2008,Melbourne,Australia,14.11
+2009,Melbourne,Australia,14.65
+2010,Melbourne,Australia,14.23
+2011,Melbourne,Australia,14.19
+2012,Melbourne,Australia,14.27
+2013,Melbourne,Australia,14.74
+1841,Nagoya,Japan,13.90
+1842,Nagoya,Japan,
+1843,Nagoya,Japan,
+1844,Nagoya,Japan,13.43
+1845,Nagoya,Japan,14.20
+1846,Nagoya,Japan,14.54
+1847,Nagoya,Japan,14.50
+1848,Nagoya,Japan,14.38
+1849,Nagoya,Japan,14.36
+1850,Nagoya,Japan,13.95
+1851,Nagoya,Japan,13.93
+1852,Nagoya,Japan,13.91
+1853,Nagoya,Japan,14.11
+1854,Nagoya,Japan,14.49
+1855,Nagoya,Japan,14.75
+1856,Nagoya,Japan,14.29
+1857,Nagoya,Japan,14.22
+1858,Nagoya,Japan,14.42
+1859,Nagoya,Japan,14.39
+1860,Nagoya,Japan,13.93
+1861,Nagoya,Japan,14.03
+1862,Nagoya,Japan,13.85
+1863,Nagoya,Japan,14.55
+1864,Nagoya,Japan,14.08
+1865,Nagoya,Japan,14.56
+1866,Nagoya,Japan,13.85
+1867,Nagoya,Japan,14.71
+1868,Nagoya,Japan,14.50
+1869,Nagoya,Japan,14.40
+1870,Nagoya,Japan,14.46
+1871,Nagoya,Japan,14.45
+1872,Nagoya,Japan,14.27
+1873,Nagoya,Japan,13.78
+1874,Nagoya,Japan,14.54
+1875,Nagoya,Japan,14.30
+1876,Nagoya,Japan,14.51
+1877,Nagoya,Japan,14.82
+1878,Nagoya,Japan,14.48
+1879,Nagoya,Japan,14.95
+1880,Nagoya,Japan,14.52
+1881,Nagoya,Japan,14.32
+1882,Nagoya,Japan,14.33
+1883,Nagoya,Japan,14.27
+1884,Nagoya,Japan,13.49
+1885,Nagoya,Japan,13.88
+1886,Nagoya,Japan,14.34
+1887,Nagoya,Japan,14.32
+1888,Nagoya,Japan,14.47
+1889,Nagoya,Japan,13.97
+1890,Nagoya,Japan,15.65
+1891,Nagoya,Japan,14.64
+1892,Nagoya,Japan,14.29
+1893,Nagoya,Japan,14.14
+1894,Nagoya,Japan,15.28
+1895,Nagoya,Japan,14.46
+1896,Nagoya,Japan,14.37
+1897,Nagoya,Japan,14.26
+1898,Nagoya,Japan,15.01
+1899,Nagoya,Japan,14.53
+1900,Nagoya,Japan,14.40
+1901,Nagoya,Japan,14.38
+1902,Nagoya,Japan,14.34
+1903,Nagoya,Japan,14.54
+1904,Nagoya,Japan,14.45
+1905,Nagoya,Japan,14.54
+1906,Nagoya,Japan,14.05
+1907,Nagoya,Japan,14.18
+1908,Nagoya,Japan,14.08
+1909,Nagoya,Japan,14.20
+1910,Nagoya,Japan,14.18
+1911,Nagoya,Japan,14.74
+1912,Nagoya,Japan,14.50
+1913,Nagoya,Japan,14.06
+1914,Nagoya,Japan,15.26
+1915,Nagoya,Japan,15.09
+1916,Nagoya,Japan,15.36
+1917,Nagoya,Japan,13.94
+1918,Nagoya,Japan,14.15
+1919,Nagoya,Japan,14.70
+1920,Nagoya,Japan,14.84
+1921,Nagoya,Japan,14.24
+1922,Nagoya,Japan,15.03
+1923,Nagoya,Japan,14.87
+1924,Nagoya,Japan,14.38
+1925,Nagoya,Japan,14.25
+1926,Nagoya,Japan,14.04
+1927,Nagoya,Japan,14.44
+1928,Nagoya,Japan,14.75
+1929,Nagoya,Japan,14.59
+1930,Nagoya,Japan,15.16
+1931,Nagoya,Japan,14.56
+1932,Nagoya,Japan,14.55
+1933,Nagoya,Japan,14.82
+1934,Nagoya,Japan,14.20
+1935,Nagoya,Japan,14.60
+1936,Nagoya,Japan,14.13
+1937,Nagoya,Japan,15.05
+1938,Nagoya,Japan,14.68
+1939,Nagoya,Japan,14.84
+1940,Nagoya,Japan,14.78
+1941,Nagoya,Japan,15.00
+1942,Nagoya,Japan,15.00
+1943,Nagoya,Japan,14.52
+1944,Nagoya,Japan,14.52
+1945,Nagoya,Japan,14.05
+1946,Nagoya,Japan,15.08
+1947,Nagoya,Japan,14.14
+1948,Nagoya,Japan,15.32
+1949,Nagoya,Japan,14.66
+1950,Nagoya,Japan,15.24
+1951,Nagoya,Japan,14.88
+1952,Nagoya,Japan,14.97
+1953,Nagoya,Japan,15.00
+1954,Nagoya,Japan,15.21
+1955,Nagoya,Japan,15.55
+1956,Nagoya,Japan,14.85
+1957,Nagoya,Japan,14.70
+1958,Nagoya,Japan,15.35
+1959,Nagoya,Japan,15.94
+1960,Nagoya,Japan,15.58
+1961,Nagoya,Japan,15.88
+1962,Nagoya,Japan,15.11
+1963,Nagoya,Japan,14.82
+1964,Nagoya,Japan,15.45
+1965,Nagoya,Japan,14.37
+1966,Nagoya,Japan,14.92
+1967,Nagoya,Japan,15.09
+1968,Nagoya,Japan,14.70
+1969,Nagoya,Japan,14.84
+1970,Nagoya,Japan,14.63
+1971,Nagoya,Japan,14.80
+1972,Nagoya,Japan,15.20
+1973,Nagoya,Japan,15.00
+1974,Nagoya,Japan,14.62
+1975,Nagoya,Japan,15.08
+1976,Nagoya,Japan,14.56
+1977,Nagoya,Japan,15.31
+1978,Nagoya,Japan,15.37
+1979,Nagoya,Japan,15.77
+1980,Nagoya,Japan,14.65
+1981,Nagoya,Japan,14.41
+1982,Nagoya,Japan,14.92
+1983,Nagoya,Japan,15.18
+1984,Nagoya,Japan,14.52
+1985,Nagoya,Japan,15.24
+1986,Nagoya,Japan,14.65
+1987,Nagoya,Japan,15.59
+1988,Nagoya,Japan,14.74
+1989,Nagoya,Japan,15.47
+1990,Nagoya,Japan,16.17
+1991,Nagoya,Japan,15.49
+1992,Nagoya,Japan,15.26
+1993,Nagoya,Japan,14.72
+1994,Nagoya,Japan,16.07
+1995,Nagoya,Japan,14.97
+1996,Nagoya,Japan,14.80
+1997,Nagoya,Japan,15.39
+1998,Nagoya,Japan,16.45
+1999,Nagoya,Japan,15.79
+2000,Nagoya,Japan,15.67
+2001,Nagoya,Japan,15.47
+2002,Nagoya,Japan,15.73
+2003,Nagoya,Japan,15.35
+2004,Nagoya,Japan,16.33
+2005,Nagoya,Japan,15.36
+2006,Nagoya,Japan,15.45
+2007,Nagoya,Japan,15.94
+2008,Nagoya,Japan,15.57
+2009,Nagoya,Japan,15.67
+2010,Nagoya,Japan,15.87
+2011,Nagoya,Japan,15.43
+2012,Nagoya,Japan,15.21
+2013,Nagoya,Japan,16.02
+1852,Perth,Australia,16.21
+1853,Perth,Australia,17.38
+1854,Perth,Australia,17.15
+1855,Perth,Australia,17.63
+1856,Perth,Australia,
+1857,Perth,Australia,
+1858,Perth,Australia,
+1859,Perth,Australia,
+1860,Perth,Australia,
+1861,Perth,Australia,
+1862,Perth,Australia,
+1863,Perth,Australia,
+1864,Perth,Australia,
+1865,Perth,Australia,
+1866,Perth,Australia,
+1867,Perth,Australia,
+1868,Perth,Australia,
+1869,Perth,Australia,
+1870,Perth,Australia,
+1871,Perth,Australia,
+1872,Perth,Australia,
+1873,Perth,Australia,
+1874,Perth,Australia,
+1875,Perth,Australia,
+1876,Perth,Australia,17.58
+1877,Perth,Australia,18.16
+1878,Perth,Australia,18.63
+1879,Perth,Australia,17.64
+1880,Perth,Australia,18.19
+1881,Perth,Australia,18.46
+1882,Perth,Australia,17.97
+1883,Perth,Australia,17.93
+1884,Perth,Australia,17.85
+1885,Perth,Australia,17.95
+1886,Perth,Australia,18.05
+1887,Perth,Australia,17.50
+1888,Perth,Australia,18.50
+1889,Perth,Australia,17.75
+1890,Perth,Australia,17.85
+1891,Perth,Australia,17.88
+1892,Perth,Australia,17.64
+1893,Perth,Australia,17.80
+1894,Perth,Australia,18.35
+1895,Perth,Australia,18.07
+1896,Perth,Australia,18.27
+1897,Perth,Australia,17.74
+1898,Perth,Australia,18.07
+1899,Perth,Australia,17.71
+1900,Perth,Australia,17.54
+1901,Perth,Australia,17.82
+1902,Perth,Australia,17.51
+1903,Perth,Australia,17.54
+1904,Perth,Australia,17.81
+1905,Perth,Australia,17.52
+1906,Perth,Australia,18.02
+1907,Perth,Australia,18.00
+1908,Perth,Australia,17.11
+1909,Perth,Australia,17.79
+1910,Perth,Australia,17.99
+1911,Perth,Australia,17.65
+1912,Perth,Australia,18.23
+1913,Perth,Australia,17.90
+1914,Perth,Australia,18.39
+1915,Perth,Australia,18.77
+1916,Perth,Australia,17.89
+1917,Perth,Australia,17.24
+1918,Perth,Australia,18.51
+1919,Perth,Australia,17.83
+1920,Perth,Australia,18.33
+1921,Perth,Australia,18.85
+1922,Perth,Australia,17.62
+1923,Perth,Australia,18.11
+1924,Perth,Australia,17.91
+1925,Perth,Australia,17.79
+1926,Perth,Australia,17.93
+1927,Perth,Australia,18.07
+1928,Perth,Australia,17.98
+1929,Perth,Australia,17.57
+1930,Perth,Australia,18.51
+1931,Perth,Australia,17.97
+1932,Perth,Australia,18.22
+1933,Perth,Australia,18.67
+1934,Perth,Australia,18.32
+1935,Perth,Australia,17.70
+1936,Perth,Australia,18.50
+1937,Perth,Australia,18.27
+1938,Perth,Australia,18.03
+1939,Perth,Australia,18.22
+1940,Perth,Australia,18.46
+1941,Perth,Australia,18.27
+1942,Perth,Australia,17.90
+1943,Perth,Australia,17.84
+1944,Perth,Australia,18.25
+1945,Perth,Australia,18.54
+1946,Perth,Australia,17.82
+1947,Perth,Australia,17.95
+1948,Perth,Australia,18.50
+1949,Perth,Australia,18.87
+1950,Perth,Australia,18.39
+1951,Perth,Australia,17.70
+1952,Perth,Australia,17.96
+1953,Perth,Australia,17.86
+1954,Perth,Australia,17.99
+1955,Perth,Australia,18.03
+1956,Perth,Australia,17.95
+1957,Perth,Australia,18.54
+1958,Perth,Australia,18.62
+1959,Perth,Australia,18.75
+1960,Perth,Australia,17.48
+1961,Perth,Australia,18.76
+1962,Perth,Australia,18.86
+1963,Perth,Australia,18.96
+1964,Perth,Australia,17.86
+1965,Perth,Australia,18.45
+1966,Perth,Australia,17.87
+1967,Perth,Australia,18.74
+1968,Perth,Australia,17.16
+1969,Perth,Australia,18.37
+1970,Perth,Australia,18.38
+1971,Perth,Australia,17.63
+1972,Perth,Australia,19.09
+1973,Perth,Australia,18.18
+1974,Perth,Australia,18.46
+1975,Perth,Australia,18.44
+1976,Perth,Australia,19.07
+1977,Perth,Australia,18.95
+1978,Perth,Australia,19.24
+1979,Perth,Australia,18.46
+1980,Perth,Australia,18.42
+1981,Perth,Australia,18.33
+1982,Perth,Australia,18.52
+1983,Perth,Australia,19.14
+1984,Perth,Australia,18.30
+1985,Perth,Australia,18.86
+1986,Perth,Australia,17.85
+1987,Perth,Australia,18.62
+1988,Perth,Australia,19.17
+1989,Perth,Australia,18.54
+1990,Perth,Australia,18.05
+1991,Perth,Australia,18.73
+1992,Perth,Australia,18.45
+1993,Perth,Australia,18.03
+1994,Perth,Australia,19.17
+1995,Perth,Australia,18.88
+1996,Perth,Australia,19.13
+1997,Perth,Australia,18.94
+1998,Perth,Australia,18.90
+1999,Perth,Australia,19.28
+2000,Perth,Australia,19.07
+2001,Perth,Australia,18.39
+2002,Perth,Australia,18.93
+2003,Perth,Australia,19.01
+2004,Perth,Australia,18.87
+2005,Perth,Australia,18.26
+2006,Perth,Australia,18.99
+2007,Perth,Australia,18.84
+2008,Perth,Australia,18.78
+2009,Perth,Australia,19.01
+2010,Perth,Australia,19.09
+2011,Perth,Australia,19.99
+2012,Perth,Australia,19.55
+2013,Perth,Australia,19.98
+1857,Pretoria,South Africa,17.53
+1858,Pretoria,South Africa,17.84
+1859,Pretoria,South Africa,17.92
+1860,Pretoria,South Africa,18.01
+1861,Pretoria,South Africa,17.84
+1862,Pretoria,South Africa,17.45
+1863,Pretoria,South Africa,17.87
+1864,Pretoria,South Africa,17.86
+1865,Pretoria,South Africa,18.17
+1866,Pretoria,South Africa,18.10
+1867,Pretoria,South Africa,18.21
+1868,Pretoria,South Africa,17.88
+1869,Pretoria,South Africa,18.21
+1870,Pretoria,South Africa,17.90
+1871,Pretoria,South Africa,17.98
+1872,Pretoria,South Africa,17.98
+1873,Pretoria,South Africa,17.04
+1874,Pretoria,South Africa,18.03
+1875,Pretoria,South Africa,17.73
+1876,Pretoria,South Africa,17.74
+1877,Pretoria,South Africa,18.22
+1878,Pretoria,South Africa,18.17
+1879,Pretoria,South Africa,17.67
+1880,Pretoria,South Africa,18.27
+1881,Pretoria,South Africa,17.93
+1882,Pretoria,South Africa,17.76
+1883,Pretoria,South Africa,17.95
+1884,Pretoria,South Africa,17.65
+1885,Pretoria,South Africa,18.03
+1886,Pretoria,South Africa,18.15
+1887,Pretoria,South Africa,17.73
+1888,Pretoria,South Africa,18.02
+1889,Pretoria,South Africa,18.49
+1890,Pretoria,South Africa,17.89
+1891,Pretoria,South Africa,18.00
+1892,Pretoria,South Africa,18.05
+1893,Pretoria,South Africa,17.81
+1894,Pretoria,South Africa,17.86
+1895,Pretoria,South Africa,18.04
+1896,Pretoria,South Africa,18.54
+1897,Pretoria,South Africa,18.13
+1898,Pretoria,South Africa,17.52
+1899,Pretoria,South Africa,17.91
+1900,Pretoria,South Africa,18.44
+1901,Pretoria,South Africa,17.85
+1902,Pretoria,South Africa,17.81
+1903,Pretoria,South Africa,17.98
+1904,Pretoria,South Africa,17.52
+1905,Pretoria,South Africa,17.96
+1906,Pretoria,South Africa,17.65
+1907,Pretoria,South Africa,17.50
+1908,Pretoria,South Africa,18.14
+1909,Pretoria,South Africa,18.08
+1910,Pretoria,South Africa,17.51
+1911,Pretoria,South Africa,17.85
+1912,Pretoria,South Africa,18.48
+1913,Pretoria,South Africa,18.55
+1914,Pretoria,South Africa,18.66
+1915,Pretoria,South Africa,18.09
+1916,Pretoria,South Africa,18.31
+1917,Pretoria,South Africa,17.68
+1918,Pretoria,South Africa,17.75
+1919,Pretoria,South Africa,18.32
+1920,Pretoria,South Africa,18.42
+1921,Pretoria,South Africa,17.81
+1922,Pretoria,South Africa,18.60
+1923,Pretoria,South Africa,18.66
+1924,Pretoria,South Africa,17.82
+1925,Pretoria,South Africa,18.03
+1926,Pretoria,South Africa,18.58
+1927,Pretoria,South Africa,18.36
+1928,Pretoria,South Africa,18.47
+1929,Pretoria,South Africa,18.52
+1930,Pretoria,South Africa,17.95
+1931,Pretoria,South Africa,18.44
+1932,Pretoria,South Africa,18.62
+1933,Pretoria,South Africa,18.39
+1934,Pretoria,South Africa,18.49
+1935,Pretoria,South Africa,17.90
+1936,Pretoria,South Africa,17.98
+1937,Pretoria,South Africa,18.19
+1938,Pretoria,South Africa,18.58
+1939,Pretoria,South Africa,17.77
+1940,Pretoria,South Africa,18.55
+1941,Pretoria,South Africa,19.13
+1942,Pretoria,South Africa,18.73
+1943,Pretoria,South Africa,18.15
+1944,Pretoria,South Africa,18.49
+1945,Pretoria,South Africa,18.33
+1946,Pretoria,South Africa,18.57
+1947,Pretoria,South Africa,18.76
+1948,Pretoria,South Africa,18.34
+1949,Pretoria,South Africa,18.61
+1950,Pretoria,South Africa,18.70
+1951,Pretoria,South Africa,18.21
+1952,Pretoria,South Africa,18.63
+1953,Pretoria,South Africa,18.02
+1954,Pretoria,South Africa,18.24
+1955,Pretoria,South Africa,17.75
+1956,Pretoria,South Africa,18.46
+1957,Pretoria,South Africa,18.69
+1958,Pretoria,South Africa,18.73
+1959,Pretoria,South Africa,18.37
+1960,Pretoria,South Africa,18.44
+1961,Pretoria,South Africa,18.65
+1962,Pretoria,South Africa,18.95
+1963,Pretoria,South Africa,18.38
+1964,Pretoria,South Africa,18.50
+1965,Pretoria,South Africa,18.59
+1966,Pretoria,South Africa,18.95
+1967,Pretoria,South Africa,18.11
+1968,Pretoria,South Africa,18.45
+1969,Pretoria,South Africa,18.90
+1970,Pretoria,South Africa,19.25
+1971,Pretoria,South Africa,18.38
+1972,Pretoria,South Africa,18.52
+1973,Pretoria,South Africa,18.74
+1974,Pretoria,South Africa,18.19
+1975,Pretoria,South Africa,18.23
+1976,Pretoria,South Africa,17.89
+1977,Pretoria,South Africa,18.78
+1978,Pretoria,South Africa,18.57
+1979,Pretoria,South Africa,18.93
+1980,Pretoria,South Africa,18.20
+1981,Pretoria,South Africa,17.97
+1982,Pretoria,South Africa,18.92
+1983,Pretoria,South Africa,19.50
+1984,Pretoria,South Africa,18.98
+1985,Pretoria,South Africa,19.02
+1986,Pretoria,South Africa,18.99
+1987,Pretoria,South Africa,19.21
+1988,Pretoria,South Africa,18.63
+1989,Pretoria,South Africa,18.55
+1990,Pretoria,South Africa,18.91
+1991,Pretoria,South Africa,18.86
+1992,Pretoria,South Africa,19.95
+1993,Pretoria,South Africa,19.32
+1994,Pretoria,South Africa,18.48
+1995,Pretoria,South Africa,19.23
+1996,Pretoria,South Africa,18.49
+1997,Pretoria,South Africa,18.64
+1998,Pretoria,South Africa,19.42
+1999,Pretoria,South Africa,19.27
+2000,Pretoria,South Africa,18.26
+2001,Pretoria,South Africa,18.92
+2002,Pretoria,South Africa,19.28
+2003,Pretoria,South Africa,19.86
+2004,Pretoria,South Africa,18.75
+2005,Pretoria,South Africa,19.74
+2006,Pretoria,South Africa,18.42
+2007,Pretoria,South Africa,18.98
+2008,Pretoria,South Africa,18.91
+2009,Pretoria,South Africa,18.67
+2010,Pretoria,South Africa,19.31
+2011,Pretoria,South Africa,18.75
+2012,Pretoria,South Africa,19.14
+2013,Pretoria,South Africa,18.00
+1855,Santiago,Chile,2.57
+1856,Santiago,Chile,5.00
+1857,Santiago,Chile,5.10
+1858,Santiago,Chile,5.10
+1859,Santiago,Chile,5.60
+1860,Santiago,Chile,5.25
+1861,Santiago,Chile,4.84
+1862,Santiago,Chile,4.79
+1863,Santiago,Chile,4.51
+1864,Santiago,Chile,4.99
+1865,Santiago,Chile,5.45
+1866,Santiago,Chile,5.35
+1867,Santiago,Chile,5.07
+1868,Santiago,Chile,5.26
+1869,Santiago,Chile,4.95
+1870,Santiago,Chile,4.84
+1871,Santiago,Chile,4.65
+1872,Santiago,Chile,4.82
+1873,Santiago,Chile,5.21
+1874,Santiago,Chile,4.76
+1875,Santiago,Chile,5.01
+1876,Santiago,Chile,5.74
+1877,Santiago,Chile,6.34
+1878,Santiago,Chile,5.59
+1879,Santiago,Chile,5.90
+1880,Santiago,Chile,5.83
+1881,Santiago,Chile,5.17
+1882,Santiago,Chile,5.47
+1883,Santiago,Chile,5.10
+1884,Santiago,Chile,5.11
+1885,Santiago,Chile,4.74
+1886,Santiago,Chile,5.17
+1887,Santiago,Chile,5.41
+1888,Santiago,Chile,5.70
+1889,Santiago,Chile,4.51
+1890,Santiago,Chile,5.16
+1891,Santiago,Chile,5.57
+1892,Santiago,Chile,4.99
+1893,Santiago,Chile,4.97
+1894,Santiago,Chile,5.34
+1895,Santiago,Chile,5.54
+1896,Santiago,Chile,6.26
+1897,Santiago,Chile,5.69
+1898,Santiago,Chile,4.88
+1899,Santiago,Chile,5.93
+1900,Santiago,Chile,5.94
+1901,Santiago,Chile,5.78
+1902,Santiago,Chile,5.83
+1903,Santiago,Chile,5.44
+1904,Santiago,Chile,5.68
+1905,Santiago,Chile,5.66
+1906,Santiago,Chile,5.76
+1907,Santiago,Chile,5.11
+1908,Santiago,Chile,5.56
+1909,Santiago,Chile,5.27
+1910,Santiago,Chile,5.14
+1911,Santiago,Chile,5.19
+1912,Santiago,Chile,5.73
+1913,Santiago,Chile,6.23
+1914,Santiago,Chile,5.52
+1915,Santiago,Chile,5.78
+1916,Santiago,Chile,5.29
+1917,Santiago,Chile,5.56
+1918,Santiago,Chile,5.50
+1919,Santiago,Chile,5.91
+1920,Santiago,Chile,5.68
+1921,Santiago,Chile,5.27
+1922,Santiago,Chile,5.18
+1923,Santiago,Chile,5.07
+1924,Santiago,Chile,5.42
+1925,Santiago,Chile,5.83
+1926,Santiago,Chile,6.09
+1927,Santiago,Chile,5.78
+1928,Santiago,Chile,5.30
+1929,Santiago,Chile,5.76
+1930,Santiago,Chile,6.23
+1931,Santiago,Chile,5.48
+1932,Santiago,Chile,5.92
+1933,Santiago,Chile,5.58
+1934,Santiago,Chile,5.28
+1935,Santiago,Chile,5.77
+1936,Santiago,Chile,5.62
+1937,Santiago,Chile,5.65
+1938,Santiago,Chile,5.30
+1939,Santiago,Chile,5.95
+1940,Santiago,Chile,5.74
+1941,Santiago,Chile,5.50
+1942,Santiago,Chile,5.39
+1943,Santiago,Chile,5.74
+1944,Santiago,Chile,6.33
+1945,Santiago,Chile,6.29
+1946,Santiago,Chile,5.81
+1947,Santiago,Chile,5.92
+1948,Santiago,Chile,5.62
+1949,Santiago,Chile,5.63
+1950,Santiago,Chile,5.71
+1951,Santiago,Chile,6.04
+1952,Santiago,Chile,6.09
+1953,Santiago,Chile,6.00
+1954,Santiago,Chile,5.41
+1955,Santiago,Chile,5.11
+1956,Santiago,Chile,4.94
+1957,Santiago,Chile,5.74
+1958,Santiago,Chile,5.89
+1959,Santiago,Chile,5.64
+1960,Santiago,Chile,6.20
+1961,Santiago,Chile,6.16
+1962,Santiago,Chile,5.98
+1963,Santiago,Chile,5.63
+1964,Santiago,Chile,5.64
+1965,Santiago,Chile,6.05
+1966,Santiago,Chile,5.60
+1967,Santiago,Chile,5.71
+1968,Santiago,Chile,6.12
+1969,Santiago,Chile,6.39
+1970,Santiago,Chile,6.06
+1971,Santiago,Chile,5.87
+1972,Santiago,Chile,5.82
+1973,Santiago,Chile,5.53
+1974,Santiago,Chile,5.53
+1975,Santiago,Chile,5.71
+1976,Santiago,Chile,5.54
+1977,Santiago,Chile,6.55
+1978,Santiago,Chile,6.32
+1979,Santiago,Chile,5.91
+1980,Santiago,Chile,6.30
+1981,Santiago,Chile,6.31
+1982,Santiago,Chile,6.44
+1983,Santiago,Chile,5.89
+1984,Santiago,Chile,5.55
+1985,Santiago,Chile,6.34
+1986,Santiago,Chile,6.49
+1987,Santiago,Chile,6.40
+1988,Santiago,Chile,6.01
+1989,Santiago,Chile,6.59
+1990,Santiago,Chile,6.11
+1991,Santiago,Chile,6.37
+1992,Santiago,Chile,5.97
+1993,Santiago,Chile,6.16
+1994,Santiago,Chile,6.70
+1995,Santiago,Chile,6.40
+1996,Santiago,Chile,6.26
+1997,Santiago,Chile,6.80
+1998,Santiago,Chile,6.28
+1999,Santiago,Chile,5.93
+2000,Santiago,Chile,5.95
+2001,Santiago,Chile,6.41
+2002,Santiago,Chile,6.25
+2003,Santiago,Chile,6.77
+2004,Santiago,Chile,6.32
+2005,Santiago,Chile,6.22
+2006,Santiago,Chile,6.84
+2007,Santiago,Chile,5.51
+2008,Santiago,Chile,6.57
+2009,Santiago,Chile,6.70
+2010,Santiago,Chile,6.13
+2011,Santiago,Chile,6.27
+2012,Santiago,Chile,6.82
+2013,Santiago,Chile,5.94
+1857,Soweto,South Africa,14.25
+1858,Soweto,South Africa,14.55
+1859,Soweto,South Africa,14.62
+1860,Soweto,South Africa,14.75
+1861,Soweto,South Africa,14.57
+1862,Soweto,South Africa,14.17
+1863,Soweto,South Africa,14.58
+1864,Soweto,South Africa,14.58
+1865,Soweto,South Africa,14.91
+1866,Soweto,South Africa,14.83
+1867,Soweto,South Africa,14.92
+1868,Soweto,South Africa,14.58
+1869,Soweto,South Africa,14.92
+1870,Soweto,South Africa,14.60
+1871,Soweto,South Africa,14.70
+1872,Soweto,South Africa,14.70
+1873,Soweto,South Africa,13.91
+1874,Soweto,South Africa,14.72
+1875,Soweto,South Africa,14.45
+1876,Soweto,South Africa,14.45
+1877,Soweto,South Africa,14.93
+1878,Soweto,South Africa,14.85
+1879,Soweto,South Africa,14.37
+1880,Soweto,South Africa,15.00
+1881,Soweto,South Africa,14.67
+1882,Soweto,South Africa,14.47
+1883,Soweto,South Africa,14.69
+1884,Soweto,South Africa,14.38
+1885,Soweto,South Africa,14.76
+1886,Soweto,South Africa,14.88
+1887,Soweto,South Africa,14.44
+1888,Soweto,South Africa,14.79
+1889,Soweto,South Africa,15.23
+1890,Soweto,South Africa,14.67
+1891,Soweto,South Africa,14.73
+1892,Soweto,South Africa,14.78
+1893,Soweto,South Africa,14.48
+1894,Soweto,South Africa,14.55
+1895,Soweto,South Africa,14.71
+1896,Soweto,South Africa,15.29
+1897,Soweto,South Africa,14.82
+1898,Soweto,South Africa,14.22
+1899,Soweto,South Africa,14.59
+1900,Soweto,South Africa,15.13
+1901,Soweto,South Africa,14.56
+1902,Soweto,South Africa,14.49
+1903,Soweto,South Africa,14.68
+1904,Soweto,South Africa,14.35
+1905,Soweto,South Africa,14.66
+1906,Soweto,South Africa,14.36
+1907,Soweto,South Africa,14.27
+1908,Soweto,South Africa,14.80
+1909,Soweto,South Africa,14.77
+1910,Soweto,South Africa,14.19
+1911,Soweto,South Africa,14.57
+1912,Soweto,South Africa,15.16
+1913,Soweto,South Africa,15.18
+1914,Soweto,South Africa,15.33
+1915,Soweto,South Africa,14.78
+1916,Soweto,South Africa,14.95
+1917,Soweto,South Africa,14.21
+1918,Soweto,South Africa,14.50
+1919,Soweto,South Africa,15.11
+1920,Soweto,South Africa,15.13
+1921,Soweto,South Africa,14.49
+1922,Soweto,South Africa,15.27
+1923,Soweto,South Africa,15.42
+1924,Soweto,South Africa,14.40
+1925,Soweto,South Africa,14.78
+1926,Soweto,South Africa,15.26
+1927,Soweto,South Africa,15.18
+1928,Soweto,South Africa,15.16
+1929,Soweto,South Africa,15.17
+1930,Soweto,South Africa,14.75
+1931,Soweto,South Africa,15.17
+1932,Soweto,South Africa,15.40
+1933,Soweto,South Africa,15.21
+1934,Soweto,South Africa,15.17
+1935,Soweto,South Africa,14.56
+1936,Soweto,South Africa,14.67
+1937,Soweto,South Africa,15.08
+1938,Soweto,South Africa,15.28
+1939,Soweto,South Africa,14.57
+1940,Soweto,South Africa,15.32
+1941,Soweto,South Africa,15.90
+1942,Soweto,South Africa,15.30
+1943,Soweto,South Africa,14.67
+1944,Soweto,South Africa,15.26
+1945,Soweto,South Africa,15.18
+1946,Soweto,South Africa,15.33
+1947,Soweto,South Africa,15.33
+1948,Soweto,South Africa,15.14
+1949,Soweto,South Africa,15.35
+1950,Soweto,South Africa,15.35
+1951,Soweto,South Africa,14.88
+1952,Soweto,South Africa,15.27
+1953,Soweto,South Africa,14.76
+1954,Soweto,South Africa,14.91
+1955,Soweto,South Africa,14.44
+1956,Soweto,South Africa,15.14
+1957,Soweto,South Africa,15.27
+1958,Soweto,South Africa,15.54
+1959,Soweto,South Africa,15.07
+1960,Soweto,South Africa,15.14
+1961,Soweto,South Africa,15.39
+1962,Soweto,South Africa,15.57
+1963,Soweto,South Africa,15.09
+1964,Soweto,South Africa,15.15
+1965,Soweto,South Africa,15.28
+1966,Soweto,South Africa,15.64
+1967,Soweto,South Africa,14.88
+1968,Soweto,South Africa,15.09
+1969,Soweto,South Africa,15.66
+1970,Soweto,South Africa,15.83
+1971,Soweto,South Africa,15.15
+1972,Soweto,South Africa,15.31
+1973,Soweto,South Africa,15.34
+1974,Soweto,South Africa,14.93
+1975,Soweto,South Africa,14.99
+1976,Soweto,South Africa,14.62
+1977,Soweto,South Africa,15.57
+1978,Soweto,South Africa,15.30
+1979,Soweto,South Africa,15.65
+1980,Soweto,South Africa,15.08
+1981,Soweto,South Africa,14.81
+1982,Soweto,South Africa,15.69
+1983,Soweto,South Africa,16.17
+1984,Soweto,South Africa,15.68
+1985,Soweto,South Africa,15.81
+1986,Soweto,South Africa,15.72
+1987,Soweto,South Africa,15.85
+1988,Soweto,South Africa,15.43
+1989,Soweto,South Africa,15.14
+1990,Soweto,South Africa,15.56
+1991,Soweto,South Africa,15.56
+1992,Soweto,South Africa,16.48
+1993,Soweto,South Africa,16.01
+1994,Soweto,South Africa,15.10
+1995,Soweto,South Africa,15.77
+1996,Soweto,South Africa,15.23
+1997,Soweto,South Africa,15.38
+1998,Soweto,South Africa,16.11
+1999,Soweto,South Africa,16.09
+2000,Soweto,South Africa,15.13
+2001,Soweto,South Africa,15.68
+2002,Soweto,South Africa,15.88
+2003,Soweto,South Africa,16.34
+2004,Soweto,South Africa,15.49
+2005,Soweto,South Africa,16.29
+2006,Soweto,South Africa,15.26
+2007,Soweto,South Africa,15.90
+2008,Soweto,South Africa,15.75
+2009,Soweto,South Africa,15.44
+2010,Soweto,South Africa,16.11
+2011,Soweto,South Africa,15.49
+2012,Soweto,South Africa,15.89
+2013,Soweto,South Africa,14.98
+1841,Sydney,Australia,16.56
+1842,Sydney,Australia,16.57
+1843,Sydney,Australia,16.88
+1844,Sydney,Australia,16.22
+1845,Sydney,Australia,16.64
+1846,Sydney,Australia,17.07
+1847,Sydney,Australia,16.60
+1848,Sydney,Australia,16.25
+1849,Sydney,Australia,16.08
+1850,Sydney,Australia,16.51
+1851,Sydney,Australia,16.60
+1852,Sydney,Australia,16.39
+1853,Sydney,Australia,16.10
+1854,Sydney,Australia,16.48
+1855,Sydney,Australia,16.90
+1856,Sydney,Australia,16.76
+1857,Sydney,Australia,16.69
+1858,Sydney,Australia,17.04
+1859,Sydney,Australia,16.26
+1860,Sydney,Australia,16.33
+1861,Sydney,Australia,16.72
+1862,Sydney,Australia,16.90
+1863,Sydney,Australia,16.53
+1864,Sydney,Australia,16.37
+1865,Sydney,Australia,16.75
+1866,Sydney,Australia,16.96
+1867,Sydney,Australia,17.38
+1868,Sydney,Australia,16.96
+1869,Sydney,Australia,16.91
+1870,Sydney,Australia,16.84
+1871,Sydney,Australia,16.75
+1872,Sydney,Australia,16.71
+1873,Sydney,Australia,16.78
+1874,Sydney,Australia,16.75
+1875,Sydney,Australia,16.95
+1876,Sydney,Australia,17.30
+1877,Sydney,Australia,17.04
+1878,Sydney,Australia,17.24
+1879,Sydney,Australia,16.31
+1880,Sydney,Australia,16.65
+1881,Sydney,Australia,16.63
+1882,Sydney,Australia,17.03
+1883,Sydney,Australia,16.46
+1884,Sydney,Australia,16.86
+1885,Sydney,Australia,16.95
+1886,Sydney,Australia,16.88
+1887,Sydney,Australia,16.66
+1888,Sydney,Australia,16.72
+1889,Sydney,Australia,17.17
+1890,Sydney,Australia,16.77
+1891,Sydney,Australia,16.74
+1892,Sydney,Australia,16.60
+1893,Sydney,Australia,16.67
+1894,Sydney,Australia,16.83
+1895,Sydney,Australia,16.85
+1896,Sydney,Australia,16.85
+1897,Sydney,Australia,17.08
+1898,Sydney,Australia,17.04
+1899,Sydney,Australia,17.06
+1900,Sydney,Australia,16.98
+1901,Sydney,Australia,16.86
+1902,Sydney,Australia,16.98
+1903,Sydney,Australia,16.87
+1904,Sydney,Australia,16.58
+1905,Sydney,Australia,16.57
+1906,Sydney,Australia,16.92
+1907,Sydney,Australia,16.87
+1908,Sydney,Australia,16.67
+1909,Sydney,Australia,16.47
+1910,Sydney,Australia,16.93
+1911,Sydney,Australia,16.85
+1912,Sydney,Australia,17.10
+1913,Sydney,Australia,17.23
+1914,Sydney,Australia,17.87
+1915,Sydney,Australia,17.31
+1916,Sydney,Australia,16.97
+1917,Sydney,Australia,16.55
+1918,Sydney,Australia,16.56
+1919,Sydney,Australia,17.51
+1920,Sydney,Australia,16.65
+1921,Sydney,Australia,17.15
+1922,Sydney,Australia,17.22
+1923,Sydney,Australia,17.20
+1924,Sydney,Australia,16.65
+1925,Sydney,Australia,16.55
+1926,Sydney,Australia,17.25
+1927,Sydney,Australia,16.42
+1928,Sydney,Australia,17.40
+1929,Sydney,Australia,16.69
+1930,Sydney,Australia,17.10
+1931,Sydney,Australia,16.86
+1932,Sydney,Australia,16.97
+1933,Sydney,Australia,16.76
+1934,Sydney,Australia,16.89
+1935,Sydney,Australia,16.55
+1936,Sydney,Australia,16.79
+1937,Sydney,Australia,16.97
+1938,Sydney,Australia,17.39
+1939,Sydney,Australia,17.33
+1940,Sydney,Australia,17.64
+1941,Sydney,Australia,16.86
+1942,Sydney,Australia,17.30
+1943,Sydney,Australia,16.31
+1944,Sydney,Australia,16.99
+1945,Sydney,Australia,16.89
+1946,Sydney,Australia,17.04
+1947,Sydney,Australia,16.94
+1948,Sydney,Australia,16.42
+1949,Sydney,Australia,16.55
+1950,Sydney,Australia,17.14
+1951,Sydney,Australia,16.73
+1952,Sydney,Australia,16.83
+1953,Sydney,Australia,16.73
+1954,Sydney,Australia,16.93
+1955,Sydney,Australia,16.99
+1956,Sydney,Australia,16.64
+1957,Sydney,Australia,17.06
+1958,Sydney,Australia,17.41
+1959,Sydney,Australia,17.23
+1960,Sydney,Australia,16.68
+1961,Sydney,Australia,16.86
+1962,Sydney,Australia,16.74
+1963,Sydney,Australia,16.93
+1964,Sydney,Australia,16.96
+1965,Sydney,Australia,17.00
+1966,Sydney,Australia,16.64
+1967,Sydney,Australia,16.85
+1968,Sydney,Australia,17.27
+1969,Sydney,Australia,17.18
+1970,Sydney,Australia,16.78
+1971,Sydney,Australia,16.84
+1972,Sydney,Australia,17.03
+1973,Sydney,Australia,17.81
+1974,Sydney,Australia,16.98
+1975,Sydney,Australia,17.34
+1976,Sydney,Australia,17.01
+1977,Sydney,Australia,17.34
+1978,Sydney,Australia,17.16
+1979,Sydney,Australia,17.56
+1980,Sydney,Australia,18.00
+1981,Sydney,Australia,17.49
+1982,Sydney,Australia,17.30
+1983,Sydney,Australia,17.47
+1984,Sydney,Australia,16.91
+1985,Sydney,Australia,17.09
+1986,Sydney,Australia,17.06
+1987,Sydney,Australia,17.37
+1988,Sydney,Australia,17.89
+1989,Sydney,Australia,17.26
+1990,Sydney,Australia,17.47
+1991,Sydney,Australia,17.85
+1992,Sydney,Australia,16.89
+1993,Sydney,Australia,17.42
+1994,Sydney,Australia,17.36
+1995,Sydney,Australia,16.95
+1996,Sydney,Australia,17.05
+1997,Sydney,Australia,17.51
+1998,Sydney,Australia,18.05
+1999,Sydney,Australia,17.55
+2000,Sydney,Australia,17.57
+2001,Sydney,Australia,17.85
+2002,Sydney,Australia,17.73
+2003,Sydney,Australia,17.59
+2004,Sydney,Australia,17.87
+2005,Sydney,Australia,18.03
+2006,Sydney,Australia,17.75
+2007,Sydney,Australia,18.02
+2008,Sydney,Australia,17.32
+2009,Sydney,Australia,18.18
+2010,Sydney,Australia,18.00
+2011,Sydney,Australia,17.71
+2012,Sydney,Australia,17.47
+2013,Sydney,Australia,18.09
+1845,Tokyo,Japan,11.95
+1846,Tokyo,Japan,12.40
+1847,Tokyo,Japan,12.21
+1848,Tokyo,Japan,12.14
+1849,Tokyo,Japan,12.14
+1850,Tokyo,Japan,11.71
+1851,Tokyo,Japan,11.76
+1852,Tokyo,Japan,11.73
+1853,Tokyo,Japan,11.86
+1854,Tokyo,Japan,12.24
+1855,Tokyo,Japan,12.56
+1856,Tokyo,Japan,12.06
+1857,Tokyo,Japan,11.94
+1858,Tokyo,Japan,12.23
+1859,Tokyo,Japan,12.15
+1860,Tokyo,Japan,11.72
+1861,Tokyo,Japan,11.79
+1862,Tokyo,Japan,11.73
+1863,Tokyo,Japan,12.45
+1864,Tokyo,Japan,11.95
+1865,Tokyo,Japan,12.39
+1866,Tokyo,Japan,11.58
+1867,Tokyo,Japan,12.46
+1868,Tokyo,Japan,12.25
+1869,Tokyo,Japan,12.03
+1870,Tokyo,Japan,16.12
+1871,Tokyo,Japan,12.12
+1872,Tokyo,Japan,12.00
+1873,Tokyo,Japan,11.53
+1874,Tokyo,Japan,12.33
+1875,Tokyo,Japan,12.17
+1876,Tokyo,Japan,12.39
+1877,Tokyo,Japan,12.73
+1878,Tokyo,Japan,12.24
+1879,Tokyo,Japan,12.82
+1880,Tokyo,Japan,12.43
+1881,Tokyo,Japan,12.15
+1882,Tokyo,Japan,12.29
+1883,Tokyo,Japan,11.84
+1884,Tokyo,Japan,11.18
+1885,Tokyo,Japan,11.53
+1886,Tokyo,Japan,12.44
+1887,Tokyo,Japan,12.25
+1888,Tokyo,Japan,12.01
+1889,Tokyo,Japan,11.66
+1890,Tokyo,Japan,13.50
+1891,Tokyo,Japan,12.42
+1892,Tokyo,Japan,12.10
+1893,Tokyo,Japan,11.71
+1894,Tokyo,Japan,12.92
+1895,Tokyo,Japan,12.22
+1896,Tokyo,Japan,12.33
+1897,Tokyo,Japan,11.72
+1898,Tokyo,Japan,12.49
+1899,Tokyo,Japan,12.32
+1900,Tokyo,Japan,12.11
+1901,Tokyo,Japan,12.31
+1902,Tokyo,Japan,12.22
+1903,Tokyo,Japan,12.34
+1904,Tokyo,Japan,12.29
+1905,Tokyo,Japan,12.03
+1906,Tokyo,Japan,11.66
+1907,Tokyo,Japan,11.97
+1908,Tokyo,Japan,11.72
+1909,Tokyo,Japan,12.04
+1910,Tokyo,Japan,12.00
+1911,Tokyo,Japan,12.81
+1912,Tokyo,Japan,12.32
+1913,Tokyo,Japan,11.72
+1914,Tokyo,Japan,13.10
+1915,Tokyo,Japan,12.74
+1916,Tokyo,Japan,13.10
+1917,Tokyo,Japan,12.04
+1918,Tokyo,Japan,12.19
+1919,Tokyo,Japan,12.59
+1920,Tokyo,Japan,12.69
+1921,Tokyo,Japan,12.12
+1922,Tokyo,Japan,12.86
+1923,Tokyo,Japan,12.64
+1924,Tokyo,Japan,12.35
+1925,Tokyo,Japan,12.19
+1926,Tokyo,Japan,11.74
+1927,Tokyo,Japan,12.19
+1928,Tokyo,Japan,12.42
+1929,Tokyo,Japan,12.44
+1930,Tokyo,Japan,13.00
+1931,Tokyo,Japan,12.16
+1932,Tokyo,Japan,12.67
+1933,Tokyo,Japan,12.69
+1934,Tokyo,Japan,11.85
+1935,Tokyo,Japan,12.25
+1936,Tokyo,Japan,12.09
+1937,Tokyo,Japan,12.86
+1938,Tokyo,Japan,12.60
+1939,Tokyo,Japan,12.72
+1940,Tokyo,Japan,12.66
+1941,Tokyo,Japan,12.61
+1942,Tokyo,Japan,12.80
+1943,Tokyo,Japan,12.48
+1944,Tokyo,Japan,12.16
+1945,Tokyo,Japan,11.62
+1946,Tokyo,Japan,12.86
+1947,Tokyo,Japan,11.99
+1948,Tokyo,Japan,13.18
+1949,Tokyo,Japan,12.62
+1950,Tokyo,Japan,13.21
+1951,Tokyo,Japan,12.72
+1952,Tokyo,Japan,12.65
+1953,Tokyo,Japan,12.51
+1954,Tokyo,Japan,12.76
+1955,Tokyo,Japan,13.42
+1956,Tokyo,Japan,12.61
+1957,Tokyo,Japan,12.66
+1958,Tokyo,Japan,13.09
+1959,Tokyo,Japan,13.50
+1960,Tokyo,Japan,13.26
+1961,Tokyo,Japan,13.66
+1962,Tokyo,Japan,13.01
+1963,Tokyo,Japan,12.71
+1964,Tokyo,Japan,12.93
+1965,Tokyo,Japan,12.27
+1966,Tokyo,Japan,12.81
+1967,Tokyo,Japan,12.85
+1968,Tokyo,Japan,12.75
+1969,Tokyo,Japan,12.64
+1970,Tokyo,Japan,12.35
+1971,Tokyo,Japan,12.52
+1972,Tokyo,Japan,13.17
+1973,Tokyo,Japan,12.96
+1974,Tokyo,Japan,12.23
+1975,Tokyo,Japan,12.72
+1976,Tokyo,Japan,12.19
+1977,Tokyo,Japan,12.94
+1978,Tokyo,Japan,13.05
+1979,Tokyo,Japan,13.83
+1980,Tokyo,Japan,12.35
+1981,Tokyo,Japan,12.06
+1982,Tokyo,Japan,12.91
+1983,Tokyo,Japan,12.64
+1984,Tokyo,Japan,11.98
+1985,Tokyo,Japan,12.90
+1986,Tokyo,Japan,12.22
+1987,Tokyo,Japan,13.41
+1988,Tokyo,Japan,12.44
+1989,Tokyo,Japan,13.35
+1990,Tokyo,Japan,14.14
+1991,Tokyo,Japan,13.32
+1992,Tokyo,Japan,12.94
+1993,Tokyo,Japan,12.49
+1994,Tokyo,Japan,13.78
+1995,Tokyo,Japan,12.98
+1996,Tokyo,Japan,12.61
+1997,Tokyo,Japan,13.43
+1998,Tokyo,Japan,13.74
+1999,Tokyo,Japan,13.78
+2000,Tokyo,Japan,13.50
+2001,Tokyo,Japan,13.13
+2002,Tokyo,Japan,13.42
+2003,Tokyo,Japan,12.89
+2004,Tokyo,Japan,14.05
+2005,Tokyo,Japan,12.99
+2006,Tokyo,Japan,13.28
+2007,Tokyo,Japan,13.68
+2008,Tokyo,Japan,13.31
+2009,Tokyo,Japan,13.55
+2010,Tokyo,Japan,13.82
+2011,Tokyo,Japan,13.32
+2012,Tokyo,Japan,13.11
+2013,Tokyo,Japan,13.91

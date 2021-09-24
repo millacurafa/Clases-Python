@@ -1,0 +1,319 @@
+year,city,country,avg_temp
+1855,Los Angeles,Chile,10.20
+1856,Los Angeles,Chile,12.01
+1857,Los Angeles,Chile,12.06
+1858,Los Angeles,Chile,12.13
+1859,Los Angeles,Chile,12.39
+1860,Los Angeles,Chile,12.07
+1861,Los Angeles,Chile,11.89
+1862,Los Angeles,Chile,11.65
+1863,Los Angeles,Chile,11.49
+1864,Los Angeles,Chile,12.00
+1865,Los Angeles,Chile,12.43
+1866,Los Angeles,Chile,12.31
+1867,Los Angeles,Chile,12.17
+1868,Los Angeles,Chile,12.15
+1869,Los Angeles,Chile,12.01
+1870,Los Angeles,Chile,11.87
+1871,Los Angeles,Chile,11.68
+1872,Los Angeles,Chile,11.69
+1873,Los Angeles,Chile,12.27
+1874,Los Angeles,Chile,12.06
+1875,Los Angeles,Chile,11.92
+1876,Los Angeles,Chile,12.39
+1877,Los Angeles,Chile,12.91
+1878,Los Angeles,Chile,12.50
+1879,Los Angeles,Chile,12.71
+1880,Los Angeles,Chile,12.56
+1881,Los Angeles,Chile,12.12
+1882,Los Angeles,Chile,12.35
+1883,Los Angeles,Chile,11.99
+1884,Los Angeles,Chile,11.93
+1885,Los Angeles,Chile,11.62
+1886,Los Angeles,Chile,12.05
+1887,Los Angeles,Chile,12.02
+1888,Los Angeles,Chile,12.34
+1889,Los Angeles,Chile,11.54
+1890,Los Angeles,Chile,12.12
+1891,Los Angeles,Chile,12.40
+1892,Los Angeles,Chile,12.00
+1893,Los Angeles,Chile,12.09
+1894,Los Angeles,Chile,12.31
+1895,Los Angeles,Chile,12.35
+1896,Los Angeles,Chile,12.97
+1897,Los Angeles,Chile,12.44
+1898,Los Angeles,Chile,11.76
+1899,Los Angeles,Chile,12.91
+1900,Los Angeles,Chile,12.68
+1901,Los Angeles,Chile,12.61
+1902,Los Angeles,Chile,12.37
+1903,Los Angeles,Chile,12.13
+1904,Los Angeles,Chile,12.94
+1905,Los Angeles,Chile,12.66
+1906,Los Angeles,Chile,12.53
+1907,Los Angeles,Chile,12.02
+1908,Los Angeles,Chile,12.55
+1909,Los Angeles,Chile,12.20
+1910,Los Angeles,Chile,11.78
+1911,Los Angeles,Chile,12.33
+1912,Los Angeles,Chile,12.52
+1913,Los Angeles,Chile,12.87
+1914,Los Angeles,Chile,12.40
+1915,Los Angeles,Chile,12.31
+1916,Los Angeles,Chile,11.91
+1917,Los Angeles,Chile,12.67
+1918,Los Angeles,Chile,12.19
+1919,Los Angeles,Chile,12.76
+1920,Los Angeles,Chile,12.47
+1921,Los Angeles,Chile,12.10
+1922,Los Angeles,Chile,12.41
+1923,Los Angeles,Chile,11.99
+1924,Los Angeles,Chile,12.46
+1925,Los Angeles,Chile,12.31
+1926,Los Angeles,Chile,12.77
+1927,Los Angeles,Chile,12.53
+1928,Los Angeles,Chile,12.31
+1929,Los Angeles,Chile,12.38
+1930,Los Angeles,Chile,13.29
+1931,Los Angeles,Chile,12.71
+1932,Los Angeles,Chile,12.83
+1933,Los Angeles,Chile,12.34
+1934,Los Angeles,Chile,12.44
+1935,Los Angeles,Chile,12.89
+1936,Los Angeles,Chile,12.53
+1937,Los Angeles,Chile,12.53
+1938,Los Angeles,Chile,12.09
+1939,Los Angeles,Chile,12.93
+1940,Los Angeles,Chile,13.08
+1941,Los Angeles,Chile,12.65
+1942,Los Angeles,Chile,12.73
+1943,Los Angeles,Chile,13.14
+1944,Los Angeles,Chile,13.15
+1945,Los Angeles,Chile,13.24
+1946,Los Angeles,Chile,12.70
+1947,Los Angeles,Chile,12.75
+1948,Los Angeles,Chile,12.58
+1949,Los Angeles,Chile,12.75
+1950,Los Angeles,Chile,12.62
+1951,Los Angeles,Chile,13.10
+1952,Los Angeles,Chile,13.21
+1953,Los Angeles,Chile,12.81
+1954,Los Angeles,Chile,12.61
+1955,Los Angeles,Chile,12.32
+1956,Los Angeles,Chile,12.49
+1957,Los Angeles,Chile,12.85
+1958,Los Angeles,Chile,12.90
+1959,Los Angeles,Chile,12.59
+1960,Los Angeles,Chile,13.15
+1961,Los Angeles,Chile,12.73
+1962,Los Angeles,Chile,13.10
+1963,Los Angeles,Chile,12.81
+1964,Los Angeles,Chile,12.72
+1965,Los Angeles,Chile,13.00
+1966,Los Angeles,Chile,12.54
+1967,Los Angeles,Chile,12.51
+1968,Los Angeles,Chile,13.14
+1969,Los Angeles,Chile,12.65
+1970,Los Angeles,Chile,12.70
+1971,Los Angeles,Chile,12.52
+1972,Los Angeles,Chile,12.87
+1973,Los Angeles,Chile,12.40
+1974,Los Angeles,Chile,12.38
+1975,Los Angeles,Chile,12.70
+1976,Los Angeles,Chile,12.57
+1977,Los Angeles,Chile,13.47
+1978,Los Angeles,Chile,13.34
+1979,Los Angeles,Chile,13.04
+1980,Los Angeles,Chile,13.29
+1981,Los Angeles,Chile,13.23
+1982,Los Angeles,Chile,13.34
+1983,Los Angeles,Chile,13.00
+1984,Los Angeles,Chile,12.57
+1985,Los Angeles,Chile,13.35
+1986,Los Angeles,Chile,13.04
+1987,Los Angeles,Chile,13.53
+1988,Los Angeles,Chile,12.81
+1989,Los Angeles,Chile,13.23
+1990,Los Angeles,Chile,12.88
+1991,Los Angeles,Chile,13.00
+1992,Los Angeles,Chile,12.93
+1993,Los Angeles,Chile,13.26
+1994,Los Angeles,Chile,13.42
+1995,Los Angeles,Chile,13.02
+1996,Los Angeles,Chile,13.16
+1997,Los Angeles,Chile,13.66
+1998,Los Angeles,Chile,13.19
+1999,Los Angeles,Chile,13.24
+2000,Los Angeles,Chile,12.99
+2001,Los Angeles,Chile,13.16
+2002,Los Angeles,Chile,12.95
+2003,Los Angeles,Chile,13.24
+2004,Los Angeles,Chile,13.44
+2005,Los Angeles,Chile,13.06
+2006,Los Angeles,Chile,13.19
+2007,Los Angeles,Chile,12.31
+2008,Los Angeles,Chile,13.69
+2009,Los Angeles,Chile,13.04
+2010,Los Angeles,Chile,12.69
+2011,Los Angeles,Chile,13.25
+2012,Los Angeles,Chile,13.48
+2013,Los Angeles,Chile,13.07
+1855,Santiago,Chile,2.57
+1856,Santiago,Chile,5.00
+1857,Santiago,Chile,5.10
+1858,Santiago,Chile,5.10
+1859,Santiago,Chile,5.60
+1860,Santiago,Chile,5.25
+1861,Santiago,Chile,4.84
+1862,Santiago,Chile,4.79
+1863,Santiago,Chile,4.51
+1864,Santiago,Chile,4.99
+1865,Santiago,Chile,5.45
+1866,Santiago,Chile,5.35
+1867,Santiago,Chile,5.07
+1868,Santiago,Chile,5.26
+1869,Santiago,Chile,4.95
+1870,Santiago,Chile,4.84
+1871,Santiago,Chile,4.65
+1872,Santiago,Chile,4.82
+1873,Santiago,Chile,5.21
+1874,Santiago,Chile,4.76
+1875,Santiago,Chile,5.01
+1876,Santiago,Chile,5.74
+1877,Santiago,Chile,6.34
+1878,Santiago,Chile,5.59
+1879,Santiago,Chile,5.90
+1880,Santiago,Chile,5.83
+1881,Santiago,Chile,5.17
+1882,Santiago,Chile,5.47
+1883,Santiago,Chile,5.10
+1884,Santiago,Chile,5.11
+1885,Santiago,Chile,4.74
+1886,Santiago,Chile,5.17
+1887,Santiago,Chile,5.41
+1888,Santiago,Chile,5.70
+1889,Santiago,Chile,4.51
+1890,Santiago,Chile,5.16
+1891,Santiago,Chile,5.57
+1892,Santiago,Chile,4.99
+1893,Santiago,Chile,4.97
+1894,Santiago,Chile,5.34
+1895,Santiago,Chile,5.54
+1896,Santiago,Chile,6.26
+1897,Santiago,Chile,5.69
+1898,Santiago,Chile,4.88
+1899,Santiago,Chile,5.93
+1900,Santiago,Chile,5.94
+1901,Santiago,Chile,5.78
+1902,Santiago,Chile,5.83
+1903,Santiago,Chile,5.44
+1904,Santiago,Chile,5.68
+1905,Santiago,Chile,5.66
+1906,Santiago,Chile,5.76
+1907,Santiago,Chile,5.11
+1908,Santiago,Chile,5.56
+1909,Santiago,Chile,5.27
+1910,Santiago,Chile,5.14
+1911,Santiago,Chile,5.19
+1912,Santiago,Chile,5.73
+1913,Santiago,Chile,6.23
+1914,Santiago,Chile,5.52
+1915,Santiago,Chile,5.78
+1916,Santiago,Chile,5.29
+1917,Santiago,Chile,5.56
+1918,Santiago,Chile,5.50
+1919,Santiago,Chile,5.91
+1920,Santiago,Chile,5.68
+1921,Santiago,Chile,5.27
+1922,Santiago,Chile,5.18
+1923,Santiago,Chile,5.07
+1924,Santiago,Chile,5.42
+1925,Santiago,Chile,5.83
+1926,Santiago,Chile,6.09
+1927,Santiago,Chile,5.78
+1928,Santiago,Chile,5.30
+1929,Santiago,Chile,5.76
+1930,Santiago,Chile,6.23
+1931,Santiago,Chile,5.48
+1932,Santiago,Chile,5.92
+1933,Santiago,Chile,5.58
+1934,Santiago,Chile,5.28
+1935,Santiago,Chile,5.77
+1936,Santiago,Chile,5.62
+1937,Santiago,Chile,5.65
+1938,Santiago,Chile,5.30
+1939,Santiago,Chile,5.95
+1940,Santiago,Chile,5.74
+1941,Santiago,Chile,5.50
+1942,Santiago,Chile,5.39
+1943,Santiago,Chile,5.74
+1944,Santiago,Chile,6.33
+1945,Santiago,Chile,6.29
+1946,Santiago,Chile,5.81
+1947,Santiago,Chile,5.92
+1948,Santiago,Chile,5.62
+1949,Santiago,Chile,5.63
+1950,Santiago,Chile,5.71
+1951,Santiago,Chile,6.04
+1952,Santiago,Chile,6.09
+1953,Santiago,Chile,6.00
+1954,Santiago,Chile,5.41
+1955,Santiago,Chile,5.11
+1956,Santiago,Chile,4.94
+1957,Santiago,Chile,5.74
+1958,Santiago,Chile,5.89
+1959,Santiago,Chile,5.64
+1960,Santiago,Chile,6.20
+1961,Santiago,Chile,6.16
+1962,Santiago,Chile,5.98
+1963,Santiago,Chile,5.63
+1964,Santiago,Chile,5.64
+1965,Santiago,Chile,6.05
+1966,Santiago,Chile,5.60
+1967,Santiago,Chile,5.71
+1968,Santiago,Chile,6.12
+1969,Santiago,Chile,6.39
+1970,Santiago,Chile,6.06
+1971,Santiago,Chile,5.87
+1972,Santiago,Chile,5.82
+1973,Santiago,Chile,5.53
+1974,Santiago,Chile,5.53
+1975,Santiago,Chile,5.71
+1976,Santiago,Chile,5.54
+1977,Santiago,Chile,6.55
+1978,Santiago,Chile,6.32
+1979,Santiago,Chile,5.91
+1980,Santiago,Chile,6.30
+1981,Santiago,Chile,6.31
+1982,Santiago,Chile,6.44
+1983,Santiago,Chile,5.89
+1984,Santiago,Chile,5.55
+1985,Santiago,Chile,6.34
+1986,Santiago,Chile,6.49
+1987,Santiago,Chile,6.40
+1988,Santiago,Chile,6.01
+1989,Santiago,Chile,6.59
+1990,Santiago,Chile,6.11
+1991,Santiago,Chile,6.37
+1992,Santiago,Chile,5.97
+1993,Santiago,Chile,6.16
+1994,Santiago,Chile,6.70
+1995,Santiago,Chile,6.40
+1996,Santiago,Chile,6.26
+1997,Santiago,Chile,6.80
+1998,Santiago,Chile,6.28
+1999,Santiago,Chile,5.93
+2000,Santiago,Chile,5.95
+2001,Santiago,Chile,6.41
+2002,Santiago,Chile,6.25
+2003,Santiago,Chile,6.77
+2004,Santiago,Chile,6.32
+2005,Santiago,Chile,6.22
+2006,Santiago,Chile,6.84
+2007,Santiago,Chile,5.51
+2008,Santiago,Chile,6.57
+2009,Santiago,Chile,6.70
+2010,Santiago,Chile,6.13
+2011,Santiago,Chile,6.27
+2012,Santiago,Chile,6.82
+2013,Santiago,Chile,5.94
