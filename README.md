@@ -1,2 +1,2 @@
 # Udacity
- Lectures and some other for the Data Analysis Nanodegree
+ Lectures and some others for the Data Analysis Nanodegree
