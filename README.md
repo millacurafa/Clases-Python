@@ -1,6 +1,6 @@
 # Udacity Data Analysis Nanodegree
 
-Welcome to the repository for the Udacity Data Analysis Nanodegree! This repository contains lectures and other resources related to the Data Analysis Nanodegree program offered by Udacity.
+Welcome to the repository for the Udacity Data Analysis Nanodegree! (created by Felipe Millacura). This repository contains lectures and other resources related to the Data Analysis Nanodegree program offered by Udacity.
 
 ## Overview
 
